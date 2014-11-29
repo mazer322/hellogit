@@ -1,0 +1,108 @@
+[(New Ensemble)]
+Range=0
+ExWizDisp=1
+[Wind Ensemble]
+InstNames=Piccolo,Flute,Oboe,English Horn,Bassoon,Clarinet in Eb,Clarinet in Bb,Alto Clarinet,Bass Clarinet,Alto Sax.,Tenor Sax.,Baritone Sax.,Trumpet in Bb,Horn in F,Trombone,Baritone (T.C.),Baritone,Tuba,Contrabass,Bells
+InstCopies=1,4,2,1,2,1,4,2,1,2,1,1,5,4,4,1,1,2,4
+Range=0
+ExWizDisp=1
+InstIDs=7423e6af-ab6f-41a4-832f-ffc6453c6bb5,2575136d-9927-47bd-a727-f554c169257e,172a455a-d1b9-4a03-aa80-c863d587f209,e4fc7b0a-5cd3-445b-ae1f-776764513741,ec6fcc9b-d539-4a4a-a677-92a37298fec1,7e83467b-162e-4f30-b4a6-18a6d8beb202,a16af0c1-8df8-476d-8d74-0d6e1972846b,6c186f89-5f5d-45ea-ab13-26e4bf267d80,40d3efff-30c3-4fd7-b830-03907360feed,4cb4cfa1-0b19-4053-8bf5-6b2cb0a2363b,7093ddd4-385c-481d-ab3d-39f03bc03b19,8f767980-0718-4154-a312-20f458ee2096,69e76d62-3913-4e4a-bb6f-6c05be22abf8,616b3bf9-58df-4b44-8339-9f66461ac910,157d105d-c3a4-49ab-98ab-2b46102aa3dc,3900022b-ae13-4520-8432-1a212d36b6f7,25f31945-528f-492c-8dc4-67751136ace1,9b2b7b02-f914-4e75-82d5-6fcc18843516,4ee42d49-7ad7-4b81-bfdb-8b740f7edc9a
+[Concert Band]
+InstNames=Piccolo,Flute,Oboe,English Horn,Bassoon,Clarinet in Eb,Clarinet in Bb,Alto Clarinet,Bass Clarinet,Alto Sax.,Tenor Sax.,Baritone Sax.,Trumpet in Bb,Horn in F,Trombone,Baritone (T.C.),Baritone,Tuba,Contrabass,Bells
+InstCopies=1,8,2,1,2,1,8,2,1,2,1,1,8,6,4,2,2,3,5
+Range=0
+ExWizDisp=1
+InstIDs=7423e6af-ab6f-41a4-832f-ffc6453c6bb5,2575136d-9927-47bd-a727-f554c169257e,172a455a-d1b9-4a03-aa80-c863d587f209,e4fc7b0a-5cd3-445b-ae1f-776764513741,ec6fcc9b-d539-4a4a-a677-92a37298fec1,7e83467b-162e-4f30-b4a6-18a6d8beb202,a16af0c1-8df8-476d-8d74-0d6e1972846b,6c186f89-5f5d-45ea-ab13-26e4bf267d80,40d3efff-30c3-4fd7-b830-03907360feed,4cb4cfa1-0b19-4053-8bf5-6b2cb0a2363b,7093ddd4-385c-481d-ab3d-39f03bc03b19,8f767980-0718-4154-a312-20f458ee2096,69e76d62-3913-4e4a-bb6f-6c05be22abf8,616b3bf9-58df-4b44-8339-9f66461ac910,157d105d-c3a4-49ab-98ab-2b46102aa3dc,3900022b-ae13-4520-8432-1a212d36b6f7,25f31945-528f-492c-8dc4-67751136ace1,9b2b7b02-f914-4e75-82d5-6fcc18843516,4ee42d49-7ad7-4b81-bfdb-8b740f7edc9a
+[Symphonic Band]
+InstNames=Piccolo,Flute,Oboe,English Horn,Bassoon,Clarinet in Eb,Clarinet in Bb,Alto Clarinet,Bass Clarinet,Alto Sax.,Tenor Sax.,Baritone Sax.,Trumpet in Bb,Horn in F,Trombone,Baritone (T.C.),Baritone,Tuba,Bells
+InstCopies=1,10,4,1,2,1,8,2,1,4,2,1,10,8,6,2,2,6,6
+Range=0
+ExWizDisp=1
+InstIDs=7423e6af-ab6f-41a4-832f-ffc6453c6bb5,2575136d-9927-47bd-a727-f554c169257e,172a455a-d1b9-4a03-aa80-c863d587f209,e4fc7b0a-5cd3-445b-ae1f-776764513741,ec6fcc9b-d539-4a4a-a677-92a37298fec1,7e83467b-162e-4f30-b4a6-18a6d8beb202,a16af0c1-8df8-476d-8d74-0d6e1972846b,6c186f89-5f5d-45ea-ab13-26e4bf267d80,40d3efff-30c3-4fd7-b830-03907360feed,4cb4cfa1-0b19-4053-8bf5-6b2cb0a2363b,7093ddd4-385c-481d-ab3d-39f03bc03b19,8f767980-0718-4154-a312-20f458ee2096,69e76d62-3913-4e4a-bb6f-6c05be22abf8,616b3bf9-58df-4b44-8339-9f66461ac910,157d105d-c3a4-49ab-98ab-2b46102aa3dc,3900022b-ae13-4520-8432-1a212d36b6f7,25f31945-528f-492c-8dc4-67751136ace1,9b2b7b02-f914-4e75-82d5-6fcc18843516,4ee42d49-7ad7-4b81-bfdb-8b740f7edc9a
+[Jazz Ensemble]
+InstNames=Alto Sax.,Tenor Sax.,Baritone Sax.,Trumpet in Bb,Trombone,Guitar,Electric Bass
+InstCopies=2,2,1,5,4,1,1
+Range=0
+ExWizDisp=1
+InstIDs=4cb4cfa1-0b19-4053-8bf5-6b2cb0a2363b,7093ddd4-385c-481d-ab3d-39f03bc03b19,8f767980-0718-4154-a312-20f458ee2096,69e76d62-3913-4e4a-bb6f-6c05be22abf8,157d105d-c3a4-49ab-98ab-2b46102aa3dc,5e1996eb-40ab-4a92-9a0b-888b93a84c2c,c9f445ac-93b0-4007-9101-65a167d38dd5
+[Full Orchestra]
+InstNames=Piccolo,Flute,Oboe,English Horn,Bassoon,Clarinet in Eb,Clarinet in Bb,Horn in F,Trumpet in Bb,Trombone,Tuba,Bells,Violin,Viola,Cello,Contrabass
+InstCopies=1,2,2,1,2,1,1,4,3,3,1,1,16,6,8
+Range=0
+ExWizDisp=1
+InstIDs=7423e6af-ab6f-41a4-832f-ffc6453c6bb5,2575136d-9927-47bd-a727-f554c169257e,172a455a-d1b9-4a03-aa80-c863d587f209,e4fc7b0a-5cd3-445b-ae1f-776764513741,ec6fcc9b-d539-4a4a-a677-92a37298fec1,7e83467b-162e-4f30-b4a6-18a6d8beb202,a16af0c1-8df8-476d-8d74-0d6e1972846b,616b3bf9-58df-4b44-8339-9f66461ac910,69e76d62-3913-4e4a-bb6f-6c05be22abf8,157d105d-c3a4-49ab-98ab-2b46102aa3dc,9b2b7b02-f914-4e75-82d5-6fcc18843516,4ee42d49-7ad7-4b81-bfdb-8b740f7edc9a,5bab3582-2dbd-4864-baa9-b022efd075ad,5a55eca7-40f5-454b-b920-c8879fa03bcc,255c105e-78a1-4c78-8755-8febc86d0f43
+[Chamber Orchestra]
+InstNames=Flute,Oboe,Bassoon,Clarinet in Bb,Horn in F,Trumpet in Bb,Violin,Viola,Cello,Contrabass
+InstCopies=2,2,2,2,2,2,8,8,8
+Range=0
+ExWizDisp=1
+InstIDs=2575136d-9927-47bd-a727-f554c169257e,172a455a-d1b9-4a03-aa80-c863d587f209,ec6fcc9b-d539-4a4a-a677-92a37298fec1,a16af0c1-8df8-476d-8d74-0d6e1972846b,616b3bf9-58df-4b44-8339-9f66461ac910,69e76d62-3913-4e4a-bb6f-6c05be22abf8,5bab3582-2dbd-4864-baa9-b022efd075ad,5a55eca7-40f5-454b-b920-c8879fa03bcc,255c105e-78a1-4c78-8755-8febc86d0f43
+[Mixed Chorus]
+InstNames=Soprano,Alto,Tenor,Bass (Vocal)
+InstCopies=10,10,10,10
+Range=0
+ExWizDisp=1
+InstIDs=b35a14d8-c981-4b8a-a7e4-9a2f8f6be99a,ab3fc62c-9de9-4018-adf7-58a9d4441a1a,03844f81-9f10-431d-813c-659d7533b794,e9a8eb68-25a0-4c9b-81a1-6e0517ca15be
+[Women's Chorus]
+InstNames=Soprano,Alto
+InstCopies=20,20
+Range=0
+ExWizDisp=1
+InstIDs=b35a14d8-c981-4b8a-a7e4-9a2f8f6be99a,ab3fc62c-9de9-4018-adf7-58a9d4441a1a
+[Men's Chorus]
+InstNames=Tenor,Bass (Vocal)
+InstCopies=20,20
+Range=0
+ExWizDisp=1
+InstIDs=03844f81-9f10-431d-813c-659d7533b794,e9a8eb68-25a0-4c9b-81a1-6e0517ca15be
+[GRP:None]
+Name=Create New Ensemble
+HaveVst=0
+ORD:=Orchestral
+[GRP:SATB+Piano]
+Name=SATB+Piano
+ORD:=Choral
+InstIDs=b35a14d8-c981-4b8a-a7e4-9a2f8f6be99a,ab3fc62c-9de9-4018-adf7-58a9d4441a1a,03844f81-9f10-431d-813c-659d7533b794,e9a8eb68-25a0-4c9b-81a1-6e0517ca15be,,776a2734-3f38-4cac-8fa2-90e62b368ec1
+[GRP:Brass Trio]
+Name=Brass Trio
+ORD:=Concert Band
+InstIDs=69e76d62-3913-4e4a-bb6f-6c05be22abf8,616b3bf9-58df-4b44-8339-9f66461ac910,157d105d-c3a4-49ab-98ab-2b46102aa3dc
+[GRP:Brass Quintet]
+Name=Brass Quintet
+ORD:=Concert Band
+InstIDs=69e76d62-3913-4e4a-bb6f-6c05be22abf8,69e76d62-3913-4e4a-bb6f-6c05be22abf8,616b3bf9-58df-4b44-8339-9f66461ac910,157d105d-c3a4-49ab-98ab-2b46102aa3dc,9b2b7b02-f914-4e75-82d5-6fcc18843516
+[GRP:Brass Choir]
+Name=Brass Choir
+ORD:=Concert Band
+InstIDs=69e76d62-3913-4e4a-bb6f-6c05be22abf8,69e76d62-3913-4e4a-bb6f-6c05be22abf8,69e76d62-3913-4e4a-bb6f-6c05be22abf8,,616b3bf9-58df-4b44-8339-9f66461ac910,616b3bf9-58df-4b44-8339-9f66461ac910,616b3bf9-58df-4b44-8339-9f66461ac910,616b3bf9-58df-4b44-8339-9f66461ac910,,157d105d-c3a4-49ab-98ab-2b46102aa3dc,157d105d-c3a4-49ab-98ab-2b46102aa3dc,0456b832-8192-4e9c-8606-4983e3064abd,,c4b56ec1-51d3-4f98-b740-7d613dd893f9,9b2b7b02-f914-4e75-82d5-6fcc18843516
+[GRP:Jazz Band]
+Name=Jazz Band
+ORD:=Jazz Band
+InstIDs=4cb4cfa1-0b19-4053-8bf5-6b2cb0a2363b,4cb4cfa1-0b19-4053-8bf5-6b2cb0a2363b,7093ddd4-385c-481d-ab3d-39f03bc03b19,7093ddd4-385c-481d-ab3d-39f03bc03b19,8f767980-0718-4154-a312-20f458ee2096,69e76d62-3913-4e4a-bb6f-6c05be22abf8,69e76d62-3913-4e4a-bb6f-6c05be22abf8,69e76d62-3913-4e4a-bb6f-6c05be22abf8,69e76d62-3913-4e4a-bb6f-6c05be22abf8,157d105d-c3a4-49ab-98ab-2b46102aa3dc,157d105d-c3a4-49ab-98ab-2b46102aa3dc,157d105d-c3a4-49ab-98ab-2b46102aa3dc,157d105d-c3a4-49ab-98ab-2b46102aa3dc,5e1996eb-40ab-4a92-9a0b-888b93a84c2c,776a2734-3f38-4cac-8fa2-90e62b368ec1,e2c49784-685f-45ae-8c3a-4985d24346cf,a0445938-cf1d-45cb-97d2-faad040fd0ff
+[GRP:Concert Band (Full)]
+Name=Concert Band (Full)
+ORD:=Concert Band
+InstIDs=7423e6af-ab6f-41a4-832f-ffc6453c6bb5,2575136d-9927-47bd-a727-f554c169257e,172a455a-d1b9-4a03-aa80-c863d587f209,e4fc7b0a-5cd3-445b-ae1f-776764513741,ec6fcc9b-d539-4a4a-a677-92a37298fec1,ec6fcc9b-d539-4a4a-a677-92a37298fec1,7e83467b-162e-4f30-b4a6-18a6d8beb202,a16af0c1-8df8-476d-8d74-0d6e1972846b,a16af0c1-8df8-476d-8d74-0d6e1972846b,6c186f89-5f5d-45ea-ab13-26e4bf267d80,40d3efff-30c3-4fd7-b830-03907360feed,0d158020-9bf8-4d56-b62c-a6f0bf5f4ccf,4cb4cfa1-0b19-4053-8bf5-6b2cb0a2363b,7093ddd4-385c-481d-ab3d-39f03bc03b19,8f767980-0718-4154-a312-20f458ee2096,61131353-ade8-46e0-98fa-6c682ca1b5ae,776a2734-3f38-4cac-8fa2-90e62b368ec1,65df77cf-fc66-4211-83a3-606d15471281,65df77cf-fc66-4211-83a3-606d15471281,69e76d62-3913-4e4a-bb6f-6c05be22abf8,69e76d62-3913-4e4a-bb6f-6c05be22abf8,616b3bf9-58df-4b44-8339-9f66461ac910,616b3bf9-58df-4b44-8339-9f66461ac910,157d105d-c3a4-49ab-98ab-2b46102aa3dc,0456b832-8192-4e9c-8606-4983e3064abd,c4b56ec1-51d3-4f98-b740-7d613dd893f9,9b2b7b02-f914-4e75-82d5-6fcc18843516,059784fb-9d88-4a78-bd2d-09fe393496e5,65e80359-f9ee-4afc-8ba5-213187a1b5a4,65e80359-f9ee-4afc-8ba5-213187a1b5a4,65e80359-f9ee-4afc-8ba5-213187a1b5a4
+[GRP:Woodwind Trio]
+Name=Woodwind Trio
+ORD:=Concert Band
+InstIDs=2575136d-9927-47bd-a727-f554c169257e,172a455a-d1b9-4a03-aa80-c863d587f209,ec6fcc9b-d539-4a4a-a677-92a37298fec1
+[GRP:Woodwind Quintet]
+Name=Woodwind Quintet
+InstIDs=2575136d-9927-47bd-a727-f554c169257e,172a455a-d1b9-4a03-aa80-c863d587f209,a16af0c1-8df8-476d-8d74-0d6e1972846b,6cc5f057-3980-4562-b9a4-257403d17e96,ec6fcc9b-d539-4a4a-a677-92a37298fec1
+ORD:=Custom
+[GRP:Woodwind Choir]
+Name=Woodwind Choir
+ORD:=Concert Band
+InstIDs=2575136d-9927-47bd-a727-f554c169257e,2575136d-9927-47bd-a727-f554c169257e,172a455a-d1b9-4a03-aa80-c863d587f209,ec6fcc9b-d539-4a4a-a677-92a37298fec1,a16af0c1-8df8-476d-8d74-0d6e1972846b,a16af0c1-8df8-476d-8d74-0d6e1972846b,a16af0c1-8df8-476d-8d74-0d6e1972846b,6c186f89-5f5d-45ea-ab13-26e4bf267d80,40d3efff-30c3-4fd7-b830-03907360feed,4cb4cfa1-0b19-4053-8bf5-6b2cb0a2363b,7093ddd4-385c-481d-ab3d-39f03bc03b19,8f767980-0718-4154-a312-20f458ee2096
+[GRP:String Quartet]
+Name=String Quartet
+InstIDs=29d81c10-dfed-42e4-8d93-64af7d6d5689,29d81c10-dfed-42e4-8d93-64af7d6d5689,992dcb2b-64a2-454b-b043-2a530d24fc18,33894688-c326-4f8f-b4e2-7a08745e7bcc
+ORD:=Orchestral
+[GRP:Orchestra (String)]
+Name=Orchestra (String)
+InstIDs=5bab3582-2dbd-4864-baa9-b022efd075ad,5bab3582-2dbd-4864-baa9-b022efd075ad,5a55eca7-40f5-454b-b920-c8879fa03bcc,255c105e-78a1-4c78-8755-8febc86d0f43,639064b2-b067-4c4a-a114-392c1ef6ebd8
+[GRP:Orchestra (Full)]
+Name=Orchestra (Full)
+InstIDs=7423e6af-ab6f-41a4-832f-ffc6453c6bb5,2575136d-9927-47bd-a727-f554c169257e,2575136d-9927-47bd-a727-f554c169257e,172a455a-d1b9-4a03-aa80-c863d587f209,e4fc7b0a-5cd3-445b-ae1f-776764513741,7e83467b-162e-4f30-b4a6-18a6d8beb202,a16af0c1-8df8-476d-8d74-0d6e1972846b,a16af0c1-8df8-476d-8d74-0d6e1972846b,40d3efff-30c3-4fd7-b830-03907360feed,ec6fcc9b-d539-4a4a-a677-92a37298fec1,ec6fcc9b-d539-4a4a-a677-92a37298fec1,0d158020-9bf8-4d56-b62c-a6f0bf5f4ccf,616b3bf9-58df-4b44-8339-9f66461ac910,616b3bf9-58df-4b44-8339-9f66461ac910,f0458710-e401-4a33-a9a7-bff5b24006df,f0458710-e401-4a33-a9a7-bff5b24006df,157d105d-c3a4-49ab-98ab-2b46102aa3dc,157d105d-c3a4-49ab-98ab-2b46102aa3dc,9b2b7b02-f914-4e75-82d5-6fcc18843516,059784fb-9d88-4a78-bd2d-09fe393496e5,65e80359-f9ee-4afc-8ba5-213187a1b5a4,61131353-ade8-46e0-98fa-6c682ca1b5ae,776a2734-3f38-4cac-8fa2-90e62b368ec1,,5bab3582-2dbd-4864-baa9-b022efd075ad,5bab3582-2dbd-4864-baa9-b022efd075ad,5a55eca7-40f5-454b-b920-c8879fa03bcc,255c105e-78a1-4c78-8755-8febc86d0f43,639064b2-b067-4c4a-a114-392c1ef6ebd8
+ORD:=Orchestral

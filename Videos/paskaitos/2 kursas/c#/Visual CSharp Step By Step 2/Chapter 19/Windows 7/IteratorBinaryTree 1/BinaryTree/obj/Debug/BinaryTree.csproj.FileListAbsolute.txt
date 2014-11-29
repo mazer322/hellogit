@@ -1,0 +1,4 @@
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 19\Windows 7\IteratorBinaryTree - Complete\BinaryTree\bin\Debug\BinaryTree.dll
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 19\Windows 7\IteratorBinaryTree - Complete\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 19\Windows 7\IteratorBinaryTree - Complete\BinaryTree\obj\Debug\BinaryTree.dll
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 19\Windows 7\IteratorBinaryTree - Complete\BinaryTree\obj\Debug\BinaryTree.pdb

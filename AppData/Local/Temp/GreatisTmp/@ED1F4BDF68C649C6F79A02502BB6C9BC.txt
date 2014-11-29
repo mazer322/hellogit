@@ -1,0 +1,78 @@
+VSETWSERVICE.EXE
+Default location: C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 12.0\COMMON7\PACKAGES\DEBUGGER\SERVICES\VSETWSERVICE.EXE
+MD5: ED1F4BDF68C649C6F79A02502BB6C9BC
+SHA1: CBA0B565 F76841BE 28595C7C 354FD140 1997B8AE
+File Size: 89 232
+
+Version Info:
+OriginalFilename: VsEtwService.exe
+FileDescription: Visual Studio Debugger ETW Service
+InternalName: VsEtwService.exe
+CompanyName: Microsoft Corporation
+FileVersion: 12.0.30723.0 built by: REL
+LegalCopyright: c Microsoft Corporation. All rights reserved.
+ProductName: Microsoftr Visual Studior 2013
+ProductVersion: 12.0.30723.0
+
+PE Info of the C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 12.0\COMMON7\PACKAGES\DEBUGGER\SERVICES\VSETWSERVICE.EXE:
+
+Type is Windows console application.
+DOS-stub: 248 bytes
+built for machine: unknown processor: 8664
+  (non-32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+0 entries in symbol table
+6 sections
+created (GMT): Wed Jul 23 03:15:00 2014
+Linker version: 12.0
+.text start:   0x1000, length:  39936 bytes
+.data start: 0x40000000, length:  32256 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at      0x8d10
+Preferred load base is      0x1
+Image size in RAM: 88 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 6.0, Win32 6.0, App 10.0
+Checksum: 0x000189a5
+uses Win32 console subsystem
+Stack: 1024 KB reserved,   0 KB committed
+Heap:    8 KB reserved,   0 KB committed
+Size of headers / offset to sections in file: 0x400
+
+"" (virt. Size/Address: 0x0)
+  2019914798 bytes at offset      0x0 in RAM,     0x74 in file
+    default alignment (16 bytes)
+    at offset 0x8d10: execution start
+
+"" (virt. Size/Address: 0x0)
+  1633972782 bytes at offset 0x60000020 in RAM,   0x6174 in file
+    ? far data ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1952539694 bytes at offset 0x40000040 in RAM,     0x61 in file
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1633972270 bytes at offset 0xc0000040 in RAM,   0x6174 in file
+    contents will not become part of image
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1920168494 bytes at offset 0x40000040 in RAM,     0x63 in file
+    contents is COMDAT (common block data, packaged functions)
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1818587694 bytes at offset 0x40000040 in RAM,   0x636f in file
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    default alignment (16 bytes)
+
+Entropy = 6.1959
+
+Entropy: 6.19588

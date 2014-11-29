@@ -1,0 +1,144 @@
+ATIKMDAG.SYS
+Default location: C:\WINDOWS\SYSTEM32\DRIVERS\ATIKMDAG.SYS
+MD5: B8660FB5431F136635FB6446AC67FAAE
+SHA1: 406558DF 60C2CB0C 38830382 ECDDC68D 7042072F
+File Size: 7 877 120
+
+Version Info:
+OriginalFilename: atikmdag.sys
+FileDescription: ATI Radeon Kernel Mode Driver
+InternalName: atikmdag.sys
+CompanyName: ATI Technologies Inc.
+FileVersion: 8.01.01.1081
+LegalCopyright: Copyright (C) 1998-2006 ATI Technologies Inc.
+ProductName: ATI Radeon Family
+ProductVersion: 8.01.01.1081
+
+PE Info of the C:\WINDOWS\SYSTEM32\DRIVERS\ATIKMDAG.SYS:
+
+Type is native.
+DOS-stub: 280 bytes
+built for machine: unknown processor: 8664
+  (non-32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+0 entries in symbol table
+13 sections
+created (GMT): Thu Oct 28 15:34:12 2010
+Linker version: 9.0
+.text start:   0x1000, length: 4431360 bytes
+.data start:  0x10000, length: 3752448 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at     0x28400
+Preferred load base is      0x0
+Image size in RAM: 8016 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 6.1, Win32 6.1, App 6.1
+Checksum: 0x00793152
+uses no subsystem
+Stack: 256 KB reserved,   0 KB committed
+Heap:    4 KB reserved,   0 KB committed
+Size of headers / offset to sections in file: 0x600
+
+"" (virt. Size/Address: 0x0)
+  2019914798 bytes at offset      0x0 in RAM,     0x74 in file
+    contains comments / information
+    default alignment (16 bytes)
+    at offset 0x28400: execution start
+
+"" (virt. Size/Address: 0x0)
+  1702131551 bytes at offset 0xe8000020 in RAM,   0x7478 in file
+    contains comments / information
+    contents is COMDAT (common block data, packaged functions)
+    purgeable
+    ? 16-bit-section ?
+    8-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1633972782 bytes at offset 0xe8000020 in RAM,   0x6174 in file
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    purgeable
+    ? 16-bit-section ?
+    8-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1952539694 bytes at offset 0xc8000040 in RAM,     0x61 in file
+    contents is COMDAT (common block data, packaged functions)
+    1-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1633972270 bytes at offset 0xe8000040 in RAM,   0x6174 in file
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    locked in memory
+    preload
+    2-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1162297680 bytes at offset 0x48000040 in RAM, 0x4d4f435f in file
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    1-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1162297680 bytes at offset 0x60000020 in RAM, 0x494e495f in file
+    ? far data ?
+    1-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1162297680 bytes at offset 0x60000020 in RAM, 0x4344445f in file
+    contents will not become part of image
+    ? far data ?
+    1-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1162297680 bytes at offset 0x60000020 in RAM,      0x0 in file
+    contains comments / information
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    1-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1162297680 bytes at offset 0x60000020 in RAM,      0x0 in file
+    contains comments / information
+    contents is COMDAT (common block data, packaged functions)
+    purgeable
+    ? 16-bit-section ?
+    1-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1414090313 bytes at offset 0xc0000040 in RAM,      0x0 in file
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    purgeable
+    ? 16-bit-section ?
+    locked in memory
+    1-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1920168494 bytes at offset 0xe0000020 in RAM,     0x63 in file
+    contains comments / information
+    contents will not become part of image
+    ? far data ?
+    purgeable
+    ? 16-bit-section ?
+    locked in memory
+    1-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1818587694 bytes at offset 0x42000040 in RAM,   0x636f in file
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    purgeable
+    ? 16-bit-section ?
+    locked in memory
+    1-byte-alignment
+
+Entropy = 6.4592
+
+Entropy: 6.45922

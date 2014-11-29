@@ -1,0 +1,89 @@
+MSCORSVW.EXE
+Default location: C:\WINDOWS\MICROSOFT.NET\FRAMEWORK64\V4.0.30319\MSCORSVW.EXE
+MD5: 9ACBE5EC13C2CC95833BFB7636CA8B1A
+SHA1: 2E740160 F23AC970 5C9CBFB7 76198D16 A5114310
+File Size: 124 088
+
+Version Info:
+OriginalFilename: mscorsvw.exe
+FileDescription: .NET Runtime Optimization Service
+InternalName: mscorsvw.exe
+CompanyName: Microsoft Corporation
+FileVersion: 4.0.30319.34209 built by: FX452RTMGDR
+LegalCopyright: c Microsoft Corporation.  All rights reserved.
+PrivateBuild: DDBLD104
+ProductName: Microsoftr .NET Framework
+ProductVersion: 4.0.30319.34209
+
+PE Info of the C:\WINDOWS\MICROSOFT.NET\FRAMEWORK64\V4.0.30319\MSCORSVW.EXE:
+
+Type is Windows GUI.
+DOS-stub: 256 bytes
+built for machine: unknown processor: 8664
+  (non-32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+0 entries in symbol table
+6 sections
+created (GMT): Sat Apr 12 02:05:04 2014
+Linker version: 11.0
+.text start:   0x1000, length:  60928 bytes
+.data start: 0x40000000, length:  50176 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at      0x1e68
+Preferred load base is      0x1
+Image size in RAM: 124 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 6.0, Win32 6.0, App 10.0
+Checksum: 0x00026ffd
+uses Win32 graphical subsystem
+Stack: 1024 KB reserved,   0 KB committed
+Heap:  256 KB reserved,   0 KB committed
+Size of headers / offset to sections in file: 0x400
+
+"" (virt. Size/Address: 0x0)
+  2019914798 bytes at offset      0x0 in RAM,     0x74 in file
+    default alignment (16 bytes)
+    at offset 0x1e68: execution start
+
+"" (virt. Size/Address: 0x0)
+  1633972782 bytes at offset 0x60000020 in RAM,   0x6174 in file
+    contains comments / information
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1952539694 bytes at offset 0x40000040 in RAM,     0x61 in file
+    contains comments / information
+    contents will not become part of image
+    ? far data ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1633972270 bytes at offset 0xc0000040 in RAM,   0x6174 in file
+    contains comments / information
+    contents will not become part of image
+    ? far data ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1920168494 bytes at offset 0x40000040 in RAM,     0x63 in file
+    contains comments / information
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1818587694 bytes at offset 0x40000040 in RAM,   0x636f in file
+    contains comments / information
+    ? far data ?
+    default alignment (16 bytes)
+
+Entropy = 6.1627
+
+Entropy: 6.16274

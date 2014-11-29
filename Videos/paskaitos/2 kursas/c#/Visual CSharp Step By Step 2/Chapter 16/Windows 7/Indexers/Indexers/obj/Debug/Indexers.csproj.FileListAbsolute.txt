@@ -1,0 +1,13 @@
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 16\Windows 7\Indexers\Indexers\bin\Debug\Indexers.exe.config
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 16\Windows 7\Indexers\Indexers\bin\Debug\Indexers.exe
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 16\Windows 7\Indexers\Indexers\bin\Debug\Indexers.pdb
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 16\Windows 7\Indexers\Indexers\obj\Debug\Indexers.csprojResolveAssemblyReference.cache
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 16\Windows 7\Indexers\Indexers\obj\Debug\MainWindow.baml
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 16\Windows 7\Indexers\Indexers\obj\Debug\MainWindow.g.cs
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 16\Windows 7\Indexers\Indexers\obj\Debug\App.g.cs
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 16\Windows 7\Indexers\Indexers\obj\Debug\Indexers_MarkupCompile.cache
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 16\Windows 7\Indexers\Indexers\obj\Debug\Indexers.g.resources
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 16\Windows 7\Indexers\Indexers\obj\Debug\Indexers.Properties.Resources.resources
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 16\Windows 7\Indexers\Indexers\obj\Debug\Indexers.csproj.GenerateResource.Cache
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 16\Windows 7\Indexers\Indexers\obj\Debug\Indexers.exe
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 16\Windows 7\Indexers\Indexers\obj\Debug\Indexers.pdb

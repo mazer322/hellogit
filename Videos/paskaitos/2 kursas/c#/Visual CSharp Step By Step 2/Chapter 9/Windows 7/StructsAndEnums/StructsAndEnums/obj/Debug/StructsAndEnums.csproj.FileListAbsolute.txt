@@ -1,0 +1,7 @@
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 9\Windows 7\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.exe
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 9\Windows 7\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.pdb
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 9\Windows 7\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.csprojResolveAssemblyReference.cache
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 9\Windows 7\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.Properties.Resources.resources
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 9\Windows 7\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.csproj.GenerateResource.Cache
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 9\Windows 7\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.exe
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 9\Windows 7\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.pdb

@@ -1,0 +1,13 @@
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 2\Windows 7\MathsOperators - Complete\MathsOperators\bin\Debug\MathsOperators.exe.config
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 2\Windows 7\MathsOperators - Complete\MathsOperators\bin\Debug\MathsOperators.exe
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 2\Windows 7\MathsOperators - Complete\MathsOperators\bin\Debug\MathsOperators.pdb
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 2\Windows 7\MathsOperators - Complete\MathsOperators\obj\Debug\MathsOperators.csprojResolveAssemblyReference.cache
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 2\Windows 7\MathsOperators - Complete\MathsOperators\obj\Debug\MainWindow.baml
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 2\Windows 7\MathsOperators - Complete\MathsOperators\obj\Debug\MainWindow.g.cs
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 2\Windows 7\MathsOperators - Complete\MathsOperators\obj\Debug\App.g.cs
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 2\Windows 7\MathsOperators - Complete\MathsOperators\obj\Debug\MathsOperators_MarkupCompile.cache
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 2\Windows 7\MathsOperators - Complete\MathsOperators\obj\Debug\MathsOperators.g.resources
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 2\Windows 7\MathsOperators - Complete\MathsOperators\obj\Debug\MathsOperators.Properties.Resources.resources
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 2\Windows 7\MathsOperators - Complete\MathsOperators\obj\Debug\MathsOperators.csproj.GenerateResource.Cache
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 2\Windows 7\MathsOperators - Complete\MathsOperators\obj\Debug\MathsOperators.exe
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 2\Windows 7\MathsOperators - Complete\MathsOperators\obj\Debug\MathsOperators.pdb

@@ -1,0 +1,69 @@
+[INFO ] 2014-Sep-08 19:14:01 Pre-log:
+src\main.cpp:370: Starting main()
+src\main.cpp:373: Initializing user settings system
+src\main.cpp:376: Retrieving log filename
+src\main.cpp:381: log filename: C:\Users\winddragon\AppData\Roaming\Synthesia\log.txt
+src\main.cpp:382: Constructing dynamic portion of popup error box message
+src\main.cpp:386: Initializing logger
+
+[INFO ] 2014-Sep-08 19:14:01 src\SimpleSettings.cpp:187: Loading settings list.
+[INFO ] 2014-Sep-08 19:14:01 src\main.cpp:400: Starting Synthesia 0.8.3 - r1732
+[INFO ] 2014-Sep-08 19:14:01 src\main.cpp:401: Built Apr  6 2012 08:39:00
+[INFO ] 2014-Sep-08 19:14:01 src\main.cpp:405: Running in Windows Vista.
+[INFO ] 2014-Sep-08 19:14:01 src\main.cpp:419: Command line: '"C:\games\Synthesia\Synthesia.exe" '
+[INFO ] 2014-Sep-08 19:14:01 src\main.cpp:448: Attempting to process the command line.
+[INFO ] 2014-Sep-08 19:14:01 src\main.cpp:476: Initializing HTTP services
+[INFO ] 2014-Sep-08 19:14:01 src\main.cpp:487: Creating shared state.
+[INFO ] 2014-Sep-08 19:14:01 src\SharedState.cpp:236: Loading track settings file.
+[INFO ] 2014-Sep-08 19:14:01 src\SharedState.cpp:244: Loading bookmark settings file.
+[INFO ] 2014-Sep-08 19:14:01 src\SharedState.cpp:252: Loading saved scores file.
+[INFO ] 2014-Sep-08 19:14:01 src\SharedState.cpp:260: Loading users.
+[INFO ] 2014-Sep-08 19:14:02 src\SharedState.cpp:268: Loading song progress cache.
+[INFO ] 2014-Sep-08 19:14:02 src\SharedState.cpp:277: Loading devices.
+[INFO ] 2014-Sep-08 19:14:02 src\SharedState.cpp:286: Loading song info.
+[INFO ] 2014-Sep-08 19:14:02 src\SharedState.cpp:295: Loading watched folder list.
+[INFO ] 2014-Sep-08 19:14:02 src\SharedState.cpp:304: Loading local auto-saved finger list.
+[INFO ] 2014-Sep-08 19:14:02 src\SharedState.cpp:313: Loading default input bindings.
+[INFO ] 2014-Sep-08 19:14:02 src\SharedState.cpp:322: Loading current input bindings.
+[INFO ] 2014-Sep-08 19:14:02 src\DeviceManager.cpp:222: Opening output MIDI device (id=0)
+[INFO ] 2014-Sep-08 19:14:02 src\DeviceManager.cpp:168: Opening input MIDI device (id=0)
+[INFO ] 2014-Sep-08 19:14:02 src\main.cpp:494: Checking if MIDI volume is muted or too quiet.
+[INFO ] 2014-Sep-08 19:14:02 src\main.cpp:565: Initializing FreeImage library
+[INFO ] 2014-Sep-08 19:14:02 src\main.cpp:568: Using FreeImage version 3.11.0
+[INFO ] 2014-Sep-08 19:14:02 src\main.cpp:622: Setting state size: 1366x768
+[INFO ] 2014-Sep-08 19:14:02 src\main.cpp:627: Starting up GDI+
+[INFO ] 2014-Sep-08 19:14:02 src\RendererBackendDirectx.cpp:477: Creating DirectX rendering backend.
+[INFO ] 2014-Sep-08 19:14:02 src\RendererBackendDirectx.cpp:109: Checking if device is acceptable.
+[INFO ] 2014-Sep-08 19:14:02 src\RendererBackendDirectx.cpp:109: Checking if device is acceptable.
+[INFO ] 2014-Sep-08 19:14:02 src\RendererBackendDirectx.cpp:109: Checking if device is acceptable.
+[INFO ] 2014-Sep-08 19:14:02 src\RendererBackendDirectx.cpp:109: Checking if device is acceptable.
+[INFO ] 2014-Sep-08 19:14:02 src\RendererBackendDirectx.cpp:109: Checking if device is acceptable.
+[INFO ] 2014-Sep-08 19:14:02 src\RendererBackendDirectx.cpp:109: Checking if device is acceptable.
+[INFO ] 2014-Sep-08 19:14:02 src\RendererBackendDirectx.cpp:109: Checking if device is acceptable.
+[INFO ] 2014-Sep-08 19:14:02 src\RendererBackendDirectx.cpp:109: Checking if device is acceptable.
+[INFO ] 2014-Sep-08 19:14:02 src\RendererBackendDirectx.cpp:109: Checking if device is acceptable.
+[INFO ] 2014-Sep-08 19:14:02 src\RendererBackendDirectx.cpp:109: Checking if device is acceptable.
+[INFO ] 2014-Sep-08 19:14:02 src\RendererBackendDirectx.cpp:109: Checking if device is acceptable.
+[INFO ] 2014-Sep-08 19:14:02 src\RendererBackendDirectx.cpp:109: Checking if device is acceptable.
+[INFO ] 2014-Sep-08 19:14:02 src\RendererBackendDirectx.cpp:109: Checking if device is acceptable.
+[INFO ] 2014-Sep-08 19:14:02 src\RendererBackendDirectx.cpp:109: Checking if device is acceptable.
+[INFO ] 2014-Sep-08 19:14:02 src\RendererBackendDirectx.cpp:109: Checking if device is acceptable.
+[INFO ] 2014-Sep-08 19:14:02 src\RendererBackendDirectx.cpp:109: Checking if device is acceptable.
+[INFO ] 2014-Sep-08 19:14:02 src\RendererBackendDirectx.cpp:167: Creating device.
+[INFO ] 2014-Sep-08 19:14:02 src\RendererBackendDirectx.cpp:183: Resetting device.
+[INFO ] 2014-Sep-08 19:14:02 src\main.cpp:684: Creating startup screen.
+[INFO ] 2014-Sep-08 19:14:02 src\RendererBackendDirectx.cpp:557: Starting main loop.
+[ERROR] 2014-Sep-08 19:15:02 src\main.cpp:136: Synthesia detected an unknown problem and must close!
+
+'bad allocation'
+
+If you don't think this should have happened, please
+contact Nicholas (nicholas@synthesiagame.com) and
+describe what you were doing when the problem
+occurred.  Thanks for your help!
+
+Please attach the following log file to the email:
+C:\Users\winddragon\AppData\Roaming\Synthesia\log.txt
+[INFO ] 2014-Sep-08 19:15:21 src\main.cpp:885: Sending window destroy message.
+[INFO ] 2014-Sep-08 19:15:21 src\RendererBackendDirectx.cpp:429: Lost device.
+[INFO ] 2014-Sep-08 19:15:21 src\RendererBackendDirectx.cpp:444: Destroying device.

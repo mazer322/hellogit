@@ -1,0 +1,7 @@
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree - Complete\QueryBinaryTree\bin\Debug\QueryBinaryTree.exe
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree - Complete\QueryBinaryTree\bin\Debug\QueryBinaryTree.pdb
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree - Complete\QueryBinaryTree\bin\Debug\BinaryTree.dll
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree - Complete\QueryBinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree - Complete\QueryBinaryTree\obj\Debug\QueryBinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree - Complete\QueryBinaryTree\obj\Debug\QueryBinaryTree.exe
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 21\Windows 7\QueryBinaryTree - Complete\QueryBinaryTree\obj\Debug\QueryBinaryTree.pdb

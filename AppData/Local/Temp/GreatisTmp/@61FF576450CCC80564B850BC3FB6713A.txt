@@ -1,0 +1,85 @@
+WUAUENG.DLL
+Default location: C:\WINDOWS\SYSTEM32\WUAUENG.DLL
+MD5: 61FF576450CCC80564B850BC3FB6713A
+SHA1: 6ACEA7A1 6C5CD947 64C7F7D9 92FDA371 924367E6
+File Size: 2 477 536
+
+Version Info:
+OriginalFilename: wuaueng.dll.mui
+FileDescription: Windows Update Agent
+InternalName: wuaueng.dll
+CompanyName: Microsoft Corporation
+FileVersion: 7.6.7600.320 (winmain_wtr_wsus3sp2(oobla).140514-0916)
+LegalCopyright: c Microsoft Corporation. All rights reserved.
+ProductName: Microsoftr Windowsr Operating System
+ProductVersion: 7.6.7600.320
+
+PE Info of the C:\WINDOWS\SYSTEM32\WUAUENG.DLL:
+
+Type is Windows GUI.
+DOS-stub: 264 bytes
+built for machine: unknown processor: 8664
+  (non-32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+File is a DLL
+  do not notify on ProcAttach
+  do not notify on ThreadAttach
+  do not notify on ProcDetach
+  do not notify on ThreadDetach
+0 entries in symbol table
+5 sections
+created (GMT): Wed May 14 16:21:24 2014
+Linker version: 9.0
+.text start:   0x1000, length: 2312704 bytes
+.data start:  0x80000, length: 164352 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at    0x2229a4
+Preferred load base is    0x600
+Image size in RAM: 2432 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 6.1, Win32 5.2, App 6.1
+Checksum: 0x00265dea
+uses Win32 graphical subsystem
+Stack: 256 KB reserved,   0 KB committed
+Heap:    4 KB reserved,   0 KB committed
+Size of headers / offset to sections in file: 0x400
+
+"" (virt. Size/Address: 0x0)
+  2019914798 bytes at offset      0x0 in RAM,     0x74 in file
+    default alignment (16 bytes)
+    at offset 0x2229a4: execution start
+
+"" (virt. Size/Address: 0x0)
+  1952539694 bytes at offset 0x60000020 in RAM,     0x61 in file
+    contains comments / information
+    contents will not become part of image
+    purgeable
+    ? 16-bit-section ?
+    2-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1633972270 bytes at offset 0xc0000040 in RAM,   0x6174 in file
+    contents is COMDAT (common block data, packaged functions)
+    locked in memory
+    2-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1920168494 bytes at offset 0x40000040 in RAM,     0x63 in file
+    contents will not become part of image
+    ? far data ?
+    locked in memory
+    2-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1818587694 bytes at offset 0x40000040 in RAM,   0x636f in file
+    contents will not become part of image
+    locked in memory
+    2-byte-alignment
+
+Entropy = 6.0058
+
+Entropy: 6.00582

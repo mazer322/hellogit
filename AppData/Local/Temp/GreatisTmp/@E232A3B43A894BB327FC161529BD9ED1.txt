@@ -1,0 +1,97 @@
+TSSECSRV.SYS
+Default location: C:\WINDOWS\SYSTEM32\DRIVERS\TSSECSRV.SYS
+MD5: E232A3B43A894BB327FC161529BD9ED1
+SHA1: D5407528 5903D4F2 FA74026E 86EA2DA3 F6E5E8FB
+File Size: 39 936
+
+Version Info:
+OriginalFilename: tssecsrv.sys
+FileDescription: TS Security Filter Driver
+InternalName: tssecsrv.sys
+CompanyName: Microsoft Corporation
+FileVersion: 6.1.7601.18540 (win7sp1_gdr.140716-1508)
+LegalCopyright: c Microsoft Corporation. All rights reserved.
+ProductName: Microsoftr Windowsr Operating System
+ProductVersion: 6.1.7601.18540
+
+PE Info of the C:\WINDOWS\SYSTEM32\DRIVERS\TSSECSRV.SYS:
+
+Type is native.
+DOS-stub: 232 bytes
+built for machine: unknown processor: 8664
+  (non-32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+0 entries in symbol table
+9 sections
+created (GMT): Thu Jul 17 01:21:26 2014
+Linker version: 9.0
+.text start:   0x1000, length:  30720 bytes
+.data start:  0x10000, length:   8704 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at      0xc064
+Preferred load base is      0x0
+Image size in RAM: 60 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 6.1, Win32 6.1, App 6.1
+Checksum: 0x0000d405
+uses no subsystem
+Stack: 256 KB reserved,   0 KB committed
+Heap:    4 KB reserved,   0 KB committed
+Size of headers / offset to sections in file: 0x400
+
+"" (virt. Size/Address: 0x0)
+  2019914798 bytes at offset      0x0 in RAM,     0x74 in file
+    default alignment (16 bytes)
+    at offset 0xc064: execution start
+
+"" (virt. Size/Address: 0x0)
+  1633972782 bytes at offset 0x68000020 in RAM,   0x6174 in file
+    contents is COMDAT (common block data, packaged functions)
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1952539694 bytes at offset 0x48000040 in RAM,     0x61 in file
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1633972270 bytes at offset 0xc8000040 in RAM,   0x6174 in file
+    contains comments / information
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1162297680 bytes at offset 0x48000040 in RAM,      0x0 in file
+    contents will not become part of image
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1162297680 bytes at offset 0x60000020 in RAM, 0x47534d in file
+    contains comments / information
+    ? far data ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1414090313 bytes at offset 0x60000020 in RAM,      0x0 in file
+    contents will not become part of image
+    ? far data ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1920168494 bytes at offset 0xe2000020 in RAM,     0x63 in file
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1818587694 bytes at offset 0x42000040 in RAM,   0x636f in file
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    default alignment (16 bytes)
+
+Entropy = 5.7825
+
+Entropy: 5.78246

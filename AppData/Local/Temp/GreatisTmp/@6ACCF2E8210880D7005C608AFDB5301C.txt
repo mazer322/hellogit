@@ -1,0 +1,313 @@
+MAINTENANCESERVICE.EXE
+Default location: C:\PROGRAM FILES (X86)\MOZILLA MAINTENANCE SERVICE\MAINTENANCESERVICE.EXE
+MD5: 6ACCF2E8210880D7005C608AFDB5301C
+SHA1: F720E49C 5AE4E8E9 39B947A6 D29FA269 555E2A81
+File Size: 114 288
+
+Version Info:
+OriginalFilename: maintenanceservice.exe
+CompanyName: Mozilla Foundation
+FileVersion: 33.0
+LegalCopyright: License: MPL 2
+LegalTrademarks: Mozilla
+ProductName: Firefox
+ProductVersion: 33.0
+
+PE Info of the C:\PROGRAM FILES (X86)\MOZILLA MAINTENANCE SERVICE\MAINTENANCESERVICE.EXE:
+
+Type is Windows GUI.
+DOS-stub: 240 bytes
+built for machine: Intel 80386 processor
+  (32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+0 entries in symbol table
+5 sections
+created (GMT): Sat Oct 11 10:07:07 2014
+Linker version: 10.0
+.text start:   0x1000, length:  66560 bytes
+.data start:  0x12000, length:  46592 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at      0x5158
+Preferred load base is 0x400000
+Image size in RAM: 124 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 5.1, Win32 5.1, App 0.0
+Checksum: 0x00024c3c
+uses Win32 graphical subsystem
+Stack: 1024 KB reserved,   4 KB committed
+Heap:  1024 KB reserved,   4 KB committed
+Size of headers / offset to sections in file: 0x400
+
+".text" (virt. Size/Address: 0x10298)
+   66560 bytes at offset   0x1000 in RAM,    0x400 in file
+    contains code
+    default alignment (16 bytes)
+    is executable
+    is readable
+    at offset 0x4158: execution start
+Section entropy 6.48746
+
+".rdata" (virt. Size/Address: 0x601c)
+   25088 bytes at offset  0x12000 in RAM,  0x10800 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+Section entropy 6.33548
+
+    at offset 0x50ac (220 bytes): Import Directory
+
+      from "KERNEL32.dll":
+      not bound
+      name table at 0x1724c, address table at 0x120c4
+        hint name
+        ---- ----
+         167 CompareStringW      
+        1270 SetEndOfFile        
+         690 GetPrivateProfileStringW
+         569 GetDriveTypeW       
+         266 CreateToolhelp32Snapshot
+        1064 Process32FirstW     
+        1066 Process32NextW      
+        1521 WriteFile           
+         962 LoadLibraryExW      
+        1391 TerminateProcess    
+         581 GetExitCodeProcess  
+         185 CopyFileW           
+         291 DeleteFileW         
+        1303 SetLastError        
+         637 GetModuleFileNameW  
+         590 GetFileAttributesW  
+        1004 MultiByteToWideChar 
+         214 CreateFileW         
+         596 GetFileSize         
+        1112 ReadFile            
+         239 CreateProcessW      
+         963 LoadLibraryW        
+         693 GetProcAddress      
+         440 FreeLibrary         
+         547 GetCurrentProcess   
+        1556 lstrcmpiW           
+         202 CreateEventW        
+        1276 SetEvent            
+        1467 WaitForSingleObject 
+         257 CreateThread        
+         142 CloseHandle         
+        1327 SetStdHandle        
+        1375 Sleep               
+         997 MoveFileExW         
+         198 CreateDirectoryW    
+         618 GetLastError        
+         973 LocalFree           
+         969 LocalAlloc          
+        1520 WriteConsoleW       
+         738 GetStringTypeW      
+         852 HeapReAlloc         
+         429 FlushFileBuffers    
+         520 GetConsoleMode      
+         502 GetConsoleCP        
+        1501 WideCharToMultiByte 
+        1210 RtlUnwind           
+        1288 SetFilePointer      
+         945 LCMapStringW        
+         909 IsValidCodePage     
+         672 GetOEMCP            
+         446 GetACP              
+         461 GetCPInfo           
+        1273 SetEnvironmentVariableA
+        1274 SetEnvironmentVariableW
+        1096 RaiseException      
+         483 GetCommandLineW     
+         853 HeapSetInformation  
+         316 EncodePointer       
+         279 DecodePointer       
+         641 GetModuleHandleW    
+         365 ExitProcess         
+         845 HeapAlloc           
+         849 HeapFree            
+        1360 SetUnhandledExceptionFilter
+         733 GetStdHandle        
+         439 FreeEnvironmentStringsW
+         576 GetEnvironmentStringsW
+        1299 SetHandleCount      
+         870 InitializeCriticalSectionAndSpinCount
+         599 GetFileType         
+         727 GetStartupInfoW     
+         286 DeleteCriticalSection
+        1409 TlsAlloc            
+        1411 TlsGetValue         
+        1412 TlsSetValue         
+        1410 TlsFree             
+         881 InterlockedIncrement
+         552 GetCurrentThreadId  
+         877 InterlockedDecrement
+         847 HeapCreate          
+        1084 QueryPerformanceCounter
+         784 GetTickCount        
+         548 GetCurrentProcessId 
+         756 GetSystemTimeAsFileTime
+         854 HeapSize            
+        1424 UnhandledExceptionFilter
+         899 IsDebuggerPresent   
+         904 IsProcessorFeaturePresent
+         957 LeaveCriticalSection
+         320 EnterCriticalSection
+         698 GetProcessHeap      
+
+      from "USER32.dll":
+      not bound
+      name table at 0x173e8, address table at 0x12260
+        hint name
+        ---- ----
+         558 LoadStringA         
+         886 wsprintfW           
+
+      from "ADVAPI32.dll":
+      not bound
+      name table at 0x17188, address table at 0x12000
+        hint name
+        ---- ----
+         656 RegQueryInfoKeyW    
+         631 RegEnumKeyExW       
+         662 RegQueryValueExW    
+         600 RegCloseKey         
+         757 StartServiceCtrlDispatcherW
+         688 RegisterServiceCtrlHandlerW
+         749 SetServiceStatus    
+         531 OpenSCManagerA      
+         593 QueryServiceStatusEx
+         530 OpenProcessToken    
+         428 LookupPrivilegeValueA
+          31 AdjustTokenPrivileges
+         192 CryptAcquireContextA
+         195 CryptCreateHash     
+         216 CryptHashData       
+         212 CryptGetHashParam   
+         198 CryptDestroyHash    
+         219 CryptReleaseContext 
+         587 QueryServiceConfigW 
+         144 CreateServiceW      
+         592 QueryServiceStatus  
+         234 DeleteService       
+         532 OpenSCManagerW      
+         534 OpenServiceW        
+         106 ControlService      
+         591 QueryServiceObjectSecurity
+         348 GetSecurityDescriptorDacl
+         146 CreateWellKnownSid  
+         423 LookupAccountSidW   
+         307 FreeSid             
+          74 BuildExplicitAccessWithNameW
+         723 SetEntriesInAclW    
+         397 InitializeSecurityDescriptor
+         739 SetSecurityDescriptorDacl
+         748 SetServiceObjectSecurity
+          93 ChangeServiceConfigW
+          91 ChangeServiceConfig2W
+         101 CloseServiceHandle  
+         139 CreateProcessAsUserW
+         649 RegOpenKeyExW       
+
+      from "SHELL32.dll":
+      not bound
+      name table at 0x173c8, address table at 0x12240
+        hint name
+        ---- ----
+         205 SHGetFolderPathW    
+
+      from "WINTRUST.dll":
+      not bound
+      name table at 0x17404, address table at 0x1227c
+        hint name
+        ---- ----
+         123 WinVerifyTrust      
+
+      from "CRYPT32.dll":
+      not bound
+      name table at 0x1722c, address table at 0x120a4
+        hint name
+        ---- ----
+          64 CertFreeCertificateContext
+          53 CertFindCertificateInStore
+         183 CryptMsgGetParam    
+         199 CryptQueryObject    
+         176 CryptMsgClose       
+          18 CertCloseStore      
+          75 CertGetNameStringW  
+
+      from "VERSION.dll":
+      not bound
+      name table at 0x173f4, address table at 0x1226c
+        hint name
+        ---- ----
+           7 GetFileVersionInfoSizeW
+          16 VerQueryValueW      
+           8 GetFileVersionInfoW 
+
+      from "SHLWAPI.dll":
+      not bound
+      name table at 0x173d0, address table at 0x12248
+        hint name
+        ---- ----
+          56 PathAppendW         
+         164 PathUnquoteSpacesW  
+         132 PathQuoteSpacesW    
+         144 PathRemoveFileSpecW 
+         156 PathStripToRootW    
+
+      from "ole32.dll":
+      not bound
+      name table at 0x1740c, address table at 0x12284
+        hint name
+        ---- ----
+          24 CoCreateGuid        
+
+      from "RPCRT4.dll":
+      not bound
+      name table at 0x173bc, address table at 0x12234
+        hint name
+        ---- ----
+         528 UuidToStringW       
+         510 RpcStringFreeW      
+
+    at offset 0x2d0 (28 bytes): Debug Directory
+
+    at offset 0x4a18 (64 bytes): Load Configuration Directory
+
+    at offset 0x0 (652 bytes): Import Address Table
+
+".data" (virt. Size/Address: 0x2f20)
+    4096 bytes at offset  0x19000 in RAM,  0x16a00 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+    is writeable
+Section entropy 5.66547
+
+    at offset 0xe00 (8304 bytes): Security Directory
+
+".rsrc" (virt. Size/Address: 0x7b0)
+    2048 bytes at offset  0x1c000 in RAM,  0x17a00 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+Section entropy 4.89442
+
+    at offset 0x0 (1968 bytes): Resource Directory
+        version: 0.0, created (GMT): Thu Jan 01 00:00:00 1970
+        version info,         unknown resource type 0x18, 
+".reloc" (virt. Size/Address: 0x1a26)
+    7168 bytes at offset  0x1d000 in RAM,  0x18200 in file
+    contains initialized data
+    default alignment (16 bytes)
+    can be discarded
+    is readable
+Section entropy 6.02539
+
+    at offset 0x0 (3712 bytes): Base Relocation Table
+    (relocations skipped)
+
+Entropy: 6.48746

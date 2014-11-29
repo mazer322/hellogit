@@ -1,0 +1,193 @@
+FIREFOX.EXE
+Default location: C:\PROGRAM FILES (X86)\MOZILLA FIREFOX\FIREFOX.EXE
+MD5: AAC20E2DC0EFF52E91F9672B11144365
+SHA1: E326C2FB 2ABA1511 77903D12 A2290B2B 20828CD9
+File Size: 275 568
+
+Version Info:
+OriginalFilename: firefox.exe
+FileDescription: Firefox
+InternalName: Firefox
+CompanyName: Mozilla Corporation
+FileVersion: 33.0
+LegalCopyright: cFirefox and Mozilla Developers; available under the MPL 2 license.
+LegalTrademarks: Firefox is a Trademark of The Mozilla Foundation.
+ProductName: Firefox
+ProductVersion: 33.0
+
+PE Info of the C:\PROGRAM FILES (X86)\MOZILLA FIREFOX\FIREFOX.EXE:
+
+Type is Windows GUI.
+DOS-stub: 240 bytes
+built for machine: Intel 80386 processor
+  (32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+0 entries in symbol table
+5 sections
+created (GMT): Sat Oct 11 12:37:13 2014
+Linker version: 10.0
+.text start:   0x1000, length:   7168 bytes
+.data start:   0x3000, length: 260096 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at      0x24b7
+Preferred load base is 0x400000
+Image size in RAM: 272 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 5.1, Win32 5.1, App 0.0
+Checksum: 0x00044249
+uses Win32 graphical subsystem
+Stack: 1024 KB reserved,   4 KB committed
+Heap:  256 KB reserved,   4 KB committed
+Size of headers / offset to sections in file: 0x400
+
+".text" (virt. Size/Address: 0x1aaa)
+    7168 bytes at offset   0x1000 in RAM,    0x400 in file
+    contains code
+    default alignment (16 bytes)
+    is executable
+    is readable
+    at offset 0x14b7: execution start
+Section entropy 6.08081
+
+".rdata" (virt. Size/Address: 0xf94)
+    4096 bytes at offset   0x3000 in RAM,   0x2000 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+Section entropy 5.74665
+
+    at offset 0x8e4 (80 bytes): Import Directory
+
+      from "KERNEL32.dll":
+      not bound
+      name table at 0x3934, address table at 0x3000
+        hint name
+        ---- ----
+        1274 SetEnvironmentVariableW
+         369 ExpandEnvironmentStringsW
+         578 GetEnvironmentVariableW
+         637 GetModuleFileNameW  
+         440 FreeLibrary         
+         693 GetProcAddress      
+         963 LoadLibraryW        
+        1004 MultiByteToWideChar 
+         784 GetTickCount        
+         641 GetModuleHandleW    
+        1085 QueryPerformanceFrequency
+         590 GetFileAttributesW  
+        1501 WideCharToMultiByte 
+         703 GetProcessIoCounters
+         547 GetCurrentProcess   
+        1268 SetDllDirectoryW    
+         548 GetCurrentProcessId 
+         552 GetCurrentThreadId  
+        1084 QueryPerformanceCounter
+         279 DecodePointer       
+        1360 SetUnhandledExceptionFilter
+        1424 UnhandledExceptionFilter
+         316 EncodePointer       
+         853 HeapSetInformation  
+         875 InterlockedCompareExchange
+        1375 Sleep               
+         878 InterlockedExchange 
+         899 IsDebuggerPresent   
+         214 CreateFileW         
+         142 CloseHandle         
+        1289 SetFilePointerEx    
+        1112 ReadFile            
+         962 LoadLibraryExW      
+         618 GetLastError        
+        1391 TerminateProcess    
+         756 GetSystemTimeAsFileTime
+
+      from "MSVCR100.dll":
+      not bound
+      name table at 0x39c8, address table at 0x3094
+        hint name
+        ---- ----
+         301 _XcptFilter         
+        1395 exit                
+         554 _exit               
+         688 _initterm           
+         689 _initterm_e         
+         492 _configthreadlocale 
+         418 __setusermatherr    
+         491 _commode            
+         581 _fmode              
+         415 __set_app_type      
+        1205 _vsnprintf_s        
+         258 ?terminate@@YAXXZ   
+        1165 _unlock             
+         347 __dllonexit         
+         803 _lock               
+         969 _onexit             
+         545 _except_handler4_common
+         696 _invoke_watson      
+         495 _controlfp_s        
+         507 _crt_debugger_hook  
+         476 _cexit              
+         438 __wgetmainargs      
+         453 _amsg_exit          
+        1491 memset              
+        1487 memcpy              
+        1404 fgets               
+         101 ??3@YAXPAX@Z        
+        1398 fclose              
+        1299 _wfopen             
+          99 ??2@YAPAXI@Z        
+        1435 getenv              
+        1040 _snprintf           
+        1089 _stricmp            
+         122 ??_V@YAXPAX@Z       
+        1544 strrchr             
+         439 __winitenv          
+         987 _putenv             
+
+      from "mozglue.dll":
+      not bound
+      name table at 0x3a60, address table at 0x312c
+        hint name
+        ---- ----
+          24 ?DllBlocklist_Initialize@@YAXXZ
+
+    at offset 0x150 (28 bytes): Debug Directory
+
+    at offset 0x7b0 (64 bytes): Load Configuration Directory
+
+    at offset 0x0 (308 bytes): Import Address Table
+
+".data" (virt. Size/Address: 0x4b4)
+     512 bytes at offset   0x4000 in RAM,   0x3000 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+    is writeable
+
+".rsrc" (virt. Size/Address: 0x3d9c8)
+  252416 bytes at offset   0x5000 in RAM,   0x3200 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+Section entropy 7.47189
+
+    at offset 0x0 (252360 bytes): Resource Directory
+        version: 0.0, created (GMT): Thu Jan 01 00:00:00 1970
+        icon,         string,         group icon,         version info,         unknown resource type 0x18, 
+    at offset 0x3c400 (8304 bytes): Security Directory
+
+".reloc" (virt. Size/Address: 0x648)
+    2048 bytes at offset  0x43000 in RAM,  0x40c00 in file
+    contains initialized data
+    default alignment (16 bytes)
+    can be discarded
+    is readable
+Section entropy 4.9344
+
+    at offset 0x0 (656 bytes): Base Relocation Table
+    (relocations skipped)
+
+Entropy: 7.47189

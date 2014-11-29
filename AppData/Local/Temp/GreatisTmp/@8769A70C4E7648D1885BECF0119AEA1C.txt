@@ -1,0 +1,90 @@
+LGANDNETADB.SYS
+Default location: C:\WINDOWS\SYSTEM32\DRIVERS\LGANDNETADB.SYS
+MD5: 8769A70C4E7648D1885BECF0119AEA1C
+SHA1: 6C5A7DF5 05695655 D16483A4 11706371 7002CFFD
+File Size: 31 744
+
+Version Info:
+OriginalFilename: lgandnetadb.sys
+FileDescription: ADB Interface
+InternalName: lgandnetadb.sys
+CompanyName: Google Inc
+FileVersion: 3.10.00 built by: WinDDK
+LegalCopyright: c Google Inc. All rights reserved.
+ProductName: Google Android USB Driver
+ProductVersion: 3.10.00
+
+PE Info of the C:\WINDOWS\SYSTEM32\DRIVERS\LGANDNETADB.SYS:
+
+Type is native.
+DOS-stub: 248 bytes
+built for machine: unknown processor: 8664
+  (non-32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+0 entries in symbol table
+8 sections
+created (GMT): Thu Apr 18 10:42:27 2013
+Linker version: 8.0
+.text start:   0x1000, length:  26112 bytes
+.data start:  0x10000, length:   8704 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at      0x4a1c
+Preferred load base is      0x0
+Image size in RAM: 60 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 6.0, Win32 5.2, App 6.0
+Checksum: 0x0000a8f6
+uses no subsystem
+Stack: 256 KB reserved,   0 KB committed
+Heap:    4 KB reserved,   0 KB committed
+Size of headers / offset to sections in file: 0x400
+
+"" (virt. Size/Address: 0x0)
+  2019914798 bytes at offset      0x0 in RAM,     0x74 in file
+    default alignment (16 bytes)
+    at offset 0x4a1c: execution start
+
+"" (virt. Size/Address: 0x0)
+  1633972782 bytes at offset 0x68000020 in RAM,   0x6174 in file
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1952539694 bytes at offset 0x48000040 in RAM,     0x61 in file
+    contains comments / information
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1633972270 bytes at offset 0xc8000040 in RAM,   0x6174 in file
+    contents will not become part of image
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1162297680 bytes at offset 0x48000040 in RAM,      0x0 in file
+    contents will not become part of image
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1414090313 bytes at offset 0x60000020 in RAM,      0x0 in file
+    contents is COMDAT (common block data, packaged functions)
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1920168494 bytes at offset 0xe2000020 in RAM,     0x63 in file
+    contains comments / information
+    contents is COMDAT (common block data, packaged functions)
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1818587694 bytes at offset 0x48000040 in RAM,   0x636f in file
+    contains comments / information
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    default alignment (16 bytes)
+
+Entropy = 5.1489
+
+Entropy: 5.1489

@@ -1,0 +1,103 @@
+TERMSRV.DLL
+Default location: C:\WINDOWS\SYSTEM32\TERMSRV.DLL
+MD5: 4FC4C50985E5B840F4D72E57286887B8
+SHA1: 10C38C8D F7DFC507 F680F0D7 D8C50BC0 49161037
+File Size: 681 984
+
+Version Info:
+OriginalFilename: termsrv.dll.mui
+FileDescription: Remote Desktop Session Host Server Remote Connections Manager
+InternalName: termsrv.dll
+CompanyName: Microsoft Corporation
+FileVersion: 6.1.7601.17514 (win7sp1_rtm.101119-1850)
+LegalCopyright: c Microsoft Corporation. All rights reserved.
+ProductName: Microsoftr Windowsr Operating System
+ProductVersion: 6.1.7601.17514
+
+PE Info of the C:\WINDOWS\SYSTEM32\TERMSRV.DLL:
+
+Type is Windows console application.
+DOS-stub: 232 bytes
+built for machine: unknown processor: 8664
+  (non-32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+File is a DLL
+  do not notify on ProcAttach
+  do not notify on ThreadAttach
+  do not notify on ProcDetach
+  do not notify on ThreadDetach
+0 entries in symbol table
+6 sections
+created (GMT): Thu Jul 17 02:06:41 2014
+Linker version: 9.0
+.text start:   0x1000, length: 415744 bytes
+.data start: 0x75a80000, length: 264704 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at      0xea78
+Preferred load base is    0x7ff
+Image size in RAM: 680 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 6.1, Win32 6.1, App 6.1
+Checksum: 0x000ae445
+uses Win32 console subsystem
+Stack: 256 KB reserved,   0 KB committed
+Heap:    4 KB reserved,   0 KB committed
+Size of headers / offset to sections in file: 0x600
+
+at offset 0x2e0 (320 bytes): unknown directory
+
+"" (virt. Size/Address: 0x0)
+  2019914798 bytes at offset      0x0 in RAM,     0x74 in file
+    contains comments / information
+    default alignment (16 bytes)
+    at offset 0xea78: execution start
+
+"" (virt. Size/Address: 0x0)
+  1633972782 bytes at offset 0x60000020 in RAM,   0x6174 in file
+    contains comments / information
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    purgeable
+    ? 16-bit-section ?
+    locked in memory
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1952539694 bytes at offset 0x40000040 in RAM,     0x61 in file
+    contains comments / information
+    contents is COMDAT (common block data, packaged functions)
+    preload
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1633972270 bytes at offset 0xc0000040 in RAM,   0x6174 in file
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    preload
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1920168494 bytes at offset 0x40000040 in RAM,     0x63 in file
+    contents is COMDAT (common block data, packaged functions)
+    purgeable
+    ? 16-bit-section ?
+    preload
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1818587694 bytes at offset 0x40000040 in RAM,   0x636f in file
+    contains comments / information
+    contents will not become part of image
+    purgeable
+    ? 16-bit-section ?
+    preload
+    default alignment (16 bytes)
+
+Entropy = 6.2199
+
+Entropy: 6.21989

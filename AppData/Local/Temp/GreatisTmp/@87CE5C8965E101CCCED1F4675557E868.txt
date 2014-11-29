@@ -1,0 +1,121 @@
+DXGKRNL.SYS
+Default location: C:\WINDOWS\SYSTEM32\DRIVERS\DXGKRNL.SYS
+MD5: 87CE5C8965E101CCCED1F4675557E868
+SHA1: 2D567353 7E7E98A8 9F0BEA9D A4173E65 4598F59C
+File Size: 985 536
+
+Version Info:
+OriginalFilename: dxgkrnl.sys
+FileDescription: DirectX Graphics Kernel
+InternalName: dxgkrnl.sys
+CompanyName: Microsoft Corporation
+FileVersion: 6.1.7601.18510 (win7sp1_gdr.140615-1511)
+LegalCopyright: c Microsoft Corporation. All rights reserved.
+ProductName: Microsoftr Windowsr Operating System
+ProductVersion: 6.1.7601.18510
+
+PE Info of the C:\WINDOWS\SYSTEM32\DRIVERS\DXGKRNL.SYS:
+
+Type is native.
+DOS-stub: 232 bytes
+built for machine: unknown processor: 8664
+  (non-32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+0 entries in symbol table
+10 sections
+created (GMT): Mon Jun 16 00:58:04 2014
+Linker version: 9.0
+.text start:   0x1000, length: 914944 bytes
+.data start:  0x10000, length:  67072 bytes
+.bss  start:      -/-, length:    512 bytes
+execution starts at     0xef9dc
+Preferred load base is      0x0
+Image size in RAM: 980 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 6.1, Win32 6.1, App 6.1
+Checksum: 0x000ff01e
+uses no subsystem
+Stack: 256 KB reserved,   0 KB committed
+Heap:    4 KB reserved,   0 KB committed
+Size of headers / offset to sections in file: 0x400
+
+"" (virt. Size/Address: 0x0)
+  2019914798 bytes at offset      0x0 in RAM,     0x74 in file
+    default alignment (16 bytes)
+    at offset 0xef9dc: execution start
+
+"" (virt. Size/Address: 0x0)
+  1735943214 bytes at offset 0x68000020 in RAM, 0x64706e6b in file
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1633972782 bytes at offset 0xc8000080 in RAM,   0x6174 in file
+    contents will not become part of image
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1952539694 bytes at offset 0x48000040 in RAM,     0x61 in file
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1633972270 bytes at offset 0xc8000040 in RAM,   0x6174 in file
+    ? far data ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1162297680 bytes at offset 0x48000040 in RAM,      0x0 in file
+    contains comments / information
+    contents will not become part of image
+    purgeable
+    ? 16-bit-section ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1633969454 bytes at offset 0x60000020 in RAM,   0x6174 in file
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    purgeable
+    ? 16-bit-section ?
+    locked in memory
+    preload
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1414090313 bytes at offset 0x40000040 in RAM,      0x0 in file
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    purgeable
+    ? 16-bit-section ?
+    locked in memory
+    preload
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1920168494 bytes at offset 0xe2000020 in RAM,     0x63 in file
+    ? far data ?
+    purgeable
+    ? 16-bit-section ?
+    locked in memory
+    preload
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1818587694 bytes at offset 0x42000040 in RAM,   0x636f in file
+    ? far data ?
+    purgeable
+    ? 16-bit-section ?
+    locked in memory
+    preload
+    default alignment (16 bytes)
+
+Entropy = 6.3392
+
+Entropy: 6.33921

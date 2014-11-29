@@ -1,0 +1,185 @@
+GOOGLEUPDATE.EXE
+Default location: C:\PROGRAM FILES (X86)\GOOGLE\UPDATE\GOOGLEUPDATE.EXE
+MD5: 51508F0C2476177E50C31B0BBFBF1BDB
+SHA1: E7D30FB3 6576272D 11B78A56 9B706A79 A379ABDB
+File Size: 107 912
+
+Version Info:
+OriginalFilename: GoogleUpdate.exe
+FileDescription: Google Installer
+InternalName: Google Update
+CompanyName: Google Inc.
+FileVersion: 1.3.25.5
+LegalCopyright: Copyright 2007-2010 Google Inc.
+ProductName: Google Update
+ProductVersion: 1.3.25.5
+
+PE Info of the C:\PROGRAM FILES (X86)\GOOGLE\UPDATE\GOOGLEUPDATE.EXE:
+
+Type is Windows GUI.
+DOS-stub: 240 bytes
+built for machine: Intel 80386 processor
+  (32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+0 entries in symbol table
+5 sections
+created (GMT): Tue Sep 30 01:19:57 2014
+Linker version: 10.0
+.text start:   0x1000, length:  28160 bytes
+.data start:   0x8000, length:  77312 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at      0x393d
+Preferred load base is 0x400000
+Image size in RAM: 116 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 5.1, Win32 5.1, App 0.0
+Checksum: 0x00021679
+uses Win32 graphical subsystem
+Stack: 1024 KB reserved,   4 KB committed
+Heap:  1024 KB reserved,   4 KB committed
+Size of headers / offset to sections in file: 0x400
+
+".text" (virt. Size/Address: 0x6d5b)
+   28160 bytes at offset   0x1000 in RAM,    0x400 in file
+    contains code
+    default alignment (16 bytes)
+    is executable
+    is readable
+    at offset 0x293d: execution start
+Section entropy 6.49865
+
+".data" (virt. Size/Address: 0x1a60)
+    3072 bytes at offset   0x8000 in RAM,   0x7200 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+    is writeable
+Section entropy 5.57322
+
+".text/DE" (virt. Size/Address: 0x23bc)
+    9216 bytes at offset   0xa000 in RAM,   0x7e00 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+Section entropy 6.11064
+
+    at offset 0x1d48 (60 bytes): Import Directory
+
+      from "ADVAPI32.dll":
+      not bound
+      name table at 0xbd84, address table at 0xa000
+        hint name
+        ---- ----
+         609 RegOpenKeyExW       
+
+      from "KERNEL32.dll":
+      not bound
+      name table at 0xbd8c, address table at 0xa008
+        hint name
+        ---- ----
+         391 GetCommandLineW     
+         333 FindResourceExW     
+         334 FindResourceW       
+         354 FreeLibrary         
+         833 LoadResource        
+         830 LoadLibraryExW      
+        1201 SizeofResource      
+         532 GetModuleFileNameW  
+        1358 lstrlenW            
+         945 RaiseException      
+         514 GetLastError        
+         581 GetProcAddress      
+         852 LockResource        
+         487 GetFileAttributesExW
+         836 LocalAlloc          
+         748 InterlockedExchange 
+         828 LoadLibraryA        
+         238 EnterCriticalSection
+         825 LeaveCriticalSection
+         739 InitializeCriticalSectionAndSpinCount
+         209 DeleteCriticalSection
+         718 HeapDestroy         
+         715 HeapAlloc           
+         719 HeapFree            
+         722 HeapReAlloc         
+         724 HeapSize            
+         586 GetProcessHeap      
+         723 HeapSetInformation  
+         611 GetStartupInfoW     
+         234 EncodePointer       
+         202 DecodePointer       
+        1216 TerminateProcess    
+         448 GetCurrentProcess   
+        1235 UnhandledExceptionFilter
+        1189 SetUnhandledExceptionFilter
+         768 IsDebuggerPresent   
+         536 GetModuleHandleW    
+         281 ExitProcess         
+        1317 WriteFile           
+         612 GetStdHandle        
+         353 FreeEnvironmentStringsW
+         474 GetEnvironmentStringsW
+        1135 SetHandleCount      
+         499 GetFileType         
+        1221 TlsAlloc            
+        1223 TlsGetValue         
+        1224 TlsSetValue         
+        1222 TlsFree             
+         751 InterlockedIncrement
+        1139 SetLastError        
+         453 GetCurrentThreadId  
+         747 InterlockedDecrement
+         717 HeapCreate          
+         935 QueryPerformanceCounter
+         659 GetTickCount        
+         449 GetCurrentProcessId 
+         633 GetSystemTimeAsFileTime
+         772 IsProcessorFeaturePresent
+        1202 Sleep               
+         831 LoadLibraryW        
+         370 GetCPInfo           
+         360 GetACP              
+         567 GetOEMCP            
+         778 IsValidCodePage     
+        1048 RtlUnwind           
+        1297 WideCharToMultiByte 
+         813 LCMapStringW        
+         871 MultiByteToWideChar 
+         617 GetStringTypeW      
+
+    at offset 0x160 (28 bytes): Debug Directory
+
+    at offset 0x1a00 (64 bytes): Load Configuration Directory
+
+    at offset 0x0 (288 bytes): Import Address Table
+
+    at offset 0x1c2c (128 bytes): unknown directory
+
+".rsrc" (virt. Size/Address: 0xe150)
+   57856 bytes at offset   0xd000 in RAM,   0xa200 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+Section entropy 6.0298
+
+    at offset 0x0 (57680 bytes): Resource Directory
+        version: 0.0, created (GMT): Thu Jan 01 00:00:00 1970
+        icon,         group icon,         version info,         unknown resource type 0x18, 
+    at offset 0xc000 (5512 bytes): Security Directory
+
+".reloc" (virt. Size/Address: 0xaae)
+    3072 bytes at offset  0x1c000 in RAM,  0x18400 in file
+    contains initialized data
+    default alignment (16 bytes)
+    can be discarded
+    is readable
+Section entropy 5.57322
+
+    at offset 0x0 (1872 bytes): Base Relocation Table
+    (relocations skipped)
+
+Entropy: 6.49865

@@ -1,0 +1,4 @@
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 20\Windows 7\Delegates - Complete\DataTypes\bin\Debug\DataTypes.dll
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 20\Windows 7\Delegates - Complete\DataTypes\bin\Debug\DataTypes.pdb
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 20\Windows 7\Delegates - Complete\DataTypes\obj\Debug\DataTypes.dll
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 20\Windows 7\Delegates - Complete\DataTypes\obj\Debug\DataTypes.pdb

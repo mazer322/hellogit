@@ -1,0 +1,98 @@
+VBOXNETADP.SYS
+Default location: C:\WINDOWS\SYSTEM32\DRIVERS\VBOXNETADP.SYS
+MD5: 8FD4BE594B4247E534E5D7CADA47FF20
+SHA1: BE032F68 249D5B26 8C1A06EA A48B0F30 73C7811D
+File Size: 142 528
+
+Version Info:
+OriginalFilename: VBoxNetAdp.sys
+FileDescription: VirtualBox Host-Only Network Adapter Driver
+InternalName: VBoxNetAdp.sys
+CompanyName: Oracle Corporation
+FileVersion: 4.3.16.95972
+LegalCopyright: Copyright (C) 2009-2014 Oracle Corporation
+ProductName: Oracle VM VirtualBox
+ProductVersion: 4.3.16.r95972
+
+PE Info of the C:\WINDOWS\SYSTEM32\DRIVERS\VBOXNETADP.SYS:
+
+Type is native.
+DOS-stub: 232 bytes
+built for machine: unknown processor: 8664
+  (non-32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+0 entries in symbol table
+8 sections
+created (GMT): Tue Sep 09 15:26:34 2014
+Linker version: 10.0
+.text start:   0x1000, length:  83456 bytes
+.data start: 0x40000000, length:  62464 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at      0x50e0
+Preferred load base is      0x1
+Image size in RAM: 160 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 5.2, Win32 5.2, App 403.16
+Checksum: 0x000274ec
+uses no subsystem
+Stack: 1024 KB reserved,   0 KB committed
+Heap:    4 KB reserved,   0 KB committed
+Size of headers / offset to sections in file: 0x400
+
+"" (virt. Size/Address: 0x0)
+  2019914798 bytes at offset      0x0 in RAM,     0x74 in file
+    default alignment (16 bytes)
+    at offset 0x50e0: execution start
+
+"" (virt. Size/Address: 0x0)
+  1633972782 bytes at offset 0x68000020 in RAM,   0x6174 in file
+    contains comments / information
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1952539694 bytes at offset 0x48000040 in RAM,     0x61 in file
+    contents will not become part of image
+    ? far data ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1633972270 bytes at offset 0xc8000040 in RAM,   0x6174 in file
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1633969454 bytes at offset 0x48000040 in RAM,   0x6174 in file
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1414090313 bytes at offset 0x40000040 in RAM,      0x0 in file
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1920168494 bytes at offset 0xe2000020 in RAM,     0x63 in file
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1818587694 bytes at offset 0x42000040 in RAM,   0x636f in file
+    purgeable
+    ? 16-bit-section ?
+    default alignment (16 bytes)
+
+Entropy = 6.4107
+
+Entropy: 6.4107

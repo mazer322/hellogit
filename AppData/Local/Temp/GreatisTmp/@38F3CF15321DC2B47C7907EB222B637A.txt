@@ -1,0 +1,86 @@
+FUSSVC.EXE
+Default location: C:\PROGRAM FILES (X86)\WINDOWS KITS\8.1\APP CERTIFICATION KIT\FUSSVC.EXE
+MD5: 38F3CF15321DC2B47C7907EB222B637A
+SHA1: 8F44C84D 01207579 8DE75654 FC259CC1 4492C92C
+File Size: 142 336
+
+Version Info:
+OriginalFilename: fussvc.exe
+FileDescription: Fast User Switching Utility Service
+InternalName: fussvc.exe
+CompanyName: Microsoft Corporation
+FileVersion: 3.2.9600.17029 (winblue_gdr.140219-1702)
+LegalCopyright: c Microsoft Corporation. All rights reserved.
+ProductName: Microsoft (R) Windows (R) Kits 8.0
+ProductVersion: 3.2.9600.17029
+
+PE Info of the C:\PROGRAM FILES (X86)\WINDOWS KITS\8.1\APP CERTIFICATION KIT\FUSSVC.EXE:
+
+Type is Windows GUI.
+DOS-stub: 224 bytes
+built for machine: unknown processor: 8664
+  (non-32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+0 entries in symbol table
+6 sections
+created (GMT): Thu Feb 20 08:18:05 2014
+Linker version: 11.0
+.text start:   0x1000, length: 114176 bytes
+.data start: 0x40000000, length:  36352 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at      0xd8e8
+Preferred load base is      0x1
+Image size in RAM: 156 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 6.3, Win32 6.1, App 6.3
+Checksum: 0x00026095
+uses Win32 graphical subsystem
+Stack: 512 KB reserved,   0 KB committed
+Heap:    8 KB reserved,   0 KB committed
+Size of headers / offset to sections in file: 0x400
+
+"" (virt. Size/Address: 0x0)
+  2019914798 bytes at offset      0x0 in RAM,     0x74 in file
+    default alignment (16 bytes)
+    at offset 0xd8e8: execution start
+
+"" (virt. Size/Address: 0x0)
+  1952539694 bytes at offset 0x60000020 in RAM,     0x61 in file
+    contains comments / information
+    ? far data ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1633972270 bytes at offset 0xc0000040 in RAM,   0x6174 in file
+    contains comments / information
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1633970478 bytes at offset 0x40000040 in RAM,   0x6174 in file
+    contains comments / information
+    contents will not become part of image
+    ? far data ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1920168494 bytes at offset 0x40000040 in RAM,     0x63 in file
+    purgeable
+    ? 16-bit-section ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1818587694 bytes at offset 0x40000040 in RAM,   0x636f in file
+    purgeable
+    ? 16-bit-section ?
+    default alignment (16 bytes)
+
+Entropy = 6.2548
+
+Entropy: 6.25479

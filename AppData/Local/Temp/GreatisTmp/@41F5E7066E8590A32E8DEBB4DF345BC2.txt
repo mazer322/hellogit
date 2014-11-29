@@ -1,0 +1,91 @@
+WOMIC.SYS
+Default location: C:\WINDOWS\SYSTEM32\DRIVERS\WOMIC.SYS
+MD5: 41F5E7066E8590A32E8DEBB4DF345BC2
+SHA1: 861BA650 CC0FF455 19074388 C75A714B FBE92D5F
+File Size: 59 856
+
+Version Info:
+OriginalFilename: msvad.sys
+FileDescription: Microsoft Virtual Audio Device
+InternalName: msvad.sys
+CompanyName: Windows (R) Win 7 DDK provider
+FileVersion: 6.1.7600.16385 built by: WinDDK
+LegalCopyright: Copyright (C) Microsoft Corp.1997-2000
+ProductName: Windows (R) Win 7 DDK driver
+ProductVersion: 6.1.7600.16385
+
+PE Info of the C:\WINDOWS\SYSTEM32\DRIVERS\WOMIC.SYS:
+
+Type is native.
+DOS-stub: 232 bytes
+built for machine: unknown processor: 8664
+  (non-32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+0 entries in symbol table
+8 sections
+created (GMT): Tue May 06 09:20:31 2014
+Linker version: 9.0
+.text start:   0x1000, length:  50176 bytes
+.data start:  0x10000, length:   8192 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at     0x110f4
+Preferred load base is      0x0
+Image size in RAM: 80 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 6.1, Win32 6.1, App 6.1
+Checksum: 0x00011082
+uses no subsystem
+Stack: 256 KB reserved,   0 KB committed
+Heap:    4 KB reserved,   0 KB committed
+Size of headers / offset to sections in file: 0x400
+
+"" (virt. Size/Address: 0x0)
+  2019914798 bytes at offset      0x0 in RAM,     0x74 in file
+    default alignment (16 bytes)
+    at offset 0x110f4: execution start
+
+"" (virt. Size/Address: 0x0)
+  1633972782 bytes at offset 0x68000020 in RAM,   0x6174 in file
+    contains comments / information
+    contents is COMDAT (common block data, packaged functions)
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1952539694 bytes at offset 0x48000040 in RAM,     0x61 in file
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1633972270 bytes at offset 0xc8000040 in RAM,   0x6174 in file
+    contains comments / information
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1162297680 bytes at offset 0x48000040 in RAM,      0x0 in file
+    contains comments / information
+    contents will not become part of image
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1414090313 bytes at offset 0x60000020 in RAM,      0x0 in file
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1920168494 bytes at offset 0xe2000020 in RAM,     0x63 in file
+    ? far data ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1818587694 bytes at offset 0x42000040 in RAM,   0x636f in file
+    ? far data ?
+    default alignment (16 bytes)
+
+Entropy = 5.7853
+
+Entropy: 5.78528

@@ -1,0 +1,408 @@
+CHROME.EXE
+Default location: C:\PROGRAM FILES (X86)\GOOGLE\CHROME\APPLICATION\CHROME.EXE
+MD5: 66A4A7C7802E0968E07647999FFC87E2
+SHA1: 0CFB316A 83FCE157 C71B10B4 D4DF0A3E A9F65F1C
+File Size: 854 344
+
+Version Info:
+OriginalFilename: chrome.exe
+FileDescription: Google Chrome
+InternalName: chrome_exe
+CompanyName: Google Inc.
+FileVersion: 38.0.2125.111
+LegalCopyright: Copyright 2012 Google Inc. All rights reserved.
+ProductName: Google Chrome
+ProductVersion: 38.0.2125.111
+
+PE Info of the C:\PROGRAM FILES (X86)\GOOGLE\CHROME\APPLICATION\CHROME.EXE:
+
+Type is Windows GUI.
+DOS-stub: 280 bytes
+built for machine: Intel 80386 processor
+  (32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+0 entries in symbol table
+6 sections
+created (GMT): Wed Oct 22 02:28:11 2014
+Linker version: 12.0
+.text start:   0x1000, length: 411648 bytes
+.data start:  0x66000, length: 451072 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at     0x48a74
+Preferred load base is 0x400000
+Image size in RAM: 860 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 5.1, Win32 5.1, App 0.0
+Checksum: 0x000dd5bf
+uses Win32 graphical subsystem
+Stack: 1024 KB reserved,   4 KB committed
+Heap:  1024 KB reserved,   4 KB committed
+Size of headers / offset to sections in file: 0x400
+
+".text" (virt. Size/Address: 0x64620)
+  411648 bytes at offset   0x1000 in RAM,    0x400 in file
+    contains code
+    default alignment (16 bytes)
+    is executable
+    is readable
+    at offset 0x47a74: execution start
+Section entropy 6.66156
+
+".rdata" (virt. Size/Address: 0x2e230)
+  189440 bytes at offset  0x66000 in RAM,  0x64c00 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+Section entropy 6.58555
+
+    at offset 0x2cab0 (352 bytes): Export Directory
+      module name: "chrome.exe"
+      created (GMT): Wed Oct 22 02:28:05 2014
+      version: 0.0
+      9 exported functions, list at 92ad8
+      9 exported names, list at 92afc
+      Ordinal base: 1
+      Ord. Hint Name                              RVA
+      ---- ---- ----                              ---
+         1    0 ClearBreakpadPipeEnvironmentVariable  2e11e
+         2    1 ClearCrashKeyValueImpl          2e13c
+         3    2 CrashForException               2e189
+         4    3 DumpProcess                     2e1c1
+         5    4 DumpProcessWithoutCrash         2e1d0
+         6    5 InjectDumpForHangDebugging      2e1df
+         7    6 InjectDumpProcessWithoutCrash   2e1f9
+         8    7 IsSandboxedProcess              2e9be
+         9    8 SetCrashKeyValueImpl            2e213
+
+    at offset 0x2cc10 (200 bytes): Import Directory
+
+      from "chrome_elf.dll":
+      not bound
+      name table at 0x9306c, address table at 0x66394
+        hint name
+        ---- ----
+           1 CreateFileW         
+           5 SignalChromeElf     
+
+      from "VERSION.dll":
+      not bound
+      name table at 0x93048, address table at 0x66370
+        hint name
+        ---- ----
+           7 GetFileVersionInfoSizeW
+          16 VerQueryValueW      
+           8 GetFileVersionInfoW 
+
+      from "WINMM.dll":
+      not bound
+      name table at 0x93058, address table at 0x66380
+        hint name
+        ---- ----
+         148 timeGetTime         
+
+      from "SHLWAPI.dll":
+      not bound
+      name table at 0x92ff0, address table at 0x66318
+        hint name
+        ---- ----
+         144 PathRemoveFileSpecW 
+
+      from "ADVAPI32.dll":
+      not bound
+      name table at 0x92cd8, address table at 0x66000
+        hint name
+        ---- ----
+         600 RegCloseKey         
+         239 DuplicateTokenEx    
+         378 GetUserNameW        
+         723 SetEntriesInAclW    
+         429 LookupPrivilegeValueW
+         280 EqualSid            
+         142 CreateRestrictedToken
+         146 CreateWellKnownSid  
+         133 CopySid             
+         354 GetSecurityInfo     
+         129 ConvertStringSecurityDescriptorToSecurityDescripto
+         744 SetSecurityInfo     
+         751 SetTokenInformation 
+         353 GetSecurityDescriptorSacl
+         330 GetLengthSid        
+         750 SetThreadToken      
+         131 ConvertStringSidToSidW
+         625 RegDisablePredefinedCache
+         238 DuplicateToken      
+         677 RegSetValueExA      
+         678 RegSetValueExW      
+         609 RegCreateKeyExW     
+         662 RegQueryValueExW    
+         656 RegQueryInfoKeyW    
+         624 RegDeleteValueW     
+         649 RegOpenKeyExW       
+         631 RegEnumKeyExW       
+         530 OpenProcessToken    
+         367 GetTokenInformation 
+         123 ConvertSidToStringSidW
+         139 CreateProcessAsUserW
+         798 SystemFunction036   
+         700 RevertToSelf        
+
+      from "USER32.dll":
+      not bound
+      name table at 0x92ff8, address table at 0x66320
+        hint name
+        ---- ----
+          80 CloseWindowStation  
+          76 CloseDesktop        
+         886 wsprintfW           
+         587 MessageBoxW         
+          97 CreateDesktopW      
+         429 GetThreadDesktop    
+         117 CreateWindowStationW
+         747 SetProcessWindowStation
+         402 GetProcessWindowStation
+         439 GetUserObjectInformationW
+         279 GetAsyncKeyState    
+         265 FindWindowExW       
+          60 CharUpperW          
+         466 GetWindowThreadProcessId
+           6 AllowSetForegroundWindow
+         528 IsWindow            
+         696 SendMessageTimeoutW 
+
+      from "KERNEL32.dll":
+      not bound
+      name table at 0x92d60, address table at 0x66088
+        hint name
+        ---- ----
+         794 GetUserDefaultLCID  
+         353 EnumSystemLocalesW  
+         909 IsValidCodePage     
+         446 GetACP              
+         672 GetOEMCP            
+         576 GetEnvironmentStringsW
+         439 FreeEnvironmentStringsW
+         791 GetTimeZoneInformation
+        1520 WriteConsoleW       
+        1110 ReadConsoleW        
+        1045 OutputDebugStringW  
+         569 GetDriveTypeW       
+        1206 RtlCaptureContext   
+        1179 ReleaseSemaphore    
+        1312 SetNamedPipeHandleState
+        1414 TransactNamedPipe   
+        1387 SystemTimeToFileTime
+         911 IsValidLocale       
+         945 LCMapStringW        
+         167 CompareStringW      
+         245 CreateSemaphoreW    
+         727 GetStartupInfoW     
+        1424 UnhandledExceptionFilter
+         461 GetCPInfo           
+        1210 RtlUnwind           
+        1327 SetStdHandle        
+         610 GetFullPathNameW    
+         520 GetConsoleMode      
+         502 GetConsoleCP        
+         365 ExitProcess         
+         904 IsProcessorFeaturePresent
+         316 EncodePointer       
+         738 GetStringTypeW      
+        1004 MultiByteToWideChar 
+        1501 WideCharToMultiByte 
+         961 LoadLibraryExA      
+         490 GetComputerNameExW  
+        1565 lstrlenW            
+         276 DebugBreak          
+        1384 SuspendThread       
+        1115 ReadProcessMemory   
+        1067 ProcessIdToSessionId
+        1215 SearchPathW         
+         231 CreateNamedPipeW    
+         221 CreateJobObjectW    
+        1373 SignalObjectAndWait 
+         697 GetProcessHandleCount
+         877 InterlockedDecrement
+         881 InterlockedIncrement
+         599 GetFileType         
+         963 LoadLibraryW        
+         770 GetThreadContext    
+        1390 TerminateJobObject  
+         869 InitializeCriticalSection
+        1530 WriteProcessMemory  
+        1458 VirtualProtectEx    
+        1460 VirtualQueryEx      
+         436 FormatMessageW      
+        1455 VirtualFreeEx       
+        1452 VirtualAllocEx      
+        1457 VirtualProtect      
+         240 CreateRemoteThread  
+        1273 SetEnvironmentVariableA
+         483 GetCommandLineW     
+        1263 SetCurrentDirectoryW
+         637 GetModuleFileNameW  
+         693 GetProcAddress      
+         962 LoadLibraryExW      
+         279 DecodePointer       
+        1096 RaiseException      
+         618 GetLastError        
+         845 HeapAlloc           
+         852 HeapReAlloc         
+         849 HeapFree            
+         854 HeapSize            
+         698 GetProcessHeap      
+         870 InitializeCriticalSectionAndSpinCount
+         286 DeleteCriticalSection
+         548 GetCurrentProcessId 
+         784 GetTickCount        
+         638 GetModuleHandleA    
+         313 DuplicateHandle     
+         547 GetCurrentProcess   
+        1467 WaitForSingleObject 
+         581 GetExitCodeProcess  
+         641 GetModuleHandleW    
+         966 LoadResource        
+         984 LockResource        
+        1374 SizeofResource      
+         420 FindResourceW       
+        1112 ReadFile            
+        1288 SetFilePointer      
+         142 CloseHandle         
+         750 GetSystemInfo       
+        1451 VirtualAlloc        
+        1454 VirtualFree         
+         440 FreeLibrary         
+         973 LocalFree           
+         654 GetNativeSystemInfo 
+         875 InterlockedCompareExchange
+         803 GetVersionExW       
+         229 CreateMutexW        
+         435 FormatMessageA      
+        1521 WriteFile           
+        1303 SetLastError        
+        1175 ReleaseMutex        
+        1474 WaitNamedPipeW      
+        1084 QueryPerformanceCounter
+         756 GetSystemTimeAsFileTime
+        1420 TzSpecificLocalTimeToSystemTime
+        1085 QueryPerformanceFrequency
+         578 GetEnvironmentVariableW
+        1274 SetEnvironmentVariableW
+         795 GetUserDefaultLangID
+         899 IsDebuggerPresent   
+         202 CreateEventW        
+         369 ExpandEnvironmentStringsW
+         708 GetProcessTimes     
+         957 LeaveCriticalSection
+         320 EnterCriticalSection
+         987 MapViewOfFile       
+         198 CreateDirectoryW    
+         590 GetFileAttributesW  
+         769 GetTempPathW        
+         541 GetCurrentDirectoryW
+         631 GetLongPathNameW    
+         211 CreateFileMappingW  
+        1077 QueryDosDeviceW     
+        1270 SetEndOfFile        
+        1289 SetFilePointerEx    
+         429 FlushFileBuffers    
+        1301 SetInformationJobObject
+         239 CreateProcessW      
+        1300 SetHandleInformation
+          45 AssignProcessToJobObject
+         733 GetStdHandle        
+        1205 ResumeThread        
+         622 GetLocaleInfoW      
+         797 GetUserDefaultUILanguage
+        1375 Sleep               
+         552 GetCurrentThreadId  
+         257 CreateThread        
+         747 GetSystemDirectoryW 
+         814 GetWindowsDirectoryW
+        1032 OpenProcess         
+         700 GetProcessId        
+         853 HeapSetInformation  
+        1391 TerminateProcess    
+         640 GetModuleHandleExW  
+        1360 SetUnhandledExceptionFilter
+        1169 RegisterWaitForSingleObject
+        1436 UnregisterWaitEx    
+        1411 TlsGetValue         
+        1412 TlsSetValue         
+        1409 TlsAlloc            
+        1410 TlsFree             
+         720 GetQueuedCompletionStatus
+         878 InterlockedExchange 
+        1055 PostQueuedCompletionStatus
+         219 CreateIoCompletionPort
+        1276 SetEvent            
+        1198 ResetEvent          
+        1465 WaitForMultipleObjects
+
+      from "USERENV.dll":
+      not bound
+      name table at 0x93040, address table at 0x66368
+        hint name
+        ---- ----
+          34 GetProfileType      
+
+      from "WTSAPI32.dll":
+      not bound
+      name table at 0x93060, address table at 0x66388
+        hint name
+        ---- ----
+          19 WTSFreeMemory       
+          34 WTSQuerySessionInformationW
+
+    at offset 0x430 (28 bytes): Debug Directory
+
+    at offset 0x2b2c8 (24 bytes): TLS Directory
+
+    at offset 0x2b280 (64 bytes): Load Configuration Directory
+
+    at offset 0x0 (928 bytes): Import Address Table
+
+    at offset 0x2c934 (128 bytes): unknown directory
+
+".data" (virt. Size/Address: 0x5b20)
+    7680 bytes at offset  0x95000 in RAM,  0x93000 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+    is writeable
+Section entropy 5.97053
+
+".tls" (virt. Size/Address: 0x2)
+     512 bytes at offset  0x9b000 in RAM,  0x94e00 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+    is writeable
+
+".rsrc" (virt. Size/Address: 0x35600)
+  218624 bytes at offset  0x9c000 in RAM,  0x95000 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+Section entropy 6.59146
+
+    at offset 0x0 (218624 bytes): Resource Directory
+        version: 0.0, created (GMT): Thu Jan 01 00:00:00 1970
+        name: "GOOGLEUPDATEAPPLICATIONCOMMANDS",         icon,         group icon,         version info,         unknown resource type 0x18, 
+    at offset 0x33000 (6472 bytes): Security Directory
+
+".reloc" (virt. Size/Address: 0x49e4)
+   18944 bytes at offset  0xd2000 in RAM,  0xca600 in file
+    contains initialized data
+    default alignment (16 bytes)
+    can be discarded
+    is readable
+Section entropy 6.27493
+
+    at offset 0x0 (18916 bytes): Base Relocation Table
+    (relocations skipped)
+
+Entropy: 6.66156

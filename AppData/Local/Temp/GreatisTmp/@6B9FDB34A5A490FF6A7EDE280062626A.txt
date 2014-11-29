@@ -1,0 +1,81 @@
+IEXPLORE.EXE
+Default location: C:\PROGRAM FILES\INTERNET EXPLORER\IEXPLORE.EXE
+MD5: 6B9FDB34A5A490FF6A7EDE280062626A
+SHA1: 7C4317A5 587E3697 52E91BC7 1E1F2C87 EF4DCE18
+File Size: 810 680
+
+Version Info:
+OriginalFilename: IEXPLORE.EXE.MUI
+FileDescription: Internet Explorer
+InternalName: iexplore
+CompanyName: Microsoft Corporation
+FileVersion: 11.00.9600.16428 (winblue_gdr.131013-1700)
+LegalCopyright: c Microsoft Corporation. All rights reserved.
+ProductName: Internet Explorer
+ProductVersion: 11.00.9600.16428
+
+PE Info of the C:\PROGRAM FILES\INTERNET EXPLORER\IEXPLORE.EXE:
+
+Type is Windows GUI.
+DOS-stub: 232 bytes
+built for machine: unknown processor: 8664
+  (non-32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+0 entries in symbol table
+6 sections
+created (GMT): Thu Sep 18 23:53:31 2014
+Linker version: 11.0
+.text start:   0x1000, length:  11264 bytes
+.data start: 0x40000000, length: 782848 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at      0x183c
+Preferred load base is      0x1
+Image size in RAM: 792 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 6.3, Win32 6.1, App 6.3
+Checksum: 0x000c70d6
+uses Win32 graphical subsystem
+Stack: 1024 KB reserved,   0 KB committed
+Heap:   56 KB reserved,   0 KB committed
+Size of headers / offset to sections in file: 0x400
+
+"" (virt. Size/Address: 0x0)
+  2019914798 bytes at offset      0x0 in RAM,     0x74 in file
+    default alignment (16 bytes)
+    at offset 0x183c: execution start
+
+"" (virt. Size/Address: 0x0)
+  1952539694 bytes at offset 0x60000020 in RAM,     0x61 in file
+    contents is COMDAT (common block data, packaged functions)
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1633972270 bytes at offset 0xc0000040 in RAM,   0x6174 in file
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1633970478 bytes at offset 0x40000040 in RAM,   0x6174 in file
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1920168494 bytes at offset 0x40000040 in RAM,     0x63 in file
+    contents will not become part of image
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1818587694 bytes at offset 0x40000040 in RAM,   0x636f in file
+    locked in memory
+    preload
+    default alignment (16 bytes)
+
+Entropy = 6.4793
+
+Entropy: 6.47935

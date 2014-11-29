@@ -1,0 +1,100 @@
+ATIHDW76.SYS
+Default location: C:\WINDOWS\SYSTEM32\DRIVERS\ATIHDW76.SYS
+MD5: FF50A62EFA151EBCFCDD37A76CA9EA92
+SHA1: BF23274E 0C04BCE8 09A2C8A8 B3597A01 71EB6178
+File Size: 94 720
+
+Version Info:
+OriginalFilename: AtihdW7.sys
+FileDescription: AMD High Definition Audio Function Driver
+InternalName: AtihdW7.sys
+CompanyName: Advanced Micro Devices
+FileVersion: 7.12.0.7719
+LegalCopyright: c Advanced Micro Devices. All rights reserved.
+ProductName: AMD HD Audio Driver
+ProductVersion: 7.12.0.7719
+
+PE Info of the C:\WINDOWS\SYSTEM32\DRIVERS\ATIHDW76.SYS:
+
+Type is native.
+DOS-stub: 232 bytes
+built for machine: unknown processor: 8664
+  (non-32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+0 entries in symbol table
+9 sections
+created (GMT): Tue Apr 08 23:50:32 2014
+Linker version: 9.0
+.text start:   0x1000, length:  77824 bytes
+.data start:  0x10000, length:  15872 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at     0x18114
+Preferred load base is      0x0
+Image size in RAM: 108 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 6.1, Win32 6.1, App 6.1
+Checksum: 0x0001ec44
+uses no subsystem
+Stack: 256 KB reserved,   0 KB committed
+Heap:    4 KB reserved,   0 KB committed
+Size of headers / offset to sections in file: 0x400
+
+"" (virt. Size/Address: 0x0)
+  2019914798 bytes at offset      0x0 in RAM,     0x74 in file
+    default alignment (16 bytes)
+    at offset 0x18114: execution start
+
+"" (virt. Size/Address: 0x0)
+  1162104643 bytes at offset 0x68000020 in RAM,      0x0 in file
+    contains comments / information
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1633972782 bytes at offset 0x68000020 in RAM,   0x6174 in file
+    contents will not become part of image
+    ? far data ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1952539694 bytes at offset 0x48000040 in RAM,     0x61 in file
+    contains comments / information
+    ? far data ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1633972270 bytes at offset 0xc8000040 in RAM,   0x6174 in file
+    contains comments / information
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1162297680 bytes at offset 0x48000040 in RAM,      0x0 in file
+    contains comments / information
+    ? far data ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1414090313 bytes at offset 0x60000020 in RAM,      0x0 in file
+    contains comments / information
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1920168494 bytes at offset 0xe2000020 in RAM,     0x63 in file
+    contains comments / information
+    contents will not become part of image
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1818587694 bytes at offset 0x42000040 in RAM,   0x636f in file
+    contains comments / information
+    contents will not become part of image
+    default alignment (16 bytes)
+
+Entropy = 6.0401
+
+Entropy: 6.04007

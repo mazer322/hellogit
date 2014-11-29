@@ -1,0 +1,183 @@
+CLISTART.EXE
+Default location: C:\PROGRAM FILES (X86)\ATI TECHNOLOGIES\ATI.ACE\CORE-STATIC\CLISTART.EXE
+MD5: CF2B44CBA42052EEC6A9037985392D87
+SHA1: 0AE1D527 46E77F7A 03152C03 01ADC713 65952041
+File Size: 98 304
+
+Version Info:
+OriginalFilename: CLIStart.exe
+FileDescription: Catalystr Control Center Launcher
+InternalName: CLIStart
+CompanyName: Advanced Micro Devices, Inc.
+FileVersion: 1, 0, 0, 1
+LegalCopyright: c 2008 Advanced Micro Devices, Inc.
+ProductName: Catalystr Control Center
+ProductVersion: 1, 0, 0, 1
+
+PE Info of the C:\PROGRAM FILES (X86)\ATI TECHNOLOGIES\ATI.ACE\CORE-STATIC\CLISTART.EXE:
+
+Type is Windows GUI.
+DOS-stub: 224 bytes
+built for machine: Intel 80386 processor
+  (32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+0 entries in symbol table
+4 sections
+created (GMT): Thu Oct 28 15:06:42 2010
+Linker version: 8.0
+.text start:   0x1000, length:  28672 bytes
+.data start:   0x8000, length:  65536 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at      0x20b5
+Preferred load base is 0x400000
+Image size in RAM: 100 KB
+Sections aligned to 4096 bytes in RAM, 4096 bytes in file
+Versions: NT 4.0, Win32 4.0, App 0.0
+Checksum: 0x0002530a
+uses Win32 graphical subsystem
+Stack: 1024 KB reserved,   4 KB committed
+Heap:  1024 KB reserved,   4 KB committed
+Size of headers / offset to sections in file: 0x1000
+
+".text" (virt. Size/Address: 0x6f88)
+   28672 bytes at offset   0x1000 in RAM,   0x1000 in file
+    contains code
+    default alignment (16 bytes)
+    is executable
+    is readable
+    at offset 0x10b5: execution start
+Section entropy 6.08806
+
+".rdata" (virt. Size/Address: 0x2858)
+   12288 bytes at offset   0x8000 in RAM,   0x8000 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+Section entropy 5.10477
+
+    at offset 0x2124 (80 bytes): Import Directory
+
+      from "KERNEL32.dll":
+      not bound
+      name table at 0xa1a4, address table at 0x8030
+        hint name
+        ---- ----
+         917 WinExec             
+         248 FreeLibrary         
+         854 Sleep               
+         416 GetProcAddress      
+         594 LoadLibraryA        
+         489 GetVersionExA       
+         528 HeapAlloc           
+         369 GetLastError        
+         534 HeapFree            
+         272 GetCommandLineA     
+         419 GetProcessHeap      
+         439 GetStartupInfoA     
+         862 TerminateProcess    
+         322 GetCurrentProcess   
+         878 UnhandledExceptionFilter
+         842 SetUnhandledExceptionFilter
+         569 IsDebuggerPresent   
+         679 RaiseException      
+         129 DeleteCriticalSection
+         593 LeaveCriticalSection
+         152 EnterCriticalSection
+         899 VirtualFree         
+         897 VirtualAlloc        
+         538 HeapReAlloc         
+         532 HeapDestroy         
+         530 HeapCreate          
+         383 GetModuleHandleA    
+         185 ExitProcess         
+         932 WriteFile           
+         441 GetStdHandle        
+         381 GetModuleFileNameA  
+         246 FreeEnvironmentStringsA
+         341 GetEnvironmentStrings
+         247 FreeEnvironmentStringsW
+         916 WideCharToMultiByte 
+         343 GetEnvironmentStringsW
+         804 SetHandleCount      
+         358 GetFileType         
+         869 TlsGetValue         
+         867 TlsAlloc            
+         870 TlsSetValue         
+         868 TlsFree             
+         556 InterlockedIncrement
+         808 SetLastError        
+         326 GetCurrentThreadId  
+         552 InterlockedDecrement
+         675 QueryPerformanceCounter
+         479 GetTickCount        
+         323 GetCurrentProcessId 
+         458 GetSystemTimeAsFileTime
+         540 HeapSize            
+         260 GetCPInfo           
+         253 GetACP              
+         403 GetOEMCP            
+         547 InitializeCriticalSection
+         727 RtlUnwind           
+         580 LCMapStringA        
+         629 MultiByteToWideChar 
+         581 LCMapStringW        
+         442 GetStringTypeA      
+         445 GetStringTypeW      
+         372 GetLocaleInfoA      
+
+      from "USER32.dll":
+      not bound
+      name table at 0xa2a0, address table at 0x812c
+        hint name
+        ---- ----
+         437 KillTimer           
+         314 GetMessageA         
+         634 SetTimer            
+         480 MessageBoxExA       
+
+      from "ADVAPI32.dll":
+      not bound
+      name table at 0xa174, address table at 0x8000
+        hint name
+        ---- ----
+         492 RegOpenKeyExA       
+         465 RegCreateKeyExA     
+         570 SetSecurityDescriptorDacl
+          16 AddAccessAllowedAce 
+         307 InitializeAcl       
+         572 SetSecurityDescriptorOwner
+         308 InitializeSecurityDescriptor
+         226 FreeSid             
+          29 AllocateAndInitializeSid
+         459 RegCloseKey         
+         503 RegQueryValueExA    
+
+    at offset 0x180 (28 bytes): Debug Directory
+
+    at offset 0x1c68 (64 bytes): Load Configuration Directory
+
+    at offset 0x0 (320 bytes): Import Address Table
+
+".data" (virt. Size/Address: 0x195c)
+    4096 bytes at offset   0xb000 in RAM,   0xb000 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+    is writeable
+Section entropy 0.706828
+
+".rsrc" (virt. Size/Address: 0xb648)
+   49152 bytes at offset   0xd000 in RAM,   0xc000 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+Section entropy 5.82978
+
+    at offset 0x0 (46664 bytes): Resource Directory
+        version: 4.0, created (GMT): Thu Jan 01 00:00:00 1970
+        icon,         group icon,         version info,         unknown resource type 0x18, 
+Entropy: 6.08806

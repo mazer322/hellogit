@@ -1,0 +1,6 @@
+# This file is used by Skyrim to keep track of your downloaded content.
+# Please do not modify this file.
+Dawnguard.esm
+Dragonborn.esm
+HearthFires.esm
+ColorfulLightsNoShadows.esp

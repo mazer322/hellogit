@@ -1,0 +1,94 @@
+ATIKMPAG.SYS
+Default location: C:\WINDOWS\SYSTEM32\DRIVERS\ATIKMPAG.SYS
+MD5: 5FC9D833F726383D9D60205F5A3CF16B
+SHA1: 15E1E10F 199CAA9D B508EAD0 475B5DED F8804F64
+File Size: 285 696
+
+Version Info:
+OriginalFilename: atikmpag.sys
+FileDescription: AMD multi-vendor Miniport Driver
+InternalName: atikmpag.sys
+CompanyName: Advanced Micro Devices, Inc.
+FileVersion: 8.14.01.6150
+LegalCopyright: Copyright (C) 2007 Advanced Micro Devices, Inc.
+ProductName: AMD driver
+ProductVersion: 8.14.01.6150
+
+PE Info of the C:\WINDOWS\SYSTEM32\DRIVERS\ATIKMPAG.SYS:
+
+Type is Windows console application.
+DOS-stub: 232 bytes
+built for machine: unknown processor: 8664
+  (non-32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+0 entries in symbol table
+7 sections
+created (GMT): Thu Oct 28 15:03:39 2010
+Linker version: 9.0
+.text start:   0x1000, length: 165888 bytes
+.data start: 0x40000000, length: 123904 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at     0x46658
+Preferred load base is      0x1
+Image size in RAM: 300 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 6.1, Win32 6.1, App 6.1
+Checksum: 0x0004e21d
+uses Win32 console subsystem
+Stack: 256 KB reserved,   0 KB committed
+Heap:    4 KB reserved,   0 KB committed
+Size of headers / offset to sections in file: 0x400
+
+"" (virt. Size/Address: 0x0)
+  2019914798 bytes at offset      0x0 in RAM,     0x74 in file
+    default alignment (16 bytes)
+    at offset 0x46658: execution start
+
+"" (virt. Size/Address: 0x0)
+  1162297680 bytes at offset 0x60000020 in RAM,      0x0 in file
+    contents will not become part of image
+    purgeable
+    ? 16-bit-section ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1952539694 bytes at offset 0x60000020 in RAM,     0x61 in file
+    ? far data ?
+    purgeable
+    ? 16-bit-section ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1633972270 bytes at offset 0xc0000040 in RAM,   0x6174 in file
+    contains comments / information
+    contents will not become part of image
+    locked in memory
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1414090313 bytes at offset 0x40000040 in RAM,      0x0 in file
+    contains comments / information
+    locked in memory
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1920168494 bytes at offset 0x62000020 in RAM,     0x63 in file
+    contains comments / information
+    contents will not become part of image
+    locked in memory
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1818587694 bytes at offset 0x40000040 in RAM,   0x636f in file
+    contains comments / information
+    contents is COMDAT (common block data, packaged functions)
+    locked in memory
+    default alignment (16 bytes)
+
+Entropy = 5.3525
+
+Entropy: 5.35252

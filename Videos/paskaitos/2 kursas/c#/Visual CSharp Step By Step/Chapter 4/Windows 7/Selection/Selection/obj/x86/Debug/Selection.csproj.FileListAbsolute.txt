@@ -1,0 +1,12 @@
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\bin\Debug\Selection.exe
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\bin\Debug\Selection.pdb
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\x86\Debug\Selection.csprojResolveAssemblyReference.cache
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\x86\Debug\MainWindow.baml
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\x86\Debug\MainWindow.g.cs
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\x86\Debug\App.g.cs
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\x86\Debug\Selection_MarkupCompile.cache
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\x86\Debug\Selection.g.resources
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\x86\Debug\Selection.Properties.Resources.resources
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\x86\Debug\Selection.csproj.GenerateResource.Cache
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\x86\Debug\Selection.exe
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\Visual CSharp Step By Step\Chapter 4\Windows 7\Selection\Selection\obj\x86\Debug\Selection.pdb

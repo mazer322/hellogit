@@ -1,0 +1,98 @@
+ATHRX.SYS
+Default location: C:\WINDOWS\SYSTEM32\DRIVERS\ATHRX.SYS
+MD5: 16567AB05CD34F46D0DCBB129CA143C2
+SHA1: 533EBB73 2D0DF25C 16F055B7 8DCA3C06 215EB8AE
+File Size: 2 768 384
+
+Version Info:
+OriginalFilename: ATHR.SYS
+FileDescription: Atheros Extensible Wireless LAN device driver
+InternalName: ATHR.SYS
+CompanyName: Atheros Communications, Inc.
+FileVersion: 9.2.0.439 built by: WinDDK
+LegalCopyright: Copyright (C) 2001-2010 Atheros Communications, Inc.
+ProductName: Driver for Atheros CB42/CB43/MB42/MB43 Network Adapter
+ProductVersion: 9.2.0.439
+
+PE Info of the C:\WINDOWS\SYSTEM32\DRIVERS\ATHRX.SYS:
+
+Type is native.
+DOS-stub: 216 bytes
+built for machine: unknown processor: 8664
+  (non-32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+0 entries in symbol table
+7 sections
+created (GMT): Thu Aug 04 03:57:02 2011
+Linker version: 9.0
+.text start:   0x1000, length: 2134528 bytes
+.data start:  0x10000, length: 642560 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at    0x2a3064
+Preferred load base is      0x0
+Image size in RAM: 2724 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 6.1, Win32 6.1, App 6.1
+Checksum: 0x002b1f0b
+uses no subsystem
+Stack: 256 KB reserved,   0 KB committed
+Heap:    4 KB reserved,   0 KB committed
+Size of headers / offset to sections in file: 0x400
+
+"" (virt. Size/Address: 0x0)
+  2019914798 bytes at offset      0x0 in RAM,     0x74 in file
+    default alignment (16 bytes)
+    at offset 0x2a3064: execution start
+
+"" (virt. Size/Address: 0x0)
+  1633972782 bytes at offset 0x68000020 in RAM,   0x6174 in file
+    ? far data ?
+    2-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1952539694 bytes at offset 0x48000040 in RAM,     0x61 in file
+    contains comments / information
+    ? far data ?
+    purgeable
+    ? 16-bit-section ?
+    locked in memory
+    2-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1633972270 bytes at offset 0xc8000040 in RAM,   0x6174 in file
+    contents will not become part of image
+    preload
+    2-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1414090313 bytes at offset 0x48000040 in RAM,      0x0 in file
+    contains comments / information
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    preload
+    2-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1920168494 bytes at offset 0xe2000020 in RAM,     0x63 in file
+    contents will not become part of image
+    purgeable
+    ? 16-bit-section ?
+    preload
+    2-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1818587694 bytes at offset 0x42000040 in RAM,   0x636f in file
+    contains comments / information
+    contents will not become part of image
+    purgeable
+    ? 16-bit-section ?
+    preload
+    2-byte-alignment
+
+Entropy = 5.7600
+
+Entropy: 5.75995

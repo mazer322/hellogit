@@ -1,0 +1,4 @@
+Dawnguard.esm
+Dragonborn.esm
+HearthFires.esm
+ColorfulLightsNoShadows.esp

@@ -1,0 +1,12 @@
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 13\Windows 7\Drawing\Drawing\bin\Debug\Drawing.exe
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 13\Windows 7\Drawing\Drawing\bin\Debug\Drawing.pdb
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 13\Windows 7\Drawing\Drawing\obj\x86\Debug\Drawing.csprojResolveAssemblyReference.cache
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 13\Windows 7\Drawing\Drawing\obj\x86\Debug\DrawingPad.baml
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 13\Windows 7\Drawing\Drawing\obj\x86\Debug\DrawingPad.g.cs
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 13\Windows 7\Drawing\Drawing\obj\x86\Debug\App.g.cs
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 13\Windows 7\Drawing\Drawing\obj\x86\Debug\Drawing_MarkupCompile.cache
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 13\Windows 7\Drawing\Drawing\obj\x86\Debug\Drawing.g.resources
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 13\Windows 7\Drawing\Drawing\obj\x86\Debug\Drawing.Properties.Resources.resources
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 13\Windows 7\Drawing\Drawing\obj\x86\Debug\Drawing.csproj.GenerateResource.Cache
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 13\Windows 7\Drawing\Drawing\obj\x86\Debug\Drawing.exe
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 13\Windows 7\Drawing\Drawing\obj\x86\Debug\Drawing.pdb

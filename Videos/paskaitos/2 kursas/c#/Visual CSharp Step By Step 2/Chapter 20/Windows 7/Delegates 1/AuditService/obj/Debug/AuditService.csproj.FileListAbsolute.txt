@@ -1,0 +1,7 @@
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 20\Windows 7\Delegates - Complete\AuditService\bin\Debug\AuditService.dll
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 20\Windows 7\Delegates - Complete\AuditService\bin\Debug\AuditService.pdb
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 20\Windows 7\Delegates - Complete\AuditService\bin\Debug\DataTypes.dll
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 20\Windows 7\Delegates - Complete\AuditService\bin\Debug\DataTypes.pdb
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 20\Windows 7\Delegates - Complete\AuditService\obj\Debug\AuditService.csprojResolveAssemblyReference.cache
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 20\Windows 7\Delegates - Complete\AuditService\obj\Debug\AuditService.dll
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 20\Windows 7\Delegates - Complete\AuditService\obj\Debug\AuditService.pdb

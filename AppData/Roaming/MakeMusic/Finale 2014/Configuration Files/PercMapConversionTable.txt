@@ -1,0 +1,84 @@
+//Pre-2010 Map Name,MIDI Map File,MIDI Map Name
+Cymbals GCMB,CAMB Cymbals.xml,CaMB Cymbals
+Cymbals GPO,CAMB Cymbals.xml,Cymbals GPO
+Gong GCMB,CAMB Cymbals.xml,Gong
+VDL for Garritan Cymbals - HiHat,CAMB Cymbals.xml,VDL Cymbals Hi-Hats
+VDL for Garritan Finger Cymbals,CAMB Cymbals.xml,VDL Finger Cymbals
+VDL for Garritan Bassline,CAMB Drum Lines.xml,VDL Bassline
+VDL for Garritan Bassline,Tapspace Drumline for Finale.xml, VDLite Bassline
+VDL for Garritan Snareline,CAMB Drum Lines.xml,VDL Snareline
+VDL for Garritan Snareline,Tapspace Drumline for Finale.xml,VDLite Snareline
+VDL for Garritan Castanets,CAMB Percussion.xml,Castanets
+VDL for Garritan Flexatones,CAMB Percussion.xml,Flexatone
+VDL for Garritan Police Whistle,CAMB Percussion.xml,Police Whistle
+Triangle GCMB,CAMB Percussion.xml,Triangle
+Snare Drum GCMB,CAMB Single Drums.xml,Snare Drum
+Tenor Drums GCMB,CAMB Single Drums.xml,Tenor Drums
+Toms GCMB,CAMB Single Drums.xml,Toms
+VDL for Garritan Concert Toms,CAMB Single Drums.xml,VDL Concert Toms
+VDL for Garritan Impact Drum,CAMB Single Drums.xml,VDL Impact Drums
+VDL for Garritan RotoToms,CAMB Single Drums.xml,VDL Roto Toms
+Basic Orch Percussion GPO Finale Edition,Garritan Instruments for Finale.xml,Basic Orch Percussion
+Bass Drum Full GPO,Garritan Instruments for Finale.xml,Basic Orch Percussion
+Ethnic Percussion,Garritan Instruments for Finale.xml,Ethnic Percussion
+Gamelan Ensemble,Garritan Instruments for Finale.xml,Gamelan Ensemble
+Marching Percussion GIF,Garritan Instruments for Finale.xml,Marching Percussion
+Percussion Toys Full GPO,Garritan Personal Orchestra.xml,Percussion Toys
+Brush Drum Kit GJBB,JABB Drum Sets and Percussion.xml,Brush Drum Kit
+Brush Dass Drum GJBB,JABB Drum Sets and Percussion.xml,Brush Kick Drum
+Brush Snare GJBB,JABB Drum Sets and Percussion.xml,Brush Snare
+Bata GJBB,JABB Drum Sets and Percussion.xml,Drums
+Bongo GJBB,JABB Drum Sets and Percussion.xml,Drums
+Cajone GJBB,JABB Drum Sets and Percussion.xml,Drums
+Conga GJBB,JABB Drum Sets and Percussion.xml,Drums
+Cuica GJBB,JABB Drum Sets and Percussion.xml,Drums
+Djembe GJBB,JABB Drum Sets and Percussion.xml,Drums
+Pandero GJBB,JABB Drum Sets and Percussion.xml,Drums
+The Box GJBB,JABB Drum Sets and Percussion.xml,Drums
+Timbales GJBB,JABB Drum Sets and Percussion.xml,Drums
+Tumba GJBB,JABB Drum Sets and Percussion.xml,Drums
+Udu GJBB,JABB Drum Sets and Percussion.xml,Drums
+Quinto GJBB,JABB Drum Sets and Percussion.xml,Drums
+Super Tumba GJBB,JABB Drum Sets and Percussion.xml,Drums
+Surdu GJBB,JABB Drum Sets and Percussion.xml,Drums
+All Drums,JABB Drum Sets and Percussion.xml,Drums
+GM Drum Kit GJBB,JABB Drum Sets and Percussion.xml,GM Classic Jazz Drum Kit
+Cha Chi Bells GJBB,JABB Drum Sets and Percussion.xml,Gourds\, Blocks\, Bells\, Misc.
+Guira GJBB,JABB Drum Sets and Percussion.xml,Gourds\, Blocks\, Bells\, Misc.
+Guiro GJBB,JABB Drum Sets and Percussion.xml,Gourds\, Blocks\, Bells\, Misc.
+Handclaps Fingersnaps GJBB,JABB Drum Sets and Percussion.xml,Gourds\, Blocks\, Bells\, Misc.
+Jam Block GJBB,JABB Drum Sets and Percussion.xml,Gourds\, Blocks\, Bells\, Misc.
+Maracas GJBB,JABB Drum Sets and Percussion.xml,Gourds\, Blocks\, Bells\, Misc.
+Rainstick GJBB,JABB Drum Sets and Percussion.xml,Gourds\, Blocks\, Bells\, Misc.
+Shaker GJBB,JABB Drum Sets and Percussion.xml,Gourds\, Blocks\, Bells\, Misc.
+Shekere GJBB,JABB Drum Sets and Percussion.xml,Gourds\, Blocks\, Bells\, Misc.
+Tambourine GJBB,JABB Drum Sets and Percussion.xml,Gourds\, Blocks\, Bells\, Misc.
+Timbale Bell GJBB,JABB Drum Sets and Percussion.xml,Gourds\, Blocks\, Bells\, Misc.
+Triangle GJBB,JABB Drum Sets and Percussion.xml,Gourds\, Blocks\, Bells\, Misc.
+Whistle GJBB,JABB Drum Sets and Percussion.xml,Gourds\, Blocks\, Bells\, Misc.
+Agogo Bells GJBB,JABB Drum Sets and Percussion.xml,Gourds\, Blocks\, Bells\, Misc.
+Bongo Bells GJBB,JABB Drum Sets and Percussion.xml,Gourds\, Blocks\, Bells\, Misc.
+All Gourds\, Blocks\, Bells\, Misc.,JABB Drum Sets and Percussion.xml,Gourds\, Blocks\, Bells\, Misc.
+Jazz Fusion Bass Drum GJBB,JABB Drum Sets and Percussion.xml,Jazz Fusion Bass Drum
+Jazz Fusion Snare GJBB,JABB Drum Sets and Percussion.xml,Jazz Fusion Snare
+Jazz Fusion Drum Kit GJBB,JABB Drum Sets and Percussion.xml,Jazz Fusion Drum Kit
+Jazz Fusion Drum Kit GJBB,Garritan Instruments for Finale.xml,Jazz Fusion Drum Kit
+*Cortijo's Percussion Set-Up*,SmartMusic SoftSynth.xml,Latin Percussion
+*Cortijo's Claves*,SmartMusic SoftSynth.xml,Latin Percussion
+*Cortijo's Timbales Set-Up*,SmartMusic SoftSynth.xml,Latin Percussion
+*Cortijo's Congas*,SmartMusic SoftSynth.xml,Latin Percussion
+*Cortijo's Bongos + Campana*,SmartMusic SoftSynth.xml,Latin Percussion
+*Cortijo's Guiro*,SmartMusic SoftSynth.xml,Latin Percussion
+*Cortijo's Maracas*,SmartMusic SoftSynth.xml,Latin Percussion
+Marching Snare (Channel 10\, Patch 2),SmartMusic SoftSynth.xml,Row-Loff Marching Percussion
+Quad Toms (Channel 10\, Patch 2),SmartMusic SoftSynth.xml,Row-Loff Marching Percussion
+Quint Toms (Channel 10\, Patch 2),SmartMusic SoftSynth.xml,Row-Loff Marching Percussion
+Bass Drum (5-line Channel 10\, Patch 2),SmartMusic SoftSynth.xml,Row-Loff Marching Percussion
+Crash Cymbals (Channel 10\, Patch 2),SmartMusic SoftSynth.xml,Row-Loff Marching Percussion
+Auxiliary Percussion (Channel 10\, Patch 2),SmartMusic SoftSynth.xml,Row-Loff Marching Percussion
+Marching Percussion (Channel 10\, Patch 2),SmartMusic SoftSynth.xml,Row-Loff Marching Percussion
+VDL for GIFF Cymbal Line,Tapspace Drumline for Finale.xml,VDLite Cymbal Line
+VDL for Garritan General MIDI Set,Tapspace Drumline for Finale.xml,VDLite General MIDI Percussion Map
+VDL for Garritan Snareline A,Tapspace Drumline for Finale.xml,VDLite Snareline
+VDL for Garritan Snareline C/B,Tapspace Drumline for Finale.xml,VDLite Snareline
+VDL for Garritan Tenorline,Tapspace Drumline for Finale.xml,VDLite Tenorline

@@ -1,0 +1,377 @@
+STEAMSERVICE.EXE
+Default location: C:\PROGRAM FILES (X86)\COMMON FILES\STEAM\STEAMSERVICE.EXE
+MD5: 189879824D01F9A0DD1D72259A120F50
+SHA1: 41733498 D9556EEF 68140652 C30125CB 5C181B99
+File Size: 833 728
+
+Version Info:
+OriginalFilename: SteamSer.exe
+FileDescription: Steam Client Service
+InternalName: Steam Client Service (buildbot_steam-rel-win32-builder_steam_rel_client_win32@steam-rel-win32-builder)
+CompanyName: Valve Corporation
+FileVersion: 02.45.19.81
+LegalCopyright: Copyright (C) 2007
+ProductName: Steam Client Service
+ProductVersion: 01.00.00.01
+
+PE Info of the C:\PROGRAM FILES (X86)\COMMON FILES\STEAM\STEAMSERVICE.EXE:
+
+Type is Windows console application.
+DOS-stub: 272 bytes
+built for machine: Intel 80386 processor
+  (32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+0 entries in symbol table
+5 sections
+created (GMT): Mon Oct 20 21:10:07 2014
+Linker version: 12.0
+.text start:   0x1000, length: 362496 bytes
+.data start:  0x5a000, length: 465408 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at     0x3d16e
+Preferred load base is 0x400000
+Image size in RAM: 1264 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 5.1, Win32 5.1, App 0.0
+Checksum: 0x000d9346
+uses Win32 console subsystem
+Stack: 1024 KB reserved,   4 KB committed
+Heap:  1024 KB reserved,   4 KB committed
+Size of headers / offset to sections in file: 0x400
+
+".text" (virt. Size/Address: 0x5870c)
+  362496 bytes at offset   0x1000 in RAM,    0x400 in file
+    contains code
+    default alignment (16 bytes)
+    is executable
+    is readable
+    at offset 0x3c16e: execution start
+Section entropy 6.62401
+
+".rdata" (virt. Size/Address: 0x1e01c)
+  123392 bytes at offset  0x5a000 in RAM,  0x58c00 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+Section entropy 6.41501
+
+    at offset 0x1cb40 (88 bytes): Export Directory
+      module name: "steamservice.exe"
+      created (GMT): Mon Oct 20 21:10:07 2014
+      version: 0.0
+      1 exported functions, list at 76b68
+      1 exported names, list at 76b6c
+      Ordinal base: 1
+      Ord. Hint Name                              RVA
+      ---- ---- ----                              ---
+         1    0 g_dwDllEntryThreadId            e917c
+
+    at offset 0x1cb98 (180 bytes): Import Directory
+
+      from "SHLWAPI.dll":
+      not bound
+      name table at 0x76f50, address table at 0x5a304
+        hint name
+        ---- ----
+         178 SHDeleteKeyA        
+         255 SHStrDupW           
+         179 SHDeleteKeyW        
+
+      from "WS2_32.dll":
+      not bound
+      name table at 0x76fb4, address table at 0x5a368
+        hint name
+        ---- ----
+         115 ordinal             
+          57 ordinal             
+
+      from "SHELL32.dll":
+      not bound
+      name table at 0x76f3c, address table at 0x5a2f0
+        hint name
+        ---- ----
+         191 SHGetFolderPathA    
+         286 ShellExecuteA       
+         207 SHGetMalloc         
+         224 SHGetSpecialFolderPathA
+
+      from "KERNEL32.dll":
+      not bound
+      name table at 0x76cf8, address table at 0x5a0ac
+        hint name
+        ---- ----
+         751 InterlockedIncrement
+         691 GlobalAlloc         
+         702 GlobalLock          
+         709 GlobalUnlock        
+         448 GetCurrentProcess   
+        1139 SetLastError        
+         496 GetFileSize         
+        1317 WriteFile           
+         221 DeviceIoControl     
+         302 FindClose           
+         284 ExpandEnvironmentStringsA
+         507 GetFullPathNameW    
+         136 CreateFileA         
+        1118 SetFileAttributesA  
+         485 GetFileAttributesA  
+         490 GetFileAttributesW  
+         306 FindFirstFileA      
+         747 InterlockedDecrement
+         112 CopyFileA           
+         863 MoveFileExA         
+         675 GetVersionExA       
+         921 ProcessIdToSessionId
+        1268 WTSGetActiveConsoleSessionId
+         871 MultiByteToWideChar 
+         190 CreateToolhelp32Snapshot
+         917 Process32First      
+         919 Process32Next       
+         960 ReadFile            
+         143 CreateFileW         
+         452 GetCurrentThread    
+         935 QueryPerformanceCounter
+         936 QueryPerformanceFrequency
+         567 GetOEMCP            
+         360 GetACP              
+         778 IsValidCodePage     
+          21 AreFileApisANSI     
+         535 GetModuleHandleExW  
+         281 ExitProcess         
+         100 CompareStringW      
+        1202 Sleep               
+         659 GetTickCount        
+        1216 TerminateProcess    
+         896 OpenProcess         
+         840 LocalFree           
+         439 GetConsoleWindow    
+        1095 SetConsoleTitleA    
+        1069 SetConsoleCtrlHandler
+         211 DeleteFileA         
+         486 GetFileAttributesExA
+        1024 RemoveDirectoryA    
+         124 CreateDirectoryA    
+         905 OutputDebugStringA  
+         390 GetCommandLineA     
+         164 CreateProcessA      
+         531 GetModuleFileNameA  
+         828 LoadLibraryA        
+        1357 lstrlenA            
+         354 FreeLibrary         
+         446 GetCurrentDirectoryA
+        1100 SetCurrentDirectoryA
+        1110 SetEnvironmentVariableA
+         168 CreateProcessW      
+          82 CloseHandle         
+        1273 WaitForSingleObject 
+         514 GetLastError        
+         474 GetEnvironmentStringsW
+         479 GetExitCodeProcess  
+         533 GetModuleHandleA    
+         581 GetProcAddress      
+         612 GetStdHandle        
+         582 GetProcessAffinityMask
+         499 GetFileType         
+         428 GetConsoleMode      
+         958 ReadConsoleW        
+         353 FreeEnvironmentStringsW
+         447 GetCurrentDirectoryW
+        1265 VirtualQuery        
+         410 GetConsoleCP        
+        1159 SetStdHandle        
+         906 OutputDebugStringW  
+        1316 WriteConsoleW       
+         721 HeapQueryInformation
+         323 FindNextFileA       
+         772 IsProcessorFeaturePresent
+         536 GetModuleHandleW    
+         611 GetStartupInfoW     
+        1235 UnhandledExceptionFilter
+         370 GetCPInfo           
+         722 HeapReAlloc         
+         515 GetLocalTime        
+        1048 RtlUnwind           
+         587 GetProcessHeaps     
+         727 HeapValidate        
+         724 HeapSize            
+         719 HeapFree            
+         715 HeapAlloc           
+         749 InterlockedExchangeAdd
+         199 DebugBreak          
+         745 InterlockedCompareExchange
+         748 InterlockedExchange 
+         617 GetStringTypeW      
+        1150 SetProcessAffinityMask
+         627 GetSystemInfo       
+        1297 WideCharToMultiByte 
+         813 LCMapStringW        
+         453 GetCurrentThreadId  
+         343 FlushFileBuffers    
+        1107 SetEndOfFile        
+        1127 SetFilePointerEx    
+         467 GetDriveTypeW       
+         129 CreateDirectoryW    
+         238 EnterCriticalSection
+         825 LeaveCriticalSection
+         768 IsDebuggerPresent   
+         738 InitializeCriticalSection
+         209 DeleteCriticalSection
+        1257 VirtualAlloc        
+         449 GetCurrentProcessId 
+         532 GetModuleFileNameW  
+         586 GetProcessHeap      
+         720 HeapLock            
+         726 HeapUnlock          
+         728 HeapWalk            
+         945 RaiseException      
+        1168 SetThreadAffinityMask
+         901 OpenThread          
+         654 GetThreadPriority   
+         480 GetExitCodeThread   
+         739 InitializeCriticalSectionAndSpinCount
+        1113 SetEvent            
+        1221 TlsAlloc            
+        1223 TlsGetValue         
+        1224 TlsSetValue         
+        1222 TlsFree             
+         633 GetSystemTimeAsFileTime
+        1189 SetUnhandledExceptionFilter
+         831 LoadLibraryW        
+         829 LoadLibraryExA      
+         830 LoadLibraryExW      
+
+      from "USER32.dll":
+      not bound
+      name table at 0x76f60, address table at 0x5a314
+        hint name
+        ---- ----
+         420 GetWindowThreadProcessId
+         526 MessageBoxA         
+         735 ShowWindow          
+         242 EnumWindows         
+         291 GetDesktopWindow    
+         412 GetWindowRect       
+         417 GetWindowTextLengthA
+         213 EmptyClipboard      
+         646 SetClipboardData    
+          73 CloseClipboard      
+         550 OpenClipboard       
+         655 SetDlgItemTextA     
+         171 DialogBoxParamA     
+         480 IsWindowVisible     
+         296 GetDlgItemInt       
+         654 SetDlgItemInt       
+         295 GetDlgItem          
+         818 wsprintfA           
+         710 SetWindowPos        
+         218 EndDialog           
+
+      from "ADVAPI32.dll":
+      not bound
+      name table at 0x76c4c, address table at 0x5a000
+        hint name
+        ---- ----
+         704 SetServiceStatus    
+         686 SetNamedSecurityInfoA
+         607 RegOpenKeyA         
+         609 RegOpenKeyExW       
+         591 RegEnumKeyExW       
+         223 DuplicateTokenEx    
+         124 CreateProcessAsUserW
+         406 LookupPrivilegeValueA
+          31 AdjustTokenPrivileges
+         503 OpenProcessToken    
+         115 ConvertStringSidToSidA
+         677 SetEntriesInAclA    
+         710 StartServiceA       
+         711 StartServiceCtrlDispatcherA
+         703 SetServiceObjectSecurity
+         645 RegisterServiceCtrlHandlerA
+         553 QueryServiceStatusEx
+         552 QueryServiceStatus  
+         551 QueryServiceObjectSecurity
+         506 OpenServiceA        
+         504 OpenSCManagerA      
+         218 DeleteService       
+         128 CreateServiceA      
+          92 ControlService      
+          87 CloseServiceHandle  
+          77 ChangeServiceConfig2A
+          79 ChangeServiceConfigA
+         328 GetSecurityDescriptorDacl
+         694 SetSecurityDescriptorDacl
+         375 InitializeSecurityDescriptor
+         654 ReportEventA        
+         642 RegisterEventSourceA
+         219 DeregisterEventSource
+         637 RegSetValueExA      
+         621 RegQueryValueExA    
+         615 RegQueryInfoKeyA    
+         608 RegOpenKeyExA       
+         593 RegEnumValueA       
+         590 RegEnumKeyExA       
+         583 RegDeleteValueA     
+         568 RegCreateKeyExA     
+         560 RegCloseKey         
+
+      from "ole32.dll":
+      not bound
+      name table at 0x76fc0, address table at 0x5a374
+        hint name
+        ---- ----
+         336 PropVariantClear    
+          63 CoInitializeEx      
+         108 CoUninitialize      
+          62 CoInitialize        
+          16 CoCreateInstance    
+
+      from "OLEAUT32.dll":
+      not bound
+      name table at 0x76f28, address table at 0x5a2dc
+        hint name
+        ---- ----
+           9 ordinal             
+           8 ordinal             
+           2 ordinal             
+           6 ordinal             
+
+    at offset 0x460 (56 bytes): Debug Directory
+
+    at offset 0x15940 (64 bytes): Load Configuration Directory
+
+    at offset 0x0 (908 bytes): Import Address Table
+
+".data" (virt. Size/Address: 0x724cc)
+   16384 bytes at offset  0x79000 in RAM,  0x76e00 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+    is writeable
+Section entropy 5.79968
+
+".rsrc" (virt. Size/Address: 0x49c48)
+  302592 bytes at offset  0xec000 in RAM,  0x7ae00 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+Section entropy 6.57807
+
+    at offset 0x0 (302152 bytes): Resource Directory
+        version: 4.0, created (GMT): Thu Jan 01 00:00:00 1970
+        name: "SCID",         icon,         message table,         group icon,         version info,         unknown resource type 0x18, 
+".reloc" (virt. Size/Address: 0x58cc)
+   23040 bytes at offset 0x136000 in RAM,  0xc4c00 in file
+    contains initialized data
+    default alignment (16 bytes)
+    can be discarded
+    is readable
+Section entropy 5.93865
+
+    at offset 0x0 (22732 bytes): Base Relocation Table
+    (relocations skipped)
+
+Entropy: 6.62401

@@ -1,0 +1,1145 @@
+URLMON.DLL
+Default location: C:\WINDOWS\SYSWOW64\URLMON.DLL
+MD5: 3065FF6794A7FDC882F0DA8B6230AB6E
+SHA1: 242CC7A9 DB42C7A5 BDD0D997 8D2684BB E9B38596
+File Size: 1 190 400
+
+Version Info:
+OriginalFilename: UrlMon.dll.mui
+FileDescription: OLE32 Extensions for Win32
+InternalName: UrlMon.dll
+CompanyName: Microsoft Corporation
+FileVersion: 11.00.9600.17344 (winblue_r3.140918-1500)
+LegalCopyright: c Microsoft Corporation. All rights reserved.
+ProductName: Internet Explorer
+ProductVersion: 11.00.9600.17344
+
+PE Info of the C:\WINDOWS\SYSWOW64\URLMON.DLL:
+
+Type is Windows GUI.
+DOS-stub: 248 bytes
+built for machine: Intel 80386 processor
+  (32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+File is a DLL
+  do not notify on ProcAttach
+  do not notify on ThreadAttach
+  do not notify on ProcDetach
+  do not notify on ThreadDetach
+0 entries in symbol table
+6 sections
+created (GMT): Thu Sep 18 23:53:37 2014
+Linker version: 11.0
+.text start:   0x1000, length: 799744 bytes
+.data start:  0xc2000, length: 419840 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at      0x1098
+Preferred load base is 0x1a400000
+Image size in RAM: 1200 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 6.3, Win32 6.1, App 6.3
+Checksum: 0x00124e1d
+uses Win32 graphical subsystem
+Stack: 256 KB reserved,   4 KB committed
+Heap:  1024 KB reserved,   4 KB committed
+Size of headers / offset to sections in file: 0x400
+
+".text" (virt. Size/Address: 0xc1d77)
+  794112 bytes at offset   0x1000 in RAM,    0x400 in file
+    contains code
+    default alignment (16 bytes)
+    is executable
+    is readable
+    at offset 0x98: execution start
+Section entropy 6.6069
+
+    at offset 0x4bc (5286 bytes): Export Directory
+      module name: "urlmon.dll"
+      created (GMT): Thu Sep 18 23:53:37 2014
+      version: 0.0
+      455 exported functions, list at 14e4
+      126 exported names, list at 1c00
+      Ordinal base: 100
+      Ord. Hint Name                              RVA
+      ---- ---- ----                              ---
+       100      (nameless)                     ãˇUãÏˇuãUˇuãMËıˇˇ]¬
+       101      (nameless)                     °îrL√êêêêêãˇUãÏVWø¿WL3ˆWˇÒL°
+       102      (nameless)                     jjËu´˜ˇ3…A;¡th
+       103      (nameless)                     ãˇUãÏj
+       104      (nameless)                     ãˇUãÏˇuˇuj
+       105      (nameless)                     ãˇUãÏÅÏ8
+       106      (nameless)                     ãˇUãÏVWã}∫»%Bãœ3ˆËû§˜ˇÖ¿uPjjË“´˜ˇÉ¯tBË"†˘ˇÖ¿t995îrLu1ãœËFò˘ˇÖ¿u&3“ãœËØõ˘ˇÖ¿uãœËßx
+       107      (nameless)                     ãˇUãÏQSj3€jCËò≠˜ˇ;√t2ËÈ°˘ˇÖ¿t)É=îrL
+       108      (nameless)                     ãˇUãÏÅÏ¨
+       109   51 FileBearsMarkOfTheWeb          ãˇUãÏÅÏ¨
+       110   64 GetPortFromUrlScheme           ãˇUãÏ]ˇ%(˜LêêêêêãˇUãÏ]ˇ%$˜LêêêêêãˇUãÏ]ˇ% ˜LêêêêêãˇUãÏ]ˇ%˜LêêêêêãˇUãÏ]ˇ%˜LêêêêêãˇUãÏ]ˇ%<˜LêêêêêãˇUãÏ]ˇ%8˜LêêêêêãˇUãÏ]ˇ%4˜LêêêêêãˇUãÏ]ˇ%,˜LêêêêêãˇUãÏ]ˇ%0˜LêêêêêãˇUãÏ]ˇ%˜LêêêêêãˇUãÏSVWã}æ4iLã]ˆF¸@tWˇuˇuˇuSË	â
+       111      (nameless)                     ãˇUãÏQV3ˆFˇ∏¯LÖ¿tNÉe¸
+       112      (nameless)                     ãˇUãÏVãuW3ˇGÖˆtÉ&
+       113      (nameless)                     ãˇUãÏQQÉe¸
+       114      (nameless)                     ãˇUãÏÉÏçE¸VW3ˇ3ˆWPWFËﬂÆ˛ˇÖ¿xOãE¸çUÙjjâ}Ùâ}¯ø
+       115      (nameless)                     ãˇUãÏQV3ˆFˇ†¯LÖ¿tVÉe¸
+       116      (nameless)                     ãˇUãÏSVãu∫»%BãŒ3€Ë‘˛ˇÖ¿u^jjË˛ˇÉ¯tPËX
+       117      (nameless)                     ãˇUãÏãE£sL]¬
+       118   65 GetPropertyFromName            ãˇUãÏ]ˇ%$˜LêêêêêãˇUãÏ]ˇ% ˜LêêêêêãˇUãÏ]ˇ%˜LêêêêêãˇUãÏ]ˇ%˜LêêêêêãˇUãÏ]ˇ%<˜LêêêêêãˇUãÏ]ˇ%8˜LêêêêêãˇUãÏ]ˇ%4˜LêêêêêãˇUãÏ]ˇ%,˜LêêêêêãˇUãÏ]ˇ%0˜LêêêêêãˇUãÏ]ˇ%˜LêêêêêãˇUãÏSVWã}æ4iLã]ˆF¸@tWˇuˇuˇuSË	â
+       119   66 GetPropertyName                ãˇUãÏ]ˇ% ˜LêêêêêãˇUãÏ]ˇ%˜LêêêêêãˇUãÏ]ˇ%˜LêêêêêãˇUãÏ]ˇ%<˜LêêêêêãˇUãÏ]ˇ%8˜LêêêêêãˇUãÏ]ˇ%4˜LêêêêêãˇUãÏ]ˇ%,˜LêêêêêãˇUãÏ]ˇ%0˜LêêêêêãˇUãÏ]ˇ%˜LêêêêêãˇUãÏSVWã}æ4iLã]ˆF¸@tWˇuˇuˇuSË	â
+       120   82 IsDWORDProperty                ãˇUãÏ]ˇ%˜LêêêêêãˇUãÏ]ˇ%˜LêêêêêãˇUãÏ]ˇ%<˜LêêêêêãˇUãÏ]ˇ%8˜LêêêêêãˇUãÏ]ˇ%4˜LêêêêêãˇUãÏ]ˇ%,˜LêêêêêãˇUãÏ]ˇ%0˜LêêêêêãˇUãÏ]ˇ%˜LêêêêêãˇUãÏSVWã}æ4iLã]ˆF¸@tWˇuˇuˇuSË	â
+       121   87 IsStringProperty               ãˇUãÏ]ˇ%˜LêêêêêãˇUãÏ]ˇ%<˜LêêêêêãˇUãÏ]ˇ%8˜LêêêêêãˇUãÏ]ˇ%4˜LêêêêêãˇUãÏ]ˇ%,˜LêêêêêãˇUãÏ]ˇ%0˜LêêêêêãˇUãÏ]ˇ%˜LêêêêêãˇUãÏSVWã}æ4iLã]ˆF¸@tWˇuˇuˇuSË	â
+       122    0 AsyncGetClassBits              ãˇUãÏÉ‰¯ÉÏ,SVWãu0ø4iLã]ˆG¸Ät"Vˇu,ˇu(ˇu$ˇu SˇuˇuˇuˇuˇuË‹Ñ
+       123    1 AsyncInstallDistributionUnit   ãˇUãÏÉÏ0SVWã](ø4iLãuˆG¸ÄtSˇu$ˇu ˇuˇuˇuˇuˇuVË™
+       124    2 BindAsyncMoniker               ãˇUãÏSVWã}æ4iLã]ˆF¸@tWˇuˇuˇuSË	â
+       125    3 CDLGetLongPathNameA            ãˇUãÏˇuˇuˇuˇ$ÚL]¬
+       126    4 CDLGetLongPathNameW            ãˇUãÏˇuˇuˇuˇ(ÚL]¬
+       127    5 CORPolicyProvider              ãˇUãÏÉ‰¯ÅÏº
+       128    6 CoGetClassObjectFromURL        ãˇUãÏj
+       129    7 CoInstall                      ãˇUãÏSVWã]æ4iLˆF¸ÄtˇuˇuˇuSˇujYË©Ä
+       130    8 CoInternetCanonicalizeIUri     ãˇUãÏQQSV3ˆWâu¸âu¯ø4iLˆG¸@ÖsI
+       131    9 CoInternetCombineIUri          ãˇUãÏÉÏSVW3€3ˇhXLâ]¯ˇÒLã RLçwÖ“Ñ1+
+       132   10 CoInternetCombineUrl           ãˇUãÏÉÏ SVWã}∏4iLã]ãuˆ@¸@Ö≤˝
+       133   11 CoInternetCombineUrlEx         ãˇUãÏÉÏSVWãuª4iLˆC¸@Ö
+       134   12 CoInternetCompareUrl           ãˇUãÏQSVWãuª4iLˆC¸@tVˇuˇuË˝g
+       135   13 CoInternetCreateSecurityManager ãˇUãÏSVãu∏4iLˆ@¸@Öﬂp
+       136   14 CoInternetCreateZoneManager    ãˇUãÏSVWæ4iLª¥*@ˆF¸@Öñ
+       137   15 CoInternetFeatureSettingsChanged É%zL
+       138   16 CoInternetGetProtocolFlags     ãˇUãÏVWæ4iLˆF¸@tˇuˇuˇuË¿i
+       139   17 CoInternetGetSecurityUrl       ãˇUãÏÉÏSVWã}ª4iLãuˆC¸@tˇuˇuVWËËi
+       140   18 CoInternetGetSecurityUrlEx     ãˇUãÏÉÏ$SVÈ˙M
+       141   19 CoInternetGetSession           ãˇUãÏSVWã]æ4iLˆF¸ÖÀ
+       142   20 CoInternetIsFeatureEnabled     ãˇUãÏÉÏ,SVWã]æ4iLˆF¸@Ö\ë
+       143   21 CoInternetIsFeatureEnabledForIUri ãˇUãÏQSVWÈ$§
+       144   22 CoInternetIsFeatureEnabledForUrl ãˇUãÏQSVæ4iLˆF¸@Ö>ã
+       145   23 CoInternetIsFeatureZoneElevationEnabled ãˇUãÏÉÏ$SVWãu∏4iLã}ˆ@¸@tˇuVˇuWË›d
+       146   24 CoInternetParseIUri            ãˇUãÏQQÉe¸
+       147   25 CoInternetParseUrl             ãˇUãÏÉÏ SVWÈé˝ˇˇÖ€uÈÒ
+       148   26 CoInternetQueryInfo            ãˇUãÏÉÏx°¿eL3≈âE¸ãMãUSã]VWâMúâUîâ]å∏4iLˆ@¸@ÖÜÏ
+       149   27 CoInternetSetFeatureEnabled    ãˇUãÏQSVWãuª4iLˆC¸@tˇuˇuVË¬_
+       150   28 CompareSecurityIds             ãˇUãÏÉ}
+       151   29 CompatFlagsFromClsid           ãˇUãÏˇ5RLãUˇuãMË¯˛ˇˇ]¬
+       152   30 CopyBindInfo                   ãˇUãÏVWã}πW
+       153   31 CopyStgMedium                  ãˇUãÏQQÉe¸
+       154   32 CreateAsyncBindCtx             ãˇUãÏÉÏ °¿eL3≈âE¸ãMSVãuWã}âu‰âM‡ª4iLˆC¸@Ö‚A
+       155   33 CreateAsyncBindCtxEx           ãˇUãÏÉÏ$°¿eL3≈âE¸ãUãMSã]VãuWâU‰âM‹ø4iLˆG¸@ÖÎH
+       156   34 CreateFormatEnumerator         ãˇUãÏSVWã]ø4iLˆG¸@ÖÙª
+       157   35 CreateIUriBuilder              ãˇUãÏ]ˇ%Ã¯LÉ¯t“É¯u–ÎÀ3ˆFÎ’ãŒËÌ
+       158   36 CreateURLMoniker               ãˇUãÏVWæ4iLˆF¸@Ö<
+       159   38 CreateURLMonikerEx2            ãˇUãÏSVWã]ø4iLˆG¸@Öx
+       160   37 CreateURLMonikerEx             ãˇUãÏÉÏ(SWã]ø4iLãMˆG¸@Ö˛ü
+       161   39 CreateUri                      ãˇUãÏ]ˇ%@˜Lêêê
+       162   40 CreateUriFromMultiByteString   ãˇUãÏ]ˇ%<˜LêêêêêãˇUãÏ]ˇ%8˜LêêêêêãˇUãÏ]ˇ%4˜LêêêêêãˇUãÏ]ˇ%,˜LêêêêêãˇUãÏ]ˇ%0˜LêêêêêãˇUãÏ]ˇ%˜LêêêêêãˇUãÏSVWã}æ4iLã]ˆF¸@tWˇuˇuˇuSË	â
+       163   41 CreateUriPriv                  ãˇUãÏ]ˇ%8˜LêêêêêãˇUãÏ]ˇ%4˜LêêêêêãˇUãÏ]ˇ%,˜LêêêêêãˇUãÏ]ˇ%0˜LêêêêêãˇUãÏ]ˇ%˜LêêêêêãˇUãÏSVWã}æ4iLã]ˆF¸@tWˇuˇuˇuSË	â
+       164   42 CreateUriWithFragment          ãˇUãÏ]ˇ%4˜LêêêêêãˇUãÏ]ˇ%,˜LêêêêêãˇUãÏ]ˇ%0˜LêêêêêãˇUãÏ]ˇ%˜LêêêêêãˇUãÏSVWã}æ4iLã]ˆF¸@tWˇuˇuˇuSË	â
+       165   43 DllCanUnloadNow                É=WL
+       166   44 DllGetClassObject              ãˇUãÏˇuãUˇuËR
+       167   45 DllInstall                     ãˇUãÏãUãMË+‹
+       168   46 DllRegisterServer              ãˇQQËX
+       169   47 DllRegisterServerEx            ∏@
+       170   48 DllUnregisterServer            °RL£(zL°ºˆL£$zLËY
+       171   49 Extract                        ãˇUãÏQÉe¸
+       172   50 FaultInIEFeature               ãˇUãÏÉ‰¯ÉÏd°¿eL3ƒâD$`ãUãMSã]VWâ\$âT$âL$∏4iLˆ@¸ÄtˇuQRSj
+∫ ⁄HYË◊\
+       173   52 FindMediaType                  ãˇUãÏSVWªÿWLSˇÒLËz´¯ˇÉ}
+       174   53 FindMediaTypeClass             ãˇUãÏSVª4iLˆC¸@Ö]¡
+       175   54 FindMimeFromData               ãˇUãÏVWø4iLˆG¸@Ö´å
+       176   55 GetAddSitesFileUrl             ãˇUãÏÉ‰¯ÅÏ‘
+       177   56 GetClassFileOrMime             ãˇUãÏSVWã]ø4iLˆG¸@ÖÁı
+       178   57 GetClassURL                    ãˇUãÏVWæ4iLˆF¸@tˇuˇuË≥á
+       179   58 GetComponentIDFromCLSSPEC      ãˇUãÏÉÏ$Wj3“ç}‹Y3¿âU¸RÛ´ãMçE‹RPçU¸ËbÚˇˇã¯ÖˇxãUãM¸Ë"Òˇˇã¯É}¸
+       180   59 GetIDNFlagsForUri              ãˇUãÏQVWˇ¯L3ˆã¯FËr2
+       181   61 GetIUriPriv2                   ãˇUãÏ]ˇ%,˜LêêêêêãˇUãÏ]ˇ%0˜LêêêêêãˇUãÏ]ˇ%˜LêêêêêãˇUãÏSVWã}æ4iLã]ˆF¸@tWˇuˇuˇuSË	â
+       182   60 GetIUriPriv                    ãˇUãÏ]ˇ%0˜LêêêêêãˇUãÏ]ˇ%˜LêêêêêãˇUãÏSVWã}æ4iLã]ˆF¸@tWˇuˇuˇuSË	â
+       183   62 GetLabelsFromNamedHost         ãˇUãÏVãuÖˆu
+æW
+       184   63 GetMarkOfTheWeb                ãˇUãÏQQãMSVWã˘çWäGÑ¿u˘Ée¸
+       185   67 GetSoftwareUpdateInfo          ∏@
+       186   68 GetUrlmonThreadNotificationHwnd 3…ÎêêêêêãˇUãÏQQSVçE¸ãŸ3ˆçM¯Pâu¸Ëo›˚ˇ9u¸|Wã}¯9wtãw_ã∆^[ãÂ]√Ö€tÛÈ‰8
+       187   69 GetZoneFromAlternateDataStreamEx ãˇUãÏVWh$
+       188   70 HlinkGoBack                    ãˇUãÏQQSVWçE¯3€P∏ËòFâ]¸PPQãMçE¸P∫º“Câ]¯Ë˜ˇˇãu¯ã¯ÖˇxãSSSjVˇPã¯ÖˇyãM¸Ö…tãQˇPã¯ãM¸Ö…tãQˇPÖˆtãVˇPã«_^[ãÂ]¬
+       189   71 HlinkGoForward                 ãˇUãÏQQSVWçE¯3€P∏ËòFâ]¸PPQãMçE¸P∫º“Câ]¯Ëâˆˇˇãu¯ã¯ÖˇxãSSSjVˇPã¯ÖˇyãM¸Ö…tãQˇP ã¯ãM¸Ö…tãQˇPÖˆtãVˇPã«_^[ãÂ]¬
+       190   72 HlinkNavigateMoniker           ãˇUãÏ3¿PPPPˇuPPˇuË*
+       191   73 HlinkNavigateString            ãˇUãÏ3¿PPPPˇuPPˇuËà
+       192   74 HlinkSimpleNavigateToMoniker   ãˇUãÏÅÏT
+       193   75 HlinkSimpleNavigateToString    ãˇUãÏQãU3¿âE¸VÖ“tf9tãMçE¸PËˆÔˇˇãÖˆx ãE¸ˇu$ˇu ˇuˇuˇuˇuˇuPË9˙ˇˇããM¸Ö…tãQˇPã∆^ãÂ]¬ 
+       194   77 IEDllLoader                    ãˇUãÏÄ=ÄQL
+       195   78 IEGetUserPrivateNamespaceName  ˇ%Ñ¯LêêêêêãˇUãÏÉÏ°¿eL3≈âE¸ãESVãuWÉ¯áL
+       196   79 IEInstallScope                 ãˇUãÏãMË
+       197   80 IntlPercentEncodeNormalize     ãˇUãÏ]ˇ%˜LêêêêêãˇUãÏSVWã}æ4iLã]ˆF¸@tWˇuˇuˇuSË	â
+       198   81 IsAsyncMoniker                 ãˇUãÏVWãuø4iLˆG¸@u3Öˆt<ãçMQh AVˇãÖˆu#ãMQãˇRˆG˛ÖüÙ
+       199   83 IsIntranetAvailable            ãˇUãÏQãhrLÖ…u1Ë_
+¯ˇÑ¿t
+3¿@£hrLÎ'Ée¸
+       200   84 IsJITInProgress                3¿√êêêêêãˇUãÏãE3…É¿A¡ã
+       201   85 IsLoggingEnabledA              ãˇUãÏÅÏ,
+       202   86 IsLoggingEnabledW              ãˇUãÏQÉ}
+       203   88 IsValidURL                     ãˇUãÏ∏T
+       204   89 MkParseDisplayNameEx           ãˇUãÏ∏\
+       205   90 ObtainUserAgentString          ãˇUãÏSVWãuª4iLã}ˆC¸@tˇ7∫pCHˇuVË™¸
+       206   91 PrivateCoInstall               ãˇUãÏÉÏP°¿eL3≈âE¯ãUãMSã]VãuWâU‘âMÿâu–∏4iLˆ@¸ÄtVQSˇuRjYËﬂ
+       207   92 QueryAssociations              ãˇUãÏQÉe¸
+       208   93 QueryClsidAssociation          ãˇUãÏQÉe¸
+       209   94 RegisterBindStatusCallback     ãˇUãÏÉÏSVWã}∏4iLã]ãuˆ@¸@ÖÓ∏
+       210   95 RegisterFormatEnumerator       ãˇUãÏSVWã]æ4iLˆF¸@Ö3ú
+       211   96 RegisterMediaTypeClass         ãˇUãÏSVWã]ø4iLˆG¸@tˇuˇuˇuˇuSË˚á
+       212   97 RegisterMediaTypes             ãˇUãÏSVWãuø4iLˆG¸@tˇuˇuVjYË$Ü
+       213   98 RegisterWebPlatformPermanentSecurityManager ãˇUãÏÉÏÉe¸
+       214   99 ReleaseBindInfo                ãˇUãÏVãuÖˆt:Wã>Öˇt2ÉˇPrãNLÖ…u,ãFÖ¿u-ãFÖ¿u/çFPˇÄıLWj
+       215  100 RevokeBindStatusCallback       ãˇUãÏÉÏSVWãuø4iLã]ˆG¸@Öã/
+       216  101 RevokeFormatEnumerator         ãˇUãÏSVWã}æ4iLˆF¸@tˇuWj*YË≈à
+       217  102 SetAccessForIEAppContainer     ãˇUãÏÉÏ°¿eL3≈âE¸ãESVãuWÉ¯áL
+       218  103 SetSoftwareUpdateAdvertisementState ∏@
+       219  104 ShouldDisplayPunycodeForUri    ãˇUãÏQV3ˆ9ut>çE¸âu¸Pˇuˇ0˜LÖ¿x*ãE¸çUâuRPãˇë¥
+       220  105 ShouldShowIntranetWarningSecband ãˇUãÏQQÉM¯ˇÉM¸ˇV3ˆÉ=hrLtË
+       221  106 ShowTrustAlertDialog           ãˇUãÏÅÏ<
+       222  107 URLDownloadA                   ãˇUãÏVWæ4iLˆF¸@tˇuˇuˇuˇuˇuË`g
+       223  108 URLDownloadToCacheFileA        ãˇUãÏÉ‰¯ÅÏú
+       224  109 URLDownloadToCacheFileW        ãˇUãÏÅÏ
+       225  110 URLDownloadToFileA             ãˇUãÏÉ‰¯ÅÏ
+       226  111 URLDownloadToFileW             ãˇUãÏVWhX
+       227  112 URLDownloadW                   ãˇUãÏÉÏSVãuª4iLˆC¸@tˇuˇuˇuˇuVjYËŒc
+       228  113 URLOpenBlockingStreamA         ãˇUãÏÉ‰¯ÅÏî
+       229  114 URLOpenBlockingStreamW         ãˇUãÏSã]Ö€u∏W
+       230  115 URLOpenPullStreamA             ãˇUãÏÉ‰¯ÅÏå
+       231  116 URLOpenPullStreamW             ãˇUãÏVWhD
+       232  117 URLOpenStreamA                 ãˇUãÏÉ‰¯ÅÏå
+       233  118 URLOpenStreamW                 ãˇUãÏVWhD
+       234  119 UnregisterWebPlatformPermanentSecurityManager ãˇUãÏQÉe¸
+       235  120 UrlMkBuildVersion              ∏
+       236  121 UrlMkGetSessionOption          ãˇUãÏSVWã]π4iLã}ã¡ãujZ+¬ˆ
+       237  122 UrlMkSetSessionOption          ãˇUãÏSVWãu∏4iLˆ@¸@ÖTp
+       238  123 UrlmonCleanupCurrentThread     3…ÎêêêêêãˇVWˇ5ÙQLã˘ˇ(ÒLãÖˆtj
+       239  124 WriteHitLogging                ãˇUãÏÅÏ8
+       240  125 ZonesReInit                    ãˇUãÏQQ°ºXLjâE¸XPâE¯çE¸PjçE¯PhºXLj
+       304      (nameless)                     ãˇUãÏÉÏ°¿eL3≈âE¸ãEãM âMËSã]VãuWã}Ö¿uÖˆtf9tVçMÏËzˇˇˇÖ¿xãMËçEÏQSˇuPVWˇuˇ–¯LãM¸_^3Õ[ËÍ†˜ˇãÂ]¬
+       305      (nameless)                     ãˇUãÏÅÏî
+       306      (nameless)                     ãˇUãÏ3¿PPPPˇuh8vHh
+       307      (nameless)                     ãˇUãÏÉÏ É}
+       308      (nameless)                     ãˇUãÏÅÏd
+       309      (nameless)                     ãˇUãÏ3¿PPPPˇuhpwHh
+       310      (nameless)                     ãˇUãÏÅÏ‰
+       311      (nameless)                     ãˇUãÏÉÏπ¯nHÉ}tπoHãEâE¯çE¯PçE«EoHPjj
+       312      (nameless)                     ãˇUãÏÉÏ@SVãuçM¯WQ3ˇãVâ}¯ˇPXÖ¿àø
+       313      (nameless)                     ãˇUãÏÉÏT°¿eL3≈âE¸VˇuãuçEºh
+       314      (nameless)                     ãˇUãÏ3¿PPPPˇuh8zHh
+
+       315      (nameless)                     ãˇUãÏQãEâEçEPçE¸«E¸`{HPjj
+       316      (nameless)                     ãˇUãÏÉÏL°¿eL3≈âE¸VˇuãuçEºh
+       318      (nameless)                     ãˇUãÏÉÏçE¸Ph<,@jj
+       319      (nameless)                     ãˇUãÏQãEçU¸Ée¸
+       320      (nameless)                     ãˇUãÏÉÏÉ}
+       321      (nameless)                     ãˇUãÏQãEâEçEPçE¸«E¸–qHPjj
+       322   76 IECompatLogCSSFix              ãˇUãÏÉÏT°¿eL3≈âE¸Sã]çEºVãuWˇuø∞@h
+       323      (nameless)                     ãˇUãÏÉÏl°¿eL3≈âE¸Sã]3¿VãuWjLPfâE¨çEÆPËì˜ˇÉƒçE¨ø}Hj'PVˇåÛLãEÉ¯	wKˇ$ÖÏ|Hø8}HÎ=øH}HÎ6øh}HÎ/øx}HÎ(ø§}HÎ!ø»}HÎø‰}HÎø~HÎø$~HÎøD~HÖ€uª∞@çE¨«E†X~HâEòçEîPçE†«E§Ù≤FPjj
+       324      (nameless)                     ãˇUãÏQÉe¸
+       395      (nameless)                     ãˇUãÏ]ˇ%\QLêêêêêãˇUãÏÉÏ$°¿eL3≈âE¸VçE‹PˇÒLçE‹PˇÒLÉ=DÜL
+       400      (nameless)                     ãˇUãÏÉ=
+       401      (nameless)                     ãˇUãÏVWø¿WL3ˆWˇÒL95
+       403      (nameless)                     ãˇUãÏWø¿WLWˇÒLÉ=
+       404      (nameless)                     ãˇVWø¿WL3ˆWˇÒL95
+       406      (nameless)                     ãˇVæ¿WLVˇÒLÉ=
+       407      (nameless)                     ãˇVWø¿WL3ˆWˇÒL°
+       408      (nameless)                     ãˇUãÏVWø¿WL3ˆWˇÒL°
+       409      (nameless)                     ãˇUãÏVWø¿WL3ˆWˇÒL°
+       410      (nameless)                     ãˇUãÏVWø¿WL3ˆWˇÒL°
+       411      (nameless)                     ãˇUãÏVWø¿WL3ˆWˇÒL°
+       412      (nameless)                     ãˇUãÏVWø¿WL3ˆWˇÒL°
+       413      (nameless)                     ãˇUãÏVWø¿WL3ˆWˇÒL°
+       414      (nameless)                     ãˇUãÏVh¿WL3ˆˇÒL°
+       415      (nameless)                     ãˇUãÏVWø¿WL3ˆWˇÒL°
+       416      (nameless)                     ãˇUãÏVWø¿WL3ˆWˇÒL°
+       417      (nameless)                     ãˇUãÏVWø¿WL3ˆWˇÒL°
+       421      (nameless)                     ãˇUãÏÅÏD
+       422      (nameless)                     ãˇUãÏˇuˇËÚL]ˇ%pÒLêêêêêãˇUãÏh¿WLˇÒLÉ=
+       423      (nameless)                     ãˇUãÏh¿WLˇÒLÉ=
+       430      (nameless)                     j
+       431      (nameless)                     ãˇUãÏQãEVjâE¸æ@
+       432      (nameless)                     ãˇUãÏãM∏@
+       433      (nameless)                     ãˇUãÏQQSVˇ∏˜LªòYLãSˇÒLËõ
+       434      (nameless)                     ãˇUãÏÉÏ<°¿eL3≈âE¸ãEVˇuãuh
+       435      (nameless)                     ãˇUãÏÉÏÉ}
+       436      (nameless)                     ãˇUãÏQãEâEçEPçE¸«E¸êuHPjj
+       437      (nameless)                     ãˇUãÏÉÏãEâE¯ãEâE¸çE¯PçE«E‡tHPjj
+       438      (nameless)                     ãˇUãÏÅÏÄ
+       439      (nameless)                     3¿PPPPPhwHh0
+       440      (nameless)                     ãˇUãÏ3¿9@ÜLtãE«
+       441      (nameless)                     ãˇUãÏQãUçE¸WPhT"AË»
+       442      (nameless)                     ãˇUãÏãEWø@
+       443      (nameless)                     ãˇUãÏQSã]Væ@
+       444      (nameless)                     ãˇUãÏÉÏHSVW3ˇ«E¯
+       445      (nameless)                     ãˇUãÏQSã]VWh8XLø@
+       446      (nameless)                     ãˇUãÏVWã}3ˆˇ5ÙQLâ7ˇ(ÒLâEÖ¿Ñˆ
+       447      (nameless)                     ãˇUãÏQQÉe¸
+       448      (nameless)                     ãˇUãÏÉÏSVçE¸3€PSâ]¸Ë«}
+       449      (nameless)                     ãˇUãÏSWã}3€h4
+       450      (nameless)                     ãˇUãÏQQÉe¸
+       451      (nameless)                     ãˇV3ˆ95ÿRLÖõ
+       452      (nameless)                     ãˇUãÏÉÏT°¿eL3≈âE¸ãMçUÆWj{XfâE¨Ë=˜ˇj}XfâEˆ3ˇ3¿ˆEfâE¯tiVjlË=*ıˇãYÖˆtãŒËêÕˆˇ«(LC«F`KCÎã˜Öˆt8ããŒˇPã¯Öˇx çE¨Pj'çNZË¥7ıˇã¯ÖˇxçFPËI
+       453      (nameless)                     ãˇUãÏË1ä˜ˇÖ¿x°‹QL3“RRRˇuãˇuPˇQ0]¬
+       454      (nameless)                     ãˇUãÏQÉ}SªW
+       455      (nameless)                     Ë¿
+       456      (nameless)                     3¿√êêêêêãˇUãÏãE3…É¿A¡ã
+       457      (nameless)                     ãˇUãÏãEÉ 
+       458      (nameless)                     °ÏQL√êêêêêãˇUãÏVˇuãÒh∞9@Ëˇ¯ˇ3¿«ÃÕ@«F  @«FH @«F4 @«F @«F¸…@«F§ @«Fl @«F \ @«F$Ï…@«F(ÿ…@«F,ƒ…@fâÜƒ
+       460      (nameless)                     ãˇUãÏãRLãMËü¯˘ˇ3…Ñ¿ï¡ã¡]¬
+       461      (nameless)                     ãˇUãÏãUQãMË	
+       462      (nameless)                     ãˇUãÏãRLãMË7l˝ˇÑ¿ÖÕ9
+       463      (nameless)                     ãˇUãÏãRLãMËÀ¯˘ˇÑ¿u]ˇ%lÛL∏
+       470      (nameless)                     ãˇUãÏÉ}
+       471      (nameless)                     3¿9ºqLï¿√êêêêêãˇUãÏVWã}3ˆˇ5ÙQLâ7ˇ(ÒLâEÖ¿Ñˆ
+       473      (nameless)                     ãˇUãÏÅÏ
+       474      (nameless)                     ãˇUãÏ∏L
+       475      (nameless)                     ãˇUãÏˇuãEÉ»PˇuˇuËX¡˘ˇ]¬
+       476      (nameless)                     ãˇUãÏ∏L
+       477      (nameless)                     ãˇUãÏˇu3¿ˇuˇuPPPPˇuËÉ˚ˇˇ]¬
+       478      (nameless)                     ãˇUãÏ∏L
+       479      (nameless)                     ãˇUãÏj
+       480      (nameless)                     ãˇUãÏ∏P
+       481      (nameless)                     ãˇUãÏQQÉ}
+       482      (nameless)                     ãˇUãÏˇu3¿ˇuPPPPˇuË	
+       483      (nameless)                     ãˇUãÏQQÉe¯
+       484      (nameless)                     ãˇUãÏÉÏçE¸VP∏º“CPPˇuˇ,PLãÖˆàè
+       485      (nameless)                     ãˇUãÏQÉe¸
+       486      (nameless)                     ãˇUãÏSã]WøW
+       487      (nameless)                     ãˇUãÏQÉe¸
+       488      (nameless)                     ãˇSª0WLSˇÛLÖ¿tVã5SLÉ%SL
+       489      (nameless)                     ãˇUãÏãEV3ˆâ0ãEâ09uÖÂ
+       490      (nameless)                     ãˇUãÏÉ‰¯∏¨
+       491      (nameless)                     ãˇUãÏÉ‰¯ÅÏÏ
+       492      (nameless)                     ãˇUãÏÄ=ÖQL
+       494      (nameless)                     ãˇUãÏQSVãu3…Wã}3“âU!Öˇt!ã]∏
+       495      (nameless)                     ãˇUãÏQQVWã=
+       496      (nameless)                     ãˇUãÏQÉe¸
+       497      (nameless)                     2…Ëë˛ˇ∂¿˜ÿ¿˜–%@
+       498      (nameless)                     ãˇUãÏ∫DN@3…]ÈØ	ˇˇêêêêêãˇUãÏQÉe¸
+       499      (nameless)                     ãˇUãÏQãMçU¸Ée¸
+       500      (nameless)                     ãˇUãÏh
+       501      (nameless)                     ãˇUãÏãMãUIV ÉŒˇ; vÄ9*uI; vÄ9auIçB;»rãq˝ã∆^]¬
+       502      (nameless)                     ãˇUãÏ3¿ã»9Ev(ãUVãu+ÚS;Msä:uÄ˚:t	AB;MsÎÊ∞[^∂¿]¬
+       503      (nameless)                     ãˇUãÏQQÉ}
+       504      (nameless)                     ãˇUãÏÉÏSã]WÖ€Ñ:
+       505      (nameless)                     ãˇUãÏãMÖ…tÉ}
+       506      (nameless)                     ãˇUãÏãMÖ…tÉ}
+       507      (nameless)                     ãˇUãÏÉ}
+       508      (nameless)                     ãˇUãÏSã]Ö€Ñ¡Ü
+       509      (nameless)                     ãˇUãÏSVWªÄXL3ˆSFˇÒLã}É'
+       510      (nameless)                     ãˇUãÏãM∫t^@Sã]V3ˆWâ3ã˛Ëeˇ˝ˇÖ¿u ˇ5t√CçMâuËúJ
+       511      (nameless)                     ãˇUãÏQãMÉe¸
+       512      (nameless)                     ãˇUãÏSã]çEVWPÉ#
+       513      (nameless)                     ãˇUãÏSã]çEWPjÉ#
+       514      (nameless)                     ãˇUãÏãUQˇu ˇuˇuQˇuãMËüÖ¯ˇ]¬ 
+       515      (nameless)                     ãˇUãÏV3ˆËw’¸ˇ®u®Ö^
+       516      (nameless)                     ãˇUãÏWø¿WLWˇÒLÉ=
+       517      (nameless)                     ãˇUãÏQVWçM¸Ëﬂ
+       518      (nameless)                     ãˇUãÏÉÏãMçUÙSVWã3€RQ«E¸
+       519      (nameless)                     ãˇUãÏQ°`SL«E¸
+       520      (nameless)                     ãˇUãÏQ°`SL«E¸
+       521      (nameless)                     ãˇUãÏQSVãu$ÖˆÖ-Y
+       522      (nameless)                     ãˇUãÏQÉe¸
+       523      (nameless)                     ãˇUãÏQÉe¸
+       524      (nameless)                     ãˇUãÏQSã]çEWPjÉ#
+       525      (nameless)                     ãˇUãÏ∏h
+       526      (nameless)                     ãˇUãÏãEπ/
+       527      (nameless)                     ãˇUãÏSã]çEWPjÉ#
+       528      (nameless)                     ãˇUãÏãM2“VãuÉ&
+       529      (nameless)                     ãˇUãÏÅÏ
+       530      (nameless)                     ãˇUãÏÅÏ8
+       531      (nameless)                     ãˇUãÏÅÏ(
+       532      (nameless)                     ãˇUãÏÅÏ`
+       533      (nameless)                     ãˇUãÏãMV3ˆÖ…tˇ5ƒEAçUËûI˛ˇÖ¿yã∆^]¬
+       534      (nameless)                     ãˇUãÏSã]çEWPjÉ#
+       535      (nameless)                     π†ZLË	‘˜ˇπ‡YLÈˇ”˜ˇêêêêêãˇUãÏÅÏ(
+       536      (nameless)                     ãˇUãÏQÉe¸
+       537      (nameless)                     ãˇUãÏQSã]çEVWPÉ#
+       538      (nameless)                     ãˇUãÏSã]çEWPjÉ#
+       539      (nameless)                     ãˇUãÏQãM2“Ë‡˙ˇˇY]¬
+       540      (nameless)                     ãˇUãÏQãM≤Ëâ˙ˇˇY]¬
+       541      (nameless)                     ãˇSVæ¿WL2€VˇÒLÉ=
+       542      (nameless)                     ãˇVæ¿WLVˇÒLã
+       543      (nameless)                     ãˇUãÏQSã]çEVWPÉ#
+       544      (nameless)                     ãˇUãÏSã]3“VãuWÖˆtÄ|3ˇ*uB;Úvã√+¬Ä|0ˇauB3ˇÖˆtÄ<:tG;˛rıÉe
+       545      (nameless)                     ãˇUãÏVWã}æ@
+       546      (nameless)                     ãˇUãÏQQÉe¸
+       547      (nameless)                     ãˇUãÏQQVçE¸3ˆPçM¯âu¸Ë·ñ¸ˇ9u¸|	ãE¯ã∞x
+       548      (nameless)                     ãˇUãÏSã]çMÉe
+       549      (nameless)                     É=§yL
+       550      (nameless)                     É=§yL
+       551      (nameless)                     ãˇUãÏVWã}3ˆÖˇt>â795§yLt;Sª¿yLSˇÒL°®yLÖ¿t,ãPˇQã®yLâSˇÒLã∆[_^]¬
+       552      (nameless)                     ãˇUãÏÉ‰¯ÉÏãE 3…Sã]VãuWQQSV«D$$
+       553      (nameless)                     ãˇUãÏSã]V3ˆÖ€tâ3Ä=¨yL
+       554      (nameless)                     ãˇV3ˆÄ=¨yL
+      -- there are 158 unused slots --
+
+    at offset 0xc1d14 (56 bytes): Debug Directory
+
+    at offset 0xcc60 (64 bytes): Load Configuration Directory
+
+    at offset 0xc128c (480 bytes): unknown directory
+
+".wpp_sf" (virt. Size/Address: 0x15ab)
+    5632 bytes at offset  0xc3000 in RAM,  0xc2200 in file
+    contains code
+    default alignment (16 bytes)
+    is executable
+    is readable
+Section entropy 5.28141
+
+".data" (virt. Size/Address: 0x9f2c)
+   10752 bytes at offset  0xc5000 in RAM,  0xc3800 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+    is writeable
+Section entropy 6.08478
+
+".idata" (virt. Size/Address: 0x3d26)
+   15872 bytes at offset  0xcf000 in RAM,  0xc6200 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+Section entropy 6.33576
+
+    at offset 0xa20 (300 bytes): Import Directory
+
+      from "msvcrt.dll":
+      not bound
+      name table at 0xcfcac, address table at 0xcf000
+        hint name
+        ---- ----
+          43 ??_V@YAXPAX@Z       
+         959 _ultow_s            
+        1247 isalpha             
+        1312 realloc             
+        1279 malloc              
+        1223 free                
+         955 _ui64tow_s          
+         489 _i64tow_s           
+        1162 _wtoi               
+        1413 wcsstr              
+         796 _purecall           
+        1394 wcschr              
+        1006 _vsnwprintf         
+        1404 wcsncmp             
+        1000 _vsnprintf          
+        1039 _wcsicmp            
+        1416 wcstok_s            
+        1361 swscanf_s           
+        1409 wcsrchr             
+        1420 wcstoul             
+        1187 bsearch             
+        1347 strnlen             
+         361 _errno              
+        1188 bsearch_s           
+         113 _XcptFilter         
+         275 _amsg_exit          
+         490 _initterm           
+         610 _lock               
+         966 _unlock             
+         159 __dllonexit         
+         779 _onexit             
+         364 _except_handler4_common
+         123 __CxxFrameHandler3  
+        1258 iswalpha            
+        1417 wcstol              
+        1209 fgets               
+        1096 _wfopen             
+        1203 fclose              
+        1372 towlower            
+        1332 strchr              
+        1049 _wcsnicmp           
+        1292 memcpy_s            
+        1291 memcpy              
+        1290 memcmp              
+         424 _ftol2              
+          41 ??_U@YAPAXI@Z       
+        1295 memset              
+
+      from "KERNEL32.dll":
+      not bound
+      name table at 0xcfd6c, address table at 0xcf0c0
+        hint name
+        ---- ----
+         191 CreateFileMappingW  
+        1087 RaiseException      
+         274 DeviceIoControl     
+        1262 SetErrorMode        
+         754 GetTickCount        
+         168 CreateActCtxW       
+        1161 ReleaseActCtx       
+           2 ActivateActCtx      
+         247 DeactivateActCtx    
+         571 GetFileSize         
+         573 GetFileTime         
+         525 GetCurrentThread    
+         562 GetFileAttributesExW
+        1263 SetEvent            
+         182 CreateEventW        
+         942 LocalAlloc          
+         946 LocalFree           
+         592 GetLastError        
+         293 EnterCriticalSection
+         930 LeaveCriticalSection
+         414 FreeLibrary         
+         261 DeleteCriticalSection
+         839 InitializeCriticalSection
+        1483 WideCharToMultiByte 
+        1532 lstrcmpA            
+         977 MultiByteToWideChar 
+        1395 TlsGetValue         
+         612 GetModuleHandleA    
+         669 GetProcAddress      
+         815 HeapAlloc           
+        1396 TlsSetValue         
+         819 HeapFree            
+         674 GetProcessHeap      
+        1393 TlsAlloc            
+        1394 TlsFree             
+         610 GetModuleFileNameA  
+         726 GetSystemTimeAsFileTime
+         143 CompareFileTime     
+         526 GetCurrentThreadId  
+         522 GetCurrentProcessId 
+           5 AddAtomW            
+         614 GetModuleHandleExW  
+         611 GetModuleFileNameW  
+         359 FindAtomW           
+         127 CloseHandle         
+         844 InitializeSRWLock   
+           0 AcquireSRWLockExclusive
+        1165 ReleaseSRWLockExclusive
+           1 AcquireSRWLockShared
+        1166 ReleaseSRWLockShared
+         420 GetACP              
+         147 CompareStringW      
+         521 GetCurrentProcess   
+        1533 lstrcmpW            
+         266 DeleteFileW         
+         565 GetFileAttributesW  
+         194 CreateFileW         
+         572 GetFileSizeEx       
+         371 FindFirstFileW      
+         360 FindClose           
+        1103 ReadFile            
+        1275 SetFilePointer      
+         933 LoadLibraryA        
+         887 IsWow64Process      
+        1290 SetLastError        
+         724 GetSystemTime       
+         806 GlobalSize          
+         802 GlobalLock          
+         791 GlobalAlloc         
+         809 GlobalUnlock        
+         798 GlobalFree          
+         772 GetVersionExA       
+         585 GetFullPathNameW    
+         542 GetDriveTypeA       
+        1062 QueryDosDeviceW     
+         869 IsDBCSLeadByte      
+         435 GetCPInfo           
+         289 EncodePointer       
+         720 GetSystemInfo       
+         699 GetShortPathNameW   
+         783 GetWindowsDirectoryA
+         934 LoadLibraryExA      
+         560 GetFileAttributesA  
+         173 CreateDirectoryA    
+         738 GetTempPathA        
+         254 DecodePointer       
+         698 GetShortPathNameA   
+         747 GetThreadLocale     
+         936 LoadLibraryW        
+         602 GetLongPathNameA    
+         605 GetLongPathNameW    
+         186 CreateFileA         
+        1267 SetFileAttributesA  
+        1503 WriteFile           
+         282 DosDateTimeToFileTime
+         944 LocalFileTimeToFileTime
+        1279 SetFileTime         
+         263 DeleteFileA         
+         712 GetSystemDefaultLCID
+         764 GetUserDefaultLCID  
+         716 GetSystemDirectoryA 
+         160 CopyFileA           
+         232 CreateThread        
+         215 CreateProcessA      
+        1449 WaitForSingleObject 
+         556 GetExitCodeProcess  
+         338 ExitThread          
+        1376 TerminateThread     
+        1375 TerminateProcess    
+        1169 RemoveDirectoryA    
+         364 FindFirstFileA      
+         381 FindNextFileA       
+        1200 SearchPathA         
+        1371 SystemTimeToFileTime
+         593 GetLocalTime        
+         358 FindAtomA           
+           4 AddAtomA            
+         259 DeleteAtom          
+         665 GetPrivateProfileStringA
+         659 GetPrivateProfileIntA
+         409 FormatMessageA      
+         349 FileTimeToSystemTime
+         739 GetTempPathW        
+         737 GetTempFileNameW    
+         178 CreateDirectoryW    
+         582 GetFullPathNameA    
+         594 GetLocaleInfoA      
+         615 GetModuleHandleW    
+         340 ExpandEnvironmentStringsA
+         756 GetTimeFormatA      
+        1195 RtlMoveMemory       
+         935 LoadLibraryExW      
+         543 GetDriveTypeW       
+         206 CreateMutexA        
+        1509 WritePrivateProfileStringW
+         557 GetExitCodeThread   
+         660 GetPrivateProfileIntW
+         841 InitializeCriticalSectionEx
+        1163 ReleaseMutex        
+         209 CreateMutexW        
+         144 CompareStringA      
+         994 OpenEventW          
+        1447 WaitForMultipleObjects
+        1002 OpenMutexW          
+         287 DuplicateHandle     
+        1069 QueryPerformanceCounter
+         998 OpenFileMappingW    
+         960 MapViewOfFile       
+        1411 UnmapViewOfFile     
+        1006 OpenProcess         
+         949 LocalReAlloc        
+        1402 TryEnterCriticalSection
+         531 GetDateFormatW      
+         136 CloseThreadpoolTimer
+        1452 WaitForThreadpoolTimerCallbacks
+         970 MoveFileExW         
+        1339 SetThreadpoolTimer  
+         768 GetUserGeoID        
+         759 GetTimeFormatW      
+         236 CreateThreadpoolTimer
+         348 FileTimeToLocalFileTime
+         237 CreateThreadpoolWait
+        1341 SetThreadpoolWait   
+         137 CloseThreadpoolWait 
+        1453 WaitForThreadpoolWaitCallbacks
+        1360 Sleep               
+        1408 UnhandledExceptionFilter
+        1345 SetUnhandledExceptionFilter
+
+      from "api-ms-win-downlevel-ole32-l1-1-0.dll":
+      not bound
+      name table at 0xd0010, address table at 0xcf364
+        hint name
+        ---- ----
+           1 CLSIDFromString     
+          36 CoUnmarshalInterface
+          11 CoGetClassObject    
+           5 CoCreateInstance    
+          31 CoSetProxyBlanket   
+          45 StringFromCLSID     
+           4 CoCreateGuid        
+          18 CoGetTreatAsClass   
+          15 CoGetMarshalSizeMax 
+          23 CoMarshalInterface  
+          46 StringFromGUID2     
+          39 FreePropVariantArray
+          20 CoInitializeEx      
+           8 CoFreeUnusedLibraries
+          32 CoTaskMemAlloc      
+          33 CoTaskMemFree       
+           0 CLSIDFromProgID     
+          35 CoUninitialize      
+
+      from "api-ms-win-downlevel-shlwapi-l1-1-0.dll":
+      not bound
+      name table at 0xd005c, address table at 0xcf3b0
+        hint name
+        ---- ----
+          27 PathGetDriveNumberW 
+         112 StrCmpNW            
+         101 StrCmpICA           
+          17 PathFileExistsW     
+          35 PathIsRelativeW     
+         105 StrCmpNA            
+         130 StrStrIA            
+          77 SHRegGetBoolUSValueW
+         136 StrToInt64ExW       
+         107 StrCmpNCW           
+           3 ParseURLW           
+          69 QISearch            
+         110 StrCmpNICW          
+         115 StrDupA             
+         139 StrToIntExW         
+         144 UrlCanonicalizeW    
+         151 UrlGetPartW         
+         154 UrlUnescapeW        
+         148 UrlEscapeW          
+          15 PathCreateFromUrlW  
+         147 UrlCreateFromPathW  
+         150 UrlGetLocationW     
+          37 PathIsRootW         
+          73 SHRegDeleteUSValueW 
+         124 StrRChrW            
+         103 StrCmpIW            
+         152 UrlIsW              
+          66 PathStripToRootW    
+          75 SHRegEnumUSKeyW     
+          43 PathIsUNCServerShareW
+         142 StrTrimW            
+          83 SHRegQueryUSValueW  
+          71 SHRegCloseUSKey     
+          68 PathUnquoteSpacesW  
+          81 SHRegOpenUSKeyW     
+          33 PathIsPrefixW       
+          58 PathRemoveFileSpecW 
+         140 StrToIntW           
+          79 SHRegGetUSValueW    
+          56 PathRemoveExtensionW
+         113 StrCmpW             
+          98 StrChrW             
+         146 UrlCombineW         
+          78 SHRegGetUSValueA    
+          18 PathFindExtensionA  
+         134 StrStrW             
+          19 PathFindExtensionW  
+         129 StrStrA             
+         106 StrCmpNCA           
+         109 StrCmpNICA          
+         102 StrCmpICW           
+          99 StrCmpCA            
+          93 StrChrA             
+         116 StrDupW             
+         100 StrCmpCW            
+          97 StrChrNW            
+          32 PathIsPrefixA       
+         137 StrToIntA           
+         131 StrStrIW            
+          95 StrChrIW            
+           1 HashData            
+          44 PathIsUNCServerW    
+          21 PathFindFileNameW   
+          16 PathFileExistsA     
+         108 StrCmpNIA           
+          76 SHRegGetBoolUSValueA
+          45 PathIsUNCW          
+
+      from "api-ms-win-downlevel-advapi32-l1-1-0.dll":
+      not bound
+      name table at 0xd016c, address table at 0xcf4c0
+        hint name
+        ---- ----
+         103 RegGetValueW        
+          69 GetTraceEnableLevel 
+          68 GetTraceEnableFlags 
+          88 RegCreateKeyExW     
+         125 RegSetValueExW      
+          98 RegEnumValueA       
+         143 TraceMessageVa      
+         144 UnregisterTraceGuids
+         115 RegQueryInfoKeyA    
+          80 OpenProcessToken    
+         112 RegOpenKeyExA       
+         117 RegQueryValueExA    
+          93 RegDeleteValueA     
+          85 RegCloseKey         
+          96 RegEnumKeyExA       
+          67 GetTokenInformation 
+          32 CreateWellKnownSid  
+          24 CheckTokenMembership
+         118 RegQueryValueExW    
+         113 RegOpenKeyExW       
+          87 RegCreateKeyExA     
+          81 OpenThreadToken     
+          35 DuplicateToken      
+         124 RegSetValueExA      
+          89 RegDeleteKeyExA     
+         102 RegGetValueA        
+          99 RegEnumValueW       
+          70 GetTraceLoggerHandle
+
+      from "api-ms-win-downlevel-user32-l1-1-0.dll":
+      not bound
+      name table at 0xd01e0, address table at 0xcf534
+        hint name
+        ---- ----
+           7 CharPrevA           
+           4 CharNextA           
+           3 CharLowerW          
+           2 CharLowerBuffW      
+          11 CharUpperBuffA      
+           6 CharNextW           
+           9 CharPrevW           
+           0 CharLowerA          
+
+      from "api-ms-win-downlevel-version-l1-1-0.dll":
+      not bound
+      name table at 0xd0204, address table at 0xcf558
+        hint name
+        ---- ----
+           0 GetFileVersionInfoExW
+           5 VerQueryValueW      
+           1 GetFileVersionInfoSizeExW
+
+      from "api-ms-win-downlevel-normaliz-l1-1-0.dll":
+      not bound
+      name table at 0xd0214, address table at 0xcf568
+        hint name
+        ---- ----
+           0 IdnToAscii          
+
+      from "ole32.dll":
+      not bound
+      name table at 0xd021c, address table at 0xcf570
+        hint name
+        ---- ----
+         438 StgOpenStorageOnILockBytes
+         148 CreateILockBytesOnHGlobal
+         435 StgOpenStorage      
+         347 OleGetAutoConvert   
+         399 ReleaseStgMedium    
+         255 MonikerRelativePathTo
+         147 CreateGenericComposite
+         170 GetClassFile        
+         141 CreateBindCtx       
+         252 MkParseDisplayName  
+          79 CoInitialize        
+          67 CoGetObject         
+
+      from "SHLWAPI.dll":
+      not bound
+      name table at 0xd0250, address table at 0xcf5a4
+        hint name
+        ---- ----
+         253 SHRegWriteUSValueW  
+         223 SHRegDeleteEmptyUSKeyW
+         245 SHRegQueryInfoUSKeyW
+         230 SHRegEnumUSValueW   
+          68 PathCreateFromUrlA  
+         271 ShellMessageBoxA    
+           1 ordinal             
+         362 UrlGetPartA         
+         221 SHRegCreateUSKeyW   
+         354 UrlCompareW         
+
+      from "USER32.dll":
+      not bound
+      name table at 0xd027c, address table at 0xcf5d0
+        hint name
+        ---- ----
+         308 GetDC               
+         170 DestroyIcon         
+         675 RegisterWindowMessageW
+         459 GetWindowRect       
+         448 GetWindowDC         
+         214 DrawTextW           
+         293 GetClientRect       
+         320 GetDoubleClickTime  
+         677 ReleaseDC           
+         577 MapWindowPoints     
+         815 SystemParametersInfoW
+         549 LoadImageW          
+         691 SendDlgItemMessageW 
+         291 GetClassNameW       
+         255 EnumWindows         
+         264 FindWindowExW       
+         699 SendMessageTimeoutW 
+         624 PostMessageW        
+         426 GetSystemMetrics    
+         453 GetWindowLongW      
+         511 IsDlgButtonChecked  
+         534 IsWindowVisible     
+         783 SetWindowPos        
+         228 EnableWindow        
+          62 CheckDlgButton      
+         781 SetWindowLongW      
+         788 SetWindowTextW      
+         181 DispatchMessageW    
+         620 PeekMessageW        
+         440 GetUserObjectInformationW
+         430 GetThreadDesktop    
+         403 GetProcessWindowStation
+         278 GetAsyncKeyState    
+         769 SetTimer            
+         537 KillTimer           
+         701 SendNotifyMessageA  
+         262 FindWindowA         
+         346 GetLastActivePopup  
+         378 GetParent           
+           6 AllowSetForegroundWindow
+         297 GetClipboardFormatNameA
+         160 DefWindowProcA      
+         596 MsgWaitForMultipleObjects
+         625 PostQuitMessage     
+         619 PeekMessageA        
+         180 DispatchMessageA    
+         831 TranslateMessage    
+         112 CreateWindowExA     
+         840 UnregisterClassA    
+         647 RegisterClassA      
+         178 DialogBoxParamW     
+         231 EndDialog           
+         725 SetForegroundWindow 
+         695 SendMessageA        
+         316 GetDlgItem          
+         722 SetDlgItemTextW     
+         560 LoadStringW         
+         452 GetWindowLongA      
+         700 SendMessageW        
+         559 LoadStringA         
+         173 DestroyWindow       
+         623 PostMessageA        
+         780 SetWindowLongA      
+         690 SendDlgItemMessageA 
+         651 RegisterClipboardFormatA
+         814 SystemParametersInfoA
+         753 SetPropA            
+         405 GetPropA            
+         800 ShowWindow          
+
+      from "ntdll.dll":
+      not bound
+      name table at 0xd0394, address table at 0xcf6e8
+        hint name
+        ---- ----
+        1060 RtlIpv6StringToAddressExW
+        1052 RtlIpv4StringToAddressExW
+
+      from "iertutil.dll":
+      not bound
+      name table at 0xd03a0, address table at 0xcf6f4
+        hint name
+        ---- ----
+         151 ordinal             
+          32 ordinal             
+         443 ordinal             
+         791 ordinal             
+         526 ordinal             
+           9 ordinal             
+          25 ordinal             
+         701 ordinal             
+          28 IsStringProperty    
+          27 IsDWORDProperty     
+          26 IntlPercentEncodeNormalize
+          18 GetPropertyName     
+          17 GetPropertyFromName 
+          16 GetPortFromUrlScheme
+          15 GetIUriPriv2        
+          14 GetIUriPriv         
+           5 CreateUriWithFragment
+           4 CreateUriPriv       
+           3 CreateUriFromMultiByteString
+           2 CreateUri           
+          10 FastMimeGetIsMimeFilterEnabled
+         282 ordinal             
+         281 ordinal             
+         173 ordinal             
+          62 ordinal             
+          72 ordinal             
+           1 CreateStringHashN   
+          32 PrivateCoInternetCanonicalizeIUri
+         230 ordinal             
+         519 ordinal             
+         453 ordinal             
+         670 ordinal             
+         654 ordinal             
+         665 ordinal             
+         675 ordinal             
+         672 ordinal             
+         518 ordinal             
+         340 ordinal             
+         458 ordinal             
+         457 ordinal             
+         516 ordinal             
+         403 ordinal             
+         463 ordinal             
+          34 PrivateCoInternetParseIUri
+          33 PrivateCoInternetCombineIUri
+         750 ordinal             
+         541 ordinal             
+         751 ordinal             
+         520 ordinal             
+         425 ordinal             
+         527 ordinal             
+         528 ordinal             
+         700 ordinal             
+          39 UriFromHostAndScheme
+         398 ordinal             
+          35 ordinal             
+          58 ordinal             
+         460 ordinal             
+          11 FastMimeLookupKnownType
+          12 FastMimeSetIsMimeFilterEnabled
+         386 ordinal             
+          61 ordinal             
+          49 ordinal             
+         707 ordinal             
+         592 ordinal             
+         593 ordinal             
+         391 ordinal             
+          57 ordinal             
+          13 GetIDNSettingsForIE 
+          64 ordinal             
+         682 ordinal             
+          65 ordinal             
+          71 ordinal             
+         134 ordinal             
+         466 ordinal             
+          79 ordinal             
+          85 ordinal             
+          86 ordinal             
+          76 ordinal             
+          81 ordinal             
+          74 ordinal             
+         683 ordinal             
+         796 ordinal             
+         706 ordinal             
+          88 ordinal             
+         681 ordinal             
+          50 ordinal             
+         325 ordinal             
+         166 ordinal             
+          24 IUriBuilderInternalCreateDomain
+         172 ordinal             
+         159 ordinal             
+         158 ordinal             
+         150 ordinal             
+          54 ordinal             
+         201 ordinal             
+         200 ordinal             
+          28 ordinal             
+         209 ordinal             
+         141 ordinal             
+         140 ordinal             
+         135 ordinal             
+          68 ordinal             
+         143 ordinal             
+         142 ordinal             
+          63 ordinal             
+          70 ordinal             
+          43 ordinal             
+         205 ordinal             
+          56 ordinal             
+         793 ordinal             
+          44 ordinal             
+         404 ordinal             
+          42 ordinal             
+          20 ordinal             
+          89 ordinal             
+          17 ordinal             
+          45 ordinal             
+           0 CreateIUriBuilder   
+          16 ordinal             
+         399 ordinal             
+         655 ordinal             
+         651 ordinal             
+         657 ordinal             
+         658 ordinal             
+         650 ordinal             
+         664 ordinal             
+         667 ordinal             
+         652 ordinal             
+         656 ordinal             
+
+      from "WININET.dll":
+      not bound
+      name table at 0xd05ac, address table at 0xcf900
+        hint name
+        ---- ----
+         111 HttpDuplicateDependencyHandle
+         216 InternetSetOptionA  
+          92 GetUrlCacheEntryInfoExW
+         210 InternetSetCookieExW
+         178 InternetGetCookieExW
+         153 InternetConnectW    
+         123 HttpQueryInfoW      
+         108 HttpAddRequestHeadersW
+         193 InternetLockRequestFile
+         200 InternetQueryOptionA
+         122 HttpQueryInfoA      
+         197 InternetOpenW       
+         223 InternetSetStatusCallbackA
+         219 InternetSetOptionW  
+         201 InternetQueryOptionW
+         156 InternetCreateUrlA  
+         192 InternetInitializeAutoProxyDll
+         198 InternetQueryDataAvailable
+         202 InternetReadFile    
+         163 InternetErrorDlg    
+         250 RetrieveUrlCacheEntryFileW
+         270 UnlockUrlCacheEntryFileW
+         234 InternetUnlockRequestFile
+         248 ResumeSuspendedDownload
+         215 InternetSetFilePointer
+         204 InternetReadFileExW 
+         119 HttpPushClose       
+         110 HttpCloseDependencyHandle
+           4 AppCacheDuplicateHandle
+         118 HttpOpenRequestW    
+         116 HttpOpenDependencyHandle
+          16 AppCacheLookup      
+           1 AppCacheCloseHandle 
+         126 HttpSendRequestExW  
+         127 HttpSendRequestW    
+          12 AppCacheGetGroupList
+          11 AppCacheGetFallbackUrl
+           7 AppCacheFreeGroupList
+         121 HttpPushWait        
+         120 HttpPushEnable      
+          93 GetUrlCacheEntryInfoW
+          32 DeleteUrlCacheEntryW
+         235 InternetWriteFile   
+         112 HttpEndRequestA     
+         196 InternetOpenUrlW    
+          73 FtpGetFileSize      
+          90 GetUrlCacheEntryInfoA
+          23 CreateUrlCacheEntryA
+          17 CommitUrlCacheEntryA
+         232 InternetTimeToSystemTimeA
+         154 InternetCrackUrlA   
+          31 DeleteUrlCacheEntryA
+         229 InternetTimeFromSystemTimeA
+         141 InternetCanonicalizeUrlA
+          50 FindNextUrlCacheContainerA
+          42 FindCloseUrlCache   
+         230 InternetTimeFromSystemTimeW
+          18 CommitUrlCacheEntryBinaryBlob
+          60 FreeUrlCacheSpaceW  
+          91 GetUrlCacheEntryInfoExA
+          43 FindFirstUrlCacheContainerA
+          88 GetUrlCacheConfigInfoW
+         238 IsHostInProxyBypassList
+          47 FindFirstUrlCacheEntryExW
+          55 FindNextUrlCacheEntryW
+          22 CreateUrlCacheContainerW
+         146 InternetCloseHandle 
+         276 UrlCacheCreateContainer
+          29 DeleteUrlCacheContainerW
+          89 GetUrlCacheEntryBinaryBlob
+          19 CommitUrlCacheEntryW
+
+    at offset 0x0 (2592 bytes): Import Address Table
+
+".rsrc" (virt. Size/Address: 0x4fdf0)
+  327168 bytes at offset  0xd3000 in RAM,  0xca000 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+Section entropy 6.58626
+
+    at offset 0x0 (327152 bytes): Resource Directory
+        version: 0.0, created (GMT): Thu Jan 01 00:00:00 1970
+        name: "MUI",         name: "REGINST",         icon,         group icon,         version info,         unknown resource type 0x18, 
+".reloc" (virt. Size/Address: 0x8ba0)
+   35840 bytes at offset 0x123000 in RAM, 0x119e00 in file
+    contains initialized data
+    default alignment (16 bytes)
+    can be discarded
+    is readable
+Section entropy 6.48737
+
+    at offset 0x0 (35744 bytes): Base Relocation Table
+    (relocations skipped)
+
+Entropy: 6.6069

@@ -1,0 +1,100 @@
+JP2SSV.DLL
+Default location: C:\PROGRAM FILES\JAVA\JRE1.8.0_25\BIN\JP2SSV.DLL
+MD5: 42C4F150A0B85FACFAD987EF0E42ED52
+SHA1: 0064D2F6 6E79F711 C09A8300 2DF9DF23 73AB8A42
+File Size: 212 904
+
+Version Info:
+OriginalFilename: jp2ssv.dll
+FileDescription: Java(TM) Platform SE binary
+InternalName: jp2ssv
+CompanyName: Oracle Corporation
+FileVersion: 11.25.2.18
+LegalCopyright: Copyright c 2014
+ProductName: Java(TM) Platform SE 8 U25
+ProductVersion: 8.0.250.18
+
+PE Info of the C:\PROGRAM FILES\JAVA\JRE1.8.0_25\BIN\JP2SSV.DLL:
+
+Type is Windows GUI.
+DOS-stub: 240 bytes
+built for machine: unknown processor: 8664
+  (non-32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+File is a DLL
+  do not notify on ProcAttach
+  do not notify on ThreadAttach
+  do not notify on ProcDetach
+  do not notify on ThreadDetach
+0 entries in symbol table
+6 sections
+created (GMT): Tue Oct 07 22:01:57 2014
+Linker version: 10.0
+.text start:   0x1000, length: 148480 bytes
+.data start: 0x70090000, length:  66560 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at     0x11aec
+Preferred load base is      0x0
+Image size in RAM: 228 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 5.2, Win32 5.2, App 0.0
+Checksum: 0x0004211b
+uses Win32 graphical subsystem
+Stack: 1024 KB reserved,   0 KB committed
+Heap:    4 KB reserved,   0 KB committed
+Size of headers / offset to sections in file: 0x400
+
+"" (virt. Size/Address: 0x0)
+  2019914798 bytes at offset      0x0 in RAM,     0x74 in file
+    default alignment (16 bytes)
+    at offset 0x11aec: execution start
+
+"" (virt. Size/Address: 0x0)
+  1633972782 bytes at offset 0x60000020 in RAM,   0x6174 in file
+    contents will not become part of image
+    purgeable
+    ? 16-bit-section ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1952539694 bytes at offset 0x40000040 in RAM,     0x61 in file
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    purgeable
+    ? 16-bit-section ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1633972270 bytes at offset 0xc0000040 in RAM,   0x6174 in file
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    purgeable
+    ? 16-bit-section ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1920168494 bytes at offset 0x40000040 in RAM,     0x63 in file
+    contains comments / information
+    contents is COMDAT (common block data, packaged functions)
+    purgeable
+    ? 16-bit-section ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1818587694 bytes at offset 0x40000040 in RAM,   0x636f in file
+    contains comments / information
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    purgeable
+    ? 16-bit-section ?
+    default alignment (16 bytes)
+
+Entropy = 6.3574
+
+Entropy: 6.35744

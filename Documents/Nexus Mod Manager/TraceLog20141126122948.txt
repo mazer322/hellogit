@@ -1,0 +1,354 @@
+Trace file has been created: TraceLog20141126122948.txt
+Mod Manager Version: 0.52.3.0
+OS version: Microsoft Windows NT 6.1.7601 Service Pack 1
+Installed .NET Versions:
+	CDF SP 0
+	v2.0.50727 SP 2
+	v3.0 SP 2
+	v3.5 SP 1
+	v4 SP 0
+	v4.0 SP 0
+Tracing is forced: False
+
+Discovering Game Mode Factories...
+    Looking in: C:\Program Files\Nexus Mod Manager\GameModes
+    Checking: DarkSouls.dll
+        Initializing: Nexus.Client.Games.DarkSouls.DarkSoulsGameModeFactory
+    Checking: DarkSouls.ModScript.dll
+        Cannot load C:\Program Files\Nexus Mod Manager\GameModes\DarkSouls.ModScript.dll: cannot find dependency ModScript, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null
+    Checking: DarkSouls2.dll
+        Initializing: Nexus.Client.Games.DarkSouls2.DarkSouls2GameModeFactory
+    Checking: DarkSouls2.ModScript.dll
+        Cannot load C:\Program Files\Nexus Mod Manager\GameModes\DarkSouls2.ModScript.dll: cannot find dependency ModScript, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null
+    Checking: DragonAge.dll
+        Initializing: Nexus.Client.Games.DragonAge.DragonAgeGameModeFactory
+    Checking: DragonAge.ModScript.dll
+        Cannot load C:\Program Files\Nexus Mod Manager\GameModes\DragonAge.ModScript.dll: cannot find dependency ModScript, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null
+    Checking: DragonAge2.dll
+        Initializing: Nexus.Client.Games.DragonAge2.DragonAge2GameModeFactory
+    Checking: DragonAge2.ModScript.dll
+        Cannot load C:\Program Files\Nexus Mod Manager\GameModes\DragonAge2.ModScript.dll: cannot find dependency ModScript, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null
+    Checking: Fallout3.CSharpScript.dll
+        Cannot load C:\Program Files\Nexus Mod Manager\GameModes\Fallout3.CSharpScript.dll: cannot find dependency CSharpScript, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null
+    Checking: Fallout3.dll
+        Initializing: Nexus.Client.Games.Fallout3.Fallout3GameModeFactory
+    Checking: Fallout3.XmlScript.dll
+        Cannot load C:\Program Files\Nexus Mod Manager\GameModes\Fallout3.XmlScript.dll: cannot find dependency XmlScript, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null
+    Checking: FalloutNV.CSharpScript.dll
+        Cannot load C:\Program Files\Nexus Mod Manager\GameModes\FalloutNV.CSharpScript.dll: cannot find dependency CSharpScript, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null
+    Checking: FalloutNV.dll
+        Initializing: Nexus.Client.Games.FalloutNV.FalloutNVGameModeFactory
+    Checking: FalloutNV.XmlScript.dll
+        Cannot load C:\Program Files\Nexus Mod Manager\GameModes\FalloutNV.XmlScript.dll: cannot find dependency XmlScript, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null
+    Checking: GamebryoBase.dll
+    Checking: Grimrock.dll
+        Initializing: Nexus.Client.Games.Grimrock.GrimrockGameModeFactory
+    Checking: Grimrock.ModScript.dll
+        Cannot load C:\Program Files\Nexus Mod Manager\GameModes\Grimrock.ModScript.dll: cannot find dependency ModScript, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null
+    Checking: Morrowind.dll
+        Initializing: Nexus.Client.Games.Morrowind.MorrowindGameModeFactory
+    Checking: Morrowind.ModScript.dll
+        Cannot load C:\Program Files\Nexus Mod Manager\GameModes\Morrowind.ModScript.dll: cannot find dependency ModScript, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null
+    Checking: Oblivion.dll
+        Initializing: Nexus.Client.Games.Oblivion.OblivionGameModeFactory
+    Checking: Oblivion.ModScript.dll
+        Cannot load C:\Program Files\Nexus Mod Manager\GameModes\Oblivion.ModScript.dll: cannot find dependency ModScript, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null
+    Checking: Skyrim.CSharpScript.dll
+        Cannot load C:\Program Files\Nexus Mod Manager\GameModes\Skyrim.CSharpScript.dll: cannot find dependency CSharpScript, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null
+    Checking: Skyrim.dll
+        Initializing: Nexus.Client.Games.Skyrim.SkyrimGameModeFactory
+    Checking: Skyrim.XmlScript.dll
+        Cannot load C:\Program Files\Nexus Mod Manager\GameModes\Skyrim.XmlScript.dll: cannot find dependency XmlScript, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null
+    Checking: Starbound.dll
+        Initializing: Nexus.Client.Games.Starbound.StarboundGameModeFactory
+    Checking: Starbound.ModScript.dll
+        Cannot load C:\Program Files\Nexus Mod Manager\GameModes\Starbound.ModScript.dll: cannot find dependency ModScript, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null
+    Checking: StateOfDecay.dll
+        Initializing: Nexus.Client.Games.StateOfDecay.StateOfDecayGameModeFactory
+    Checking: StateOfDecay.ModScript.dll
+        Cannot load C:\Program Files\Nexus Mod Manager\GameModes\StateOfDecay.ModScript.dll: cannot find dependency ModScript, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null
+    Checking: TESO.dll
+        Initializing: Nexus.Client.Games.TESO.TESOGameModeFactory
+    Checking: WarThunder.dll
+        Initializing: Nexus.Client.Games.WarThunder.WarThunderGameModeFactory
+    Checking: Witcher2.dll
+        Initializing: Nexus.Client.Games.Witcher2.Witcher2GameModeFactory
+    Checking: Witcher2.ModScript.dll
+        Cannot load C:\Program Files\Nexus Mod Manager\GameModes\Witcher2.ModScript.dll: cannot find dependency ModScript, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null
+    Checking: WorldOfTanks.dll
+        Initializing: Nexus.Client.Games.WorldOfTanks.WoTGameModeFactory
+    Checking: WorldOfTanks.ModScript.dll
+        Cannot load C:\Program Files\Nexus Mod Manager\GameModes\WorldOfTanks.ModScript.dll: cannot find dependency ModScript, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null
+    Checking: XRebirth.dll
+        Initializing: Nexus.Client.Games.XRebirth.XRebirthGameModeFactory
+Searching for the installation paths of:
+    Dark Souls (DarkSouls)
+        Checking Last Installation Path...
+            Returned:  (IsNull=True)
+        Asking Game Mode...
+            Checking for steam install: HKEY_CURRENT_USER\Software\Valve\Steam\Apps\211420\Installed
+                Found 
+            Returned:  (IsNull=True)
+    Dark Souls 2 (DarkSouls2)
+        Checking Last Installation Path...
+            Returned:  (IsNull=True)
+        Asking Game Mode...
+            Checking for steam install: HKEY_CURRENT_USER\Software\Valve\Steam\Apps\236430\Installed
+                Found 
+            Returned:  (IsNull=True)
+    Dragon Age (DragonAge)
+        Checking Last Installation Path...
+            Returned:  (IsNull=True)
+        Asking Game Mode...
+            Checking for steam install: HKEY_CURRENT_USER\Software\Valve\Steam\Apps\17450\Installed
+                Found 
+            Returned:  (IsNull=True)
+    Dragon Age 2 (DragonAge2)
+        Checking Last Installation Path...
+            Returned:  (IsNull=True)
+        Asking Game Mode...
+            Returned:  (IsNull=True)
+    Fallout 3 (Fallout3)
+        Checking Last Installation Path...
+            Returned:  (IsNull=True)
+        Asking Game Mode...
+            Checking for steam install: HKEY_CURRENT_USER\Software\Valve\Steam\Apps\22300\Installed
+                Found 
+            Checking: HKEY_LOCAL_MACHINE\Software\Wow6432Node\Bethesda Softworks\Fallout3\Installed Path
+                Found 
+            Returned:  (IsNull=True)
+    Fallout: New Vegas (FalloutNV)
+        Checking Last Installation Path...
+            Returned:  (IsNull=True)
+        Asking Game Mode...
+            Checking for steam install: HKEY_CURRENT_USER\Software\Valve\Steam\Apps\22380\Installed
+                Found 
+            Checking: HKEY_LOCAL_MACHINE\Software\Wow6432Node\Bethesda Softworks\FalloutNV\Installed Path
+                Found 
+            Returned:  (IsNull=True)
+    Legend of Grimrock (Grimrock)
+        Checking Last Installation Path...
+            Returned:  (IsNull=True)
+        Asking Game Mode...
+            Checking for steam install: HKEY_CURRENT_USER\Software\Valve\Steam\Apps\207170\Installed
+                Found 
+            Returned:  (IsNull=True)
+    Morrowind (Morrowind)
+        Checking Last Installation Path...
+            Returned:  (IsNull=True)
+        Asking Game Mode...
+            Checking for steam install: HKEY_CURRENT_USER\Software\Valve\Steam\Apps\22320\Installed
+                Found 
+            Checking: HKEY_LOCAL_MACHINE\Software\Wow6432Node\Bethesda Softworks\Morrowind\Installed Path
+                Found 
+            Returned:  (IsNull=True)
+    Oblivion (Oblivion)
+        Checking Last Installation Path...
+            Returned:  (IsNull=True)
+        Asking Game Mode...
+            Checking for steam install: HKEY_CURRENT_USER\Software\Valve\Steam\Apps\22330\Installed
+                Found 
+            Checking: HKEY_LOCAL_MACHINE\Software\Wow6432Node\Bethesda Softworks\Oblivion\Installed Path
+                Found 
+            Returned:  (IsNull=True)
+    Skyrim (Skyrim)
+        Checking Last Installation Path...
+            Returned:  (IsNull=True)
+        Asking Game Mode...
+            Checking for steam install: HKEY_CURRENT_USER\Software\Valve\Steam\Apps\72850\Installed
+                Found 
+            Checking: HKEY_LOCAL_MACHINE\Software\Wow6432Node\Bethesda Softworks\Skyrim\Installed Path
+                Found C:\games\skyrim\
+            Returned: C:\games\skyrim\ (IsNull=False)
+    Starbound (Starbound)
+        Checking Last Installation Path...
+            Returned:  (IsNull=True)
+        Asking Game Mode...
+            Checking for steam install: HKEY_CURRENT_USER\Software\Valve\Steam\Apps\211820\Installed
+                Found 
+            Returned:  (IsNull=True)
+    State of Decay (StateOfDecay)
+        Checking Last Installation Path...
+            Returned:  (IsNull=True)
+        Asking Game Mode...
+            Checking for steam install: HKEY_CURRENT_USER\Software\Valve\Steam\Apps\241540\Installed
+                Found 
+            Returned:  (IsNull=True)
+    The Elder Scrolls Online (TESO)
+        Checking Last Installation Path...
+            Returned:  (IsNull=True)
+        Asking Game Mode...
+            Checking: HKEY_LOCAL_MACHINE\Software\Wow6432Node\Zenimax_Online\Launcher\InstallFolder
+                Found 
+            Returned:  (IsNull=True)
+    War Thunder (WarThunder)
+        Checking Last Installation Path...
+            Returned:  (IsNull=True)
+        Asking Game Mode...
+            Checking for steam install: HKEY_CURRENT_USER\Software\Valve\Steam\Apps\236390\Installed
+                Found 
+            Returned:  (IsNull=True)
+    The Witcher 2 (Witcher2)
+        Checking Last Installation Path...
+            Returned:  (IsNull=True)
+        Asking Game Mode...
+            Checking for steam install: HKEY_CURRENT_USER\Software\Valve\Steam\Apps\20920\Installed
+                Found 
+            Checking: HKEY_LOCAL_MACHINE\Software\Wow6432Node\CD Projekt RED\The Witcher 2\InstallFolder
+                Found C:\games\MyProg\bin
+            Returned: C:\games\MyProg\bin (IsNull=False)
+    World of Tanks (WorldOfTanks)
+        Checking Last Installation Path...
+            Returned:  (IsNull=True)
+        Asking Game Mode...
+            Returned:  (IsNull=True)
+    X Rebirth (XRebirth)
+        Checking Last Installation Path...
+            Returned:  (IsNull=True)
+        Asking Game Mode...
+            Checking for steam install: HKEY_CURRENT_USER\Software\Valve\Steam\Apps\2870\Installed
+                Found 
+            Returned:  (IsNull=True)
+    Starting search.
+Loading Game Mode Factories for Installed Games...
+    Loading Skyrim: Supported
+Determining Game Mode: (From Selection Form) Skyrim
+Game Mode Factory Selected: Skyrim (Skyrim)
+Creating Game Mode mutex (Attempt: 0)
+Game Mode Built: Skyrim (Skyrim)
+    Installation Path: C:\games\skyrim
+    Install Info Path: C:\Games\Nexus Mod Manager\Skyrim\Install Info
+    Mod Path: C:\Games\Nexus Mod Manager\Skyrim\Mods
+    Mod Cache Path: C:\Games\Nexus Mod Manager\Skyrim\Mods\cache
+    Mod Download Cache: C:\Games\Nexus Mod Manager\Skyrim\Mods\downloads
+    Overwrite Path: C:\Games\Nexus Mod Manager\Skyrim\Install Info\overwrites
+Scanning for read-only files...
+Initializing Mod Repository...
+Registering supported Script Types...
+    Discovering Script Types...
+        Discovering Generic Script Types...
+            Looking in: C:\Program Files\Nexus Mod Manager\ScriptTypes
+            Checking: Antlr3.Runtime.dll
+            Checking: AntlrUtil.dll
+            Checking: CSharpScript.dll
+                Initializing: Nexus.Client.ModManagement.Scripting.CSharpScript.CSharpScriptType
+            Checking: ModScript.dll
+                Initializing: Nexus.Client.ModManagement.Scripting.ModScript.ModScriptType
+            Checking: XmlScript.dll
+                Initializing: Nexus.Client.ModManagement.Scripting.XmlScript.XmlScriptType
+        Discovering Game Mode Specific Script Types...
+            Looking in: C:\Program Files\Nexus Mod Manager\GameModes
+            Checking: Skyrim.CSharpScript.dll
+                Initializing: Nexus.Client.Games.Skyrim.Scripting.CSharpScript.SkyrimCSharpScriptType
+            Checking: Skyrim.XmlScript.dll
+                Initializing: Nexus.Client.Games.Skyrim.Scripting.XmlScript.SkyrimXmlScriptType
+    Found 3 script types.
+Registering supported mod formats...
+    Discovering Mod Formats...
+        Looking in: C:\Program Files\Nexus Mod Manager\ModFormats
+        Checking: FOMod.dll
+            Initializing: Nexus.Client.Mods.Formats.FOMod.FOModFormat
+        Checking: OMod.dll
+            Initializing: Nexus.Client.Mods.Formats.OMod.OModFormat
+    Found 2 formats.
+Finding managed mods...
+    Discovering Managed Mods...
+        Looking in: C:\Games\Nexus Mod Manager\Skyrim\Mods
+    Found 0 managed mods.
+Initializing Install Log...
+    Checking if upgrade is required...
+    Path: C:\Games\Nexus Mod Manager\Skyrim\Install Info\InstallLog.xml
+    Loaded from XML.
+    Found Dummy Mod: ORIGINAL_VALUE...OK
+Initializing Plugin Management Services...
+    Initializing Plugin Registry...
+        Discovering Managed Plugins...
+            Discovering Plugins...
+                Looking in: C:\games\skyrim\Data
+                Found: C:\games\skyrim\Data\Dawnguard.esm
+                Found: C:\games\skyrim\Data\Dragonborn.esm
+                Found: C:\games\skyrim\Data\HearthFires.esm
+                Found: C:\games\skyrim\Data\Skyrim.esm
+                Found: C:\games\skyrim\Data\Update.esm
+            Found: C:\games\skyrim\Data\Dawnguard.esm
+                Registered.
+            Found: C:\games\skyrim\Data\Dragonborn.esm
+                Registered.
+            Found: C:\games\skyrim\Data\HearthFires.esm
+                Registered.
+            Found: C:\games\skyrim\Data\Skyrim.esm
+                Registered.
+            Found: C:\games\skyrim\Data\Update.esm
+                Registered.
+        Found 5 managed plugins.
+    Initializing Plugin Order Log...
+        Loading Plugin Order...
+            Getting Plugin Load Order from BOSS...
+            Loading C:\games\skyrim\Data\Skyrim.esm (IsNull=False)
+            Loading C:\games\skyrim\Data\Dawnguard.esm (IsNull=False)
+            Loading C:\games\skyrim\Data\Dragonborn.esm (IsNull=False)
+            Loading C:\games\skyrim\Data\HearthFires.esm (IsNull=False)
+            Loading C:\games\skyrim\Data\Update.esm (IsNull=False)
+    Initializing Active Plugin Log...
+    Initializing Plugin Manager...
+Initializing Activity Monitor...
+Initializing Mod Manager...
+Initializing Update Manager...
+Upgrading replaced Mods...
+Uninstalling missing Mods...
+Loading mods that are queued to be added.
+Launch Commands:
+    Plain Command: C:\games\skyrim\SkyrimLauncher.exe (IsNull=False)
+    SKSE Command: C:\games\skyrim\skse_loader.exe (IsNull=False)
+    Custom Command:  (IsNull=True)
+Loading Plugins into Plugin List: 5
+    Loading: Skyrim.esm (C:\games\skyrim\Data\Skyrim.esm) (False)
+    Loading: Dawnguard.esm (C:\games\skyrim\Data\Dawnguard.esm) (False)
+    Loading: Dragonborn.esm (C:\games\skyrim\Data\Dragonborn.esm) (False)
+    Loading: HearthFires.esm (C:\games\skyrim\Data\HearthFires.esm) (False)
+    Loading: Update.esm (C:\games\skyrim\Data\Update.esm) (False)
+Setting up listener on Nexus Mod Manager-SkyrimIpcServer/SkyrimListener at 2014-11-26 12:30:37
+Running Application.
+Checking for new client version...
+Checking for new BOSS masterlist version...
+Adding Mod to running instance of client: nxm://skyrim/mods/10789/files/36927
+[nxm://skyrim/mods/10789/files/36927] Adding Mod to AddModQueue
+[nxm://skyrim/mods/10789/files/36927] Starting Add Mod Task.
+[nxm://skyrim/mods/10789/files/36927] Downloading Files.
+[nxm://skyrim/mods/10789/files/36927] Launching downloading of http://filedelivery.nexusmods.com/110/36927/ColorfulLightsNoShadows-v1b-10789-1b.zip?ttl=1416999994&ri=8192&rs=8192&setec=c11ae79bce7f475bc2692c7879eaad97.
+[http://filedelivery.nexusmods.com/110/36927/ColorfulLightsNoShadows-v1b-10789-1b.zip?ttl=1416999994&ri=8192&rs=8192&setec=c11ae79bce7f475bc2692c7879eaad97] Retreiving metadata.
+[http://filedelivery.nexusmods.com/110/36927/ColorfulLightsNoShadows-v1b-10789-1b.zip?ttl=1416999994&ri=8192&rs=8192&setec=c11ae79bce7f475bc2692c7879eaad97] Downloading.
+[C:\Games\Nexus Mod Manager\Skyrim\Mods\downloads\ColorfulLightsNoShadows-v1b-10789-1b.zip] Adding mod from archive.
+Launching Skyrim (Plain)...
+    Command: C:\games\skyrim\SkyrimLauncher.exe
+    Succeeded
+
+Tracing an Unhandled Exception:
+Exception: 
+Message: 
+	The process cannot access the file 'C:\games\skyrim\Data\ColorfulLightsNoShadows.esp' because it is being used by another process.
+Full Trace: 
+	System.Exception: The process cannot access the file 'C:\games\skyrim\Data\ColorfulLightsNoShadows.esp' because it is being used by another process. ---> System.IO.IOException: The process cannot access the file 'C:\games\skyrim\Data\ColorfulLightsNoShadows.esp' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalDelete(String path, Boolean checkHost)
+   at ChinhDo.Transactions.TxFileManager.TxEnlistment.Delete(String path)
+   --- End of inner exception stack trace ---
+   at ChinhDo.Transactions.TxFileManager.TxEnlistment.Delete(String path)
+   at Nexus.Client.ModManagement.ModFileInstaller.UninstallDataFile(String p_strPath, Boolean p_booSecondaryInstallPath)
+   at Nexus.Client.ModManagement.BasicUninstallTask.UninstallFiles()
+   at Nexus.Client.ModManagement.ModUninstaller.RunBasicUninstallScript(TxFileManager p_tfmFileManager, String& p_strErrorMessage)
+   at Nexus.Client.ModManagement.ModUninstaller.RunTasks()
+   at Nexus.Client.Util.Threading.TrackedThread.RunThread()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+Inner Exception:
+System.IO.IOException: The process cannot access the file 'C:\games\skyrim\Data\ColorfulLightsNoShadows.esp' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalDelete(String path, Boolean checkHost)
+   at ChinhDo.Transactions.TxFileManager.TxEnlistment.Delete(String path)
+
+Running Threads (1)
+    9 () 
+        Aborted

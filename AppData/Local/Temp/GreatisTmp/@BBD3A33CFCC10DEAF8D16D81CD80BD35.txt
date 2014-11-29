@@ -1,0 +1,292 @@
+DESURA_SERVICE.EXE
+Default location: C:\PROGRAM FILES (X86)\COMMON FILES\DESURA\DESURA_SERVICE.EXE
+MD5: BBD3A33CFCC10DEAF8D16D81CD80BD35
+SHA1: 27D536FA 8723FC47 FC81D80B 3E6FF9A0 31E9E97D
+File Size: 1 051 088
+
+Version Info:
+OriginalFilename: desura_service.exe
+FileDescription: Desura Main Service
+InternalName: Desura Service
+CompanyName: Desura Net Pty Ltd
+FileVersion: 0,0,14,16
+LegalCopyright: (C) Copyright Desura Net
+ProductName: Desura
+ProductVersion: 0,0,14,16
+
+PE Info of the C:\PROGRAM FILES (X86)\COMMON FILES\DESURA\DESURA_SERVICE.EXE:
+
+Type is Windows console application.
+DOS-stub: 248 bytes
+built for machine: Intel 80386 processor
+  (32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+0 entries in symbol table
+6 sections
+created (GMT): Thu Jul 03 08:11:04 2014
+Linker version: 12.0
+.text start:   0x1000, length: 805888 bytes
+.data start:  0xc6000, length: 258048 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at     0x4bbb0
+Preferred load base is 0x400000
+Image size in RAM: 1056 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 5.1, Win32 5.1, App 0.0
+Checksum: 0x0010bd2e
+uses Win32 console subsystem
+Stack: 1024 KB reserved,   4 KB committed
+Heap:  1024 KB reserved,   4 KB committed
+Size of headers / offset to sections in file: 0x400
+
+".text" (virt. Size/Address: 0xc4a28)
+  805888 bytes at offset   0x1000 in RAM,    0x400 in file
+    contains code
+    default alignment (16 bytes)
+    is executable
+    is readable
+    at offset 0x4abb0: execution start
+Section entropy 5.86294
+
+".rdata" (virt. Size/Address: 0x1f25a)
+  128000 bytes at offset  0xc6000 in RAM,  0xc5000 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+Section entropy 5.53019
+
+    at offset 0x10c0 (56 bytes): Debug Directory
+
+    at offset 0xd948 (64 bytes): Load Configuration Directory
+
+".data" (virt. Size/Address: 0xa8e4)
+   24576 bytes at offset  0xe6000 in RAM,  0xe4400 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+    is writeable
+Section entropy 4.88803
+
+".idata" (virt. Size/Address: 0x15df)
+    5632 bytes at offset  0xf1000 in RAM,  0xea400 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+Section entropy 4.74505
+
+    at offset 0x3c4 (140 bytes): Import Directory
+
+      from "KERNEL32.dll":
+      not bound
+      name table at 0xf1488, address table at 0xf1038
+        hint name
+        ---- ----
+        1202 Sleep               
+          82 CloseHandle         
+         130 CreateEventA        
+         531 GetModuleFileNameA  
+         485 GetFileAttributesA  
+         354 FreeLibrary         
+         581 GetProcAddress      
+         828 LoadLibraryA        
+         211 DeleteFileA         
+        1273 WaitForSingleObject 
+         449 GetCurrentProcessId 
+         514 GetLastError        
+        1100 SetCurrentDirectoryA
+        1104 SetDllDirectoryA    
+         751 InterlockedIncrement
+         855 MapViewOfFile       
+        1238 UnmapViewOfFile     
+         140 CreateFileMappingW  
+        1113 SetEvent            
+         768 IsDebuggerPresent   
+         896 OpenProcess         
+         453 GetCurrentThreadId  
+        1107 SetEndOfFile        
+        1110 SetEnvironmentVariableA
+        1316 WriteConsoleW       
+        1272 WaitForMultipleObjectsEx
+        1159 SetStdHandle        
+        1127 SetFilePointerEx    
+         133 CreateEventW        
+         532 GetModuleFileNameW  
+         168 CreateProcessW      
+         129 CreateDirectoryW    
+         627 GetSystemInfo       
+         960 ReadFile            
+         143 CreateFileW         
+        1189 SetUnhandledExceptionFilter
+         738 InitializeCriticalSection
+         238 EnterCriticalSection
+         825 LeaveCriticalSection
+         209 DeleteCriticalSection
+        1022 ReleaseSemaphore    
+         448 GetCurrentProcess   
+         181 CreateThread        
+        1217 TerminateThread     
+        1265 VirtualQuery        
+         536 GetModuleHandleW    
+         174 CreateSemaphoreW    
+         831 LoadLibraryW        
+        1297 WideCharToMultiByte 
+         633 GetSystemTimeAsFileTime
+         232 DuplicateHandle     
+         452 GetCurrentThread    
+         480 GetExitCodeThread   
+         234 EncodePointer       
+         202 DecodePointer       
+         871 MultiByteToWideChar 
+         617 GetStringTypeW      
+         719 HeapFree            
+         945 RaiseException      
+        1048 RtlUnwind           
+         281 ExitProcess         
+         535 GetModuleHandleExW  
+          21 AreFileApisANSI     
+         515 GetLocalTime        
+         772 IsProcessorFeaturePresent
+         390 GetCommandLineA     
+         715 HeapAlloc           
+         722 HeapReAlloc         
+         288 FatalAppExitA       
+         370 GetCPInfo           
+        1230 TryEnterCriticalSection
+         188 CreateTimerQueue    
+        1045 RtlCaptureStackBackTrace
+        1274 WaitForSingleObjectEx
+        1200 SignalObjectAndWait 
+        1212 SwitchToThread      
+        1177 SetThreadPriority   
+         654 GetThreadPriority   
+        1221 TlsAlloc            
+        1223 TlsGetValue         
+        1224 TlsSetValue         
+        1222 TlsFree             
+         522 GetLogicalProcessorInformation
+         189 CreateTimerQueueTimer
+          72 ChangeTimerQueueTimer
+         218 DeleteTimerQueueTimer
+         553 GetNumaHighestNodeNumber
+         582 GetProcessAffinityMask
+        1168 SetThreadAffinityMask
+        1013 RegisterWaitForSingleObject
+        1242 UnregisterWait      
+        1235 UnhandledExceptionFilter
+        1139 SetLastError        
+         739 InitializeCriticalSectionAndSpinCount
+        1216 TerminateProcess    
+         611 GetStartupInfoW     
+         659 GetTickCount        
+         282 ExitThread          
+         830 LoadLibraryExW      
+         456 GetDateFormatW      
+         663 GetTimeFormatW      
+         100 CompareStringW      
+         813 LCMapStringW        
+         518 GetLocaleInfoW      
+         780 IsValidLocale       
+         667 GetUserDefaultLCID  
+         271 EnumSystemLocalesW  
+         724 HeapSize            
+         778 IsValidCodePage     
+         360 GetACP              
+         567 GetOEMCP            
+         586 GetProcessHeap      
+         612 GetStdHandle        
+         499 GetFileType         
+         664 GetTimeZoneInformation
+        1317 WriteFile           
+        1069 SetConsoleCtrlHandler
+         935 QueryPerformanceCounter
+         474 GetEnvironmentStringsW
+         353 FreeEnvironmentStringsW
+         428 GetConsoleMode      
+         958 ReadConsoleW        
+         906 OutputDebugStringW  
+         657 GetThreadTimes      
+         355 FreeLibraryAndExitThread
+         533 GetModuleHandleA    
+         676 GetVersionExW       
+        1257 VirtualAlloc        
+        1260 VirtualFree         
+        1263 VirtualProtect      
+        1150 SetProcessAffinityMask
+         743 InitializeSListHead 
+         752 InterlockedPopEntrySList
+         753 InterlockedPushEntrySList
+         750 InterlockedFlushSList
+         926 QueryDepthSList     
+        1243 UnregisterWaitEx    
+         343 FlushFileBuffers    
+         410 GetConsoleCP        
+
+      from "ADVAPI32.dll":
+      not bound
+      name table at 0xf1450, address table at 0xf1000
+        hint name
+        ---- ----
+         704 SetServiceStatus    
+         645 RegisterServiceCtrlHandlerA
+         711 StartServiceCtrlDispatcherA
+
+      from "WINTRUST.dll":
+      not bound
+      name table at 0xf17e4, address table at 0xf1394
+        hint name
+        ---- ----
+         115 WinVerifyTrust      
+
+      from "PSAPI.DLL":
+      not bound
+      name table at 0xf174c, address table at 0xf12fc
+        hint name
+        ---- ----
+          15 GetModuleFileNameExA
+          13 GetModuleBaseNameA  
+           6 EnumProcesses       
+
+      from "USER32.dll":
+      not bound
+      name table at 0xf17b4, address table at 0xf1364
+        hint name
+        ---- ----
+         526 MessageBoxA         
+
+      from "SHELL32.dll":
+      not bound
+      name table at 0xf1784, address table at 0xf1334
+        hint name
+        ---- ----
+         195 SHGetFolderPathW    
+
+    at offset 0x0 (964 bytes): Import Address Table
+
+".rsrc" (virt. Size/Address: 0xa940)
+   43520 bytes at offset  0xf3000 in RAM,  0xeba00 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+Section entropy 5.07368
+
+    at offset 0x0 (43328 bytes): Resource Directory
+        version: 0.0, created (GMT): Thu Jan 01 00:00:00 1970
+        icon,         group icon,         version info,         unknown resource type 0x18, 
+".reloc" (virt. Size/Address: 0x918c)
+   37376 bytes at offset  0xfe000 in RAM,  0xf6400 in file
+    contains initialized data
+    default alignment (16 bytes)
+    can be discarded
+    is readable
+Section entropy 5.01748
+
+    at offset 0x1600 (5072 bytes): Security Directory
+
+    at offset 0x0 (33008 bytes): Base Relocation Table
+    (relocations skipped)
+
+Entropy: 5.86294

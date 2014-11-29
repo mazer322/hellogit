@@ -1,0 +1,98 @@
+WINLOGON.EXE
+Default location: C:\WINDOWS\SYSNATIVE\WINLOGON.EXE
+MD5: 8CEBD9D0A0A879CDE9F36F4383B7CAEA
+SHA1: AF210C87 48D77C2F F9396629 9D4CD49A 8C722EF6
+File Size: 455 168
+
+Version Info:
+OriginalFilename: WINLOGON.EXE.MUI
+FileDescription: Windows Logon Application
+InternalName: winlogon
+CompanyName: Microsoft Corporation
+FileVersion: 6.1.7601.17514 (win7sp1_rtm.101119-1850)
+LegalCopyright: c Microsoft Corporation. All rights reserved.
+ProductName: Microsoftr Windowsr Operating System
+ProductVersion: 6.1.7601.17514
+
+PE Info of the C:\WINDOWS\SYSNATIVE\WINLOGON.EXE:
+
+Type is Windows GUI.
+DOS-stub: 232 bytes
+built for machine: unknown processor: 8664
+  (non-32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+0 entries in symbol table
+6 sections
+created (GMT): Thu Jul 17 01:04:52 2014
+Linker version: 9.0
+.text start:   0x1000, length: 262656 bytes
+.data start:      0x0, length: 192000 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at     0x10908
+Preferred load base is      0x1
+Image size in RAM: 456 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 6.1, Win32 6.1, App 6.1
+Checksum: 0x00072618
+uses Win32 graphical subsystem
+Stack: 512 KB reserved,   0 KB committed
+Heap:   56 KB reserved,   0 KB committed
+Size of headers / offset to sections in file: 0x400
+
+at offset 0x2e0 (232 bytes): unknown directory
+
+"" (virt. Size/Address: 0x0)
+  2019914798 bytes at offset      0x0 in RAM,     0x74 in file
+    default alignment (16 bytes)
+    at offset 0x10908: execution start
+
+"" (virt. Size/Address: 0x0)
+  1633972782 bytes at offset 0x60000020 in RAM,   0x6174 in file
+    contains comments / information
+    locked in memory
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1952539694 bytes at offset 0x40000040 in RAM,     0x61 in file
+    contains comments / information
+    contents is COMDAT (common block data, packaged functions)
+    purgeable
+    ? 16-bit-section ?
+    locked in memory
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1633972270 bytes at offset 0xc0000040 in RAM,   0x6174 in file
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    purgeable
+    ? 16-bit-section ?
+    locked in memory
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1920168494 bytes at offset 0x40000040 in RAM,     0x63 in file
+    contents will not become part of image
+    ? far data ?
+    purgeable
+    ? 16-bit-section ?
+    locked in memory
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1818587694 bytes at offset 0x40000040 in RAM,   0x636f in file
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    purgeable
+    ? 16-bit-section ?
+    locked in memory
+    default alignment (16 bytes)
+
+Entropy = 5.7696
+
+Entropy: 5.76956

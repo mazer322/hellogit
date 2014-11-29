@@ -1,0 +1,7 @@
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 19\Windows 7\BinaryTree - Complete\EnumeratorTest\bin\Debug\EnumeratorTest.exe
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 19\Windows 7\BinaryTree - Complete\EnumeratorTest\bin\Debug\EnumeratorTest.pdb
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 19\Windows 7\BinaryTree - Complete\EnumeratorTest\bin\Debug\BinaryTree.dll
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 19\Windows 7\BinaryTree - Complete\EnumeratorTest\bin\Debug\BinaryTree.pdb
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 19\Windows 7\BinaryTree - Complete\EnumeratorTest\obj\Debug\EnumeratorTest.csprojResolveAssemblyReference.cache
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 19\Windows 7\BinaryTree - Complete\EnumeratorTest\obj\Debug\EnumeratorTest.exe
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 19\Windows 7\BinaryTree - Complete\EnumeratorTest\obj\Debug\EnumeratorTest.pdb

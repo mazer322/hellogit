@@ -1,0 +1,84 @@
+ASPNET_STATE.EXE
+Default location: C:\WINDOWS\MICROSOFT.NET\FRAMEWORK64\V4.0.30319\ASPNET_STATE.EXE
+MD5: F15AB80B867D3332D5DDFB0A05B9CE04
+SHA1: D3F71CA3 E146649E 69785563 BE146B09 5E383F5E
+File Size: 50 864
+
+Version Info:
+OriginalFilename: aspnet_state.exe
+FileDescription: Microsoft ASP.NET State Server
+InternalName: aspnet_state.exe
+CompanyName: Microsoft Corporation
+FileVersion: 4.0.30319.34209 built by: FX452RTMGDR
+LegalCopyright: c Microsoft Corporation.  All rights reserved.
+PrivateBuild: DDBLD104
+ProductName: Microsoftr .NET Framework
+ProductVersion: 4.0.30319.34209
+
+PE Info of the C:\WINDOWS\MICROSOFT.NET\FRAMEWORK64\V4.0.30319\ASPNET_STATE.EXE:
+
+Type is Windows console application.
+DOS-stub: 256 bytes
+built for machine: unknown processor: 8664
+  (non-32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+0 entries in symbol table
+6 sections
+created (GMT): Sat Apr 12 02:35:01 2014
+Linker version: 11.0
+.text start:   0x1000, length:  20992 bytes
+.data start: 0x40000000, length:  12800 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at      0x5048
+Preferred load base is      0x1
+Image size in RAM: 56 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 6.0, Win32 6.0, App 10.0
+Checksum: 0x0000d8ec
+uses Win32 console subsystem
+Stack: 1024 KB reserved,   0 KB committed
+Heap:    8 KB reserved,   0 KB committed
+Size of headers / offset to sections in file: 0x400
+
+"" (virt. Size/Address: 0x0)
+  2019914798 bytes at offset      0x0 in RAM,     0x74 in file
+    default alignment (16 bytes)
+    at offset 0x5048: execution start
+
+"" (virt. Size/Address: 0x0)
+  1633972782 bytes at offset 0x60000020 in RAM,   0x6174 in file
+    contains comments / information
+    contents is COMDAT (common block data, packaged functions)
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1952539694 bytes at offset 0x40000040 in RAM,     0x61 in file
+    contents is COMDAT (common block data, packaged functions)
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1633972270 bytes at offset 0xc0000040 in RAM,   0x6174 in file
+    contains comments / information
+    contents is COMDAT (common block data, packaged functions)
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1920168494 bytes at offset 0x40000040 in RAM,     0x63 in file
+    contains comments / information
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1818587694 bytes at offset 0x40000040 in RAM,   0x636f in file
+    contains comments / information
+    ? far data ?
+    default alignment (16 bytes)
+
+Entropy = 6.5917
+
+Entropy: 6.59172

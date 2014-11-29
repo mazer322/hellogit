@@ -1,0 +1,7 @@
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 20\Windows 7\Delegates - Complete\DeliveryService\bin\Debug\DeliveryService.dll
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 20\Windows 7\Delegates - Complete\DeliveryService\bin\Debug\DeliveryService.pdb
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 20\Windows 7\Delegates - Complete\DeliveryService\bin\Debug\DataTypes.dll
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 20\Windows 7\Delegates - Complete\DeliveryService\bin\Debug\DataTypes.pdb
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 20\Windows 7\Delegates - Complete\DeliveryService\obj\Debug\DeliveryService.csprojResolveAssemblyReference.cache
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 20\Windows 7\Delegates - Complete\DeliveryService\obj\Debug\DeliveryService.dll
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 20\Windows 7\Delegates - Complete\DeliveryService\obj\Debug\DeliveryService.pdb

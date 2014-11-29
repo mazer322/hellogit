@@ -1,0 +1,84 @@
+Pastaba: laikykite, kad visur yra itraukta
+   #include <iostream>
+   #include <memory>
+   #include <algorithm>
+   using namespace std;
+
+1.
+   class F {
+     int a;
+     public:
+       F(int a_=10) : a(a_) { cout << "F::F()" << a << endl; }
+       ~F() { cout << "F::~F()" << a << endl; }
+   };
+   class B {
+       F f1;
+       F f2;
+     public:
+       B() : f2(4), f1(5) { cout << "B::B()" << endl; }
+       ~B() { cout << "B::~B()" << endl; }
+   };
+   class D : public B {
+       F f;
+     public:
+       D() { cout << "D::D()" << endl; }
+       ~D() { cout << "D::~D()" << endl; }
+   };
+ Kas bus isvesta:
+ 1.1 int main()  {
+       D d;
+       return 0;
+     }
+ 1.2 int main()  {
+       F f(1);
+       F f2(2);
+       return 0;
+     }
+ 1.3 int main()  {
+       auto_ptr<F>(new F(10));
+       F *pf = new F(11);
+       return 0;
+     }
+
+2.
+   class E {};
+   class E2 : public E {};
+   int f(int a)
+   {
+     cout << "1-f()" << a << endl;
+     if (a == 0)
+       throw E();
+     cout << "2-f()" << a << endl;
+     return a + 1;
+   }
+ Kas bus isvesta:
+      int main() {
+       int i = 10;
+       try { i = f(1); cout << "i=" << i << endl;
+             i = f(0); cout << "i=" << i << endl;
+       } catch (E2 & e2) {
+         cout << "catch E2" << endl;
+       } catch (E & e) {
+         cout << "catch E" << endl;
+       }
+       cout << "exit i=" << i << endl;
+       return 0;
+      }
+
+2.Parasyti programa, kuri: sukuria tuscia standartines bibliotekos konteinerio list<int>
+ objekta; prie jo galo prijungia elementa 5, po to prie pradzios prijungia elementus
+ 10, 1, 3; ismeta treciaji elementa, ir iterpia elementa 7 pries antraji elementa;
+ panaudodama iteratoriu perbega konteineri ir visus elementus spausdina.
+
+3.Tegu v yra standartines bibliotekos vector<int> tipo konteineris. Standartines
+ bibliotekos algoritmo for_each() pagalba padvigubinkite visus konteinerio v elementus.
+
+
+4.Parasyti sablonine funkcija  void f(T& a), cia tipas T turi buti sablono parametras.
+ Si funkcija turi padaugint a is int tipo konstantos 2 operatoriaus * pagalba.
+ Panaudokite(iskvieskite) sia funkcija, kai argumentu tipas yra int.
+ Parasykite klase X, kuria  butu galima naudoti, kaip sio sablono
+ parametra ir iskviestkite funkcija f X klases objektams.
+
+
+

@@ -1,0 +1,11 @@
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\Visual CSharp Step By Step\Chapter 4\Windows 7\SwitchStatement\SwitchStatement\bin\Debug\SwitchStatement.exe
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\Visual CSharp Step By Step\Chapter 4\Windows 7\SwitchStatement\SwitchStatement\bin\Debug\SwitchStatement.pdb
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\Visual CSharp Step By Step\Chapter 4\Windows 7\SwitchStatement\SwitchStatement\obj\Debug\MainWindow.baml
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\Visual CSharp Step By Step\Chapter 4\Windows 7\SwitchStatement\SwitchStatement\obj\Debug\MainWindow.g.cs
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\Visual CSharp Step By Step\Chapter 4\Windows 7\SwitchStatement\SwitchStatement\obj\Debug\App.g.cs
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\Visual CSharp Step By Step\Chapter 4\Windows 7\SwitchStatement\SwitchStatement\obj\Debug\SwitchStatement_MarkupCompile.cache
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\Visual CSharp Step By Step\Chapter 4\Windows 7\SwitchStatement\SwitchStatement\obj\Debug\SwitchStatement.g.resources
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\Visual CSharp Step By Step\Chapter 4\Windows 7\SwitchStatement\SwitchStatement\obj\Debug\SwitchStatement.Properties.Resources.resources
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\Visual CSharp Step By Step\Chapter 4\Windows 7\SwitchStatement\SwitchStatement\obj\Debug\SwitchStatement.csproj.GenerateResource.Cache
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\Visual CSharp Step By Step\Chapter 4\Windows 7\SwitchStatement\SwitchStatement\obj\Debug\SwitchStatement.exe
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\Visual CSharp Step By Step\Chapter 4\Windows 7\SwitchStatement\SwitchStatement\obj\Debug\SwitchStatement.pdb

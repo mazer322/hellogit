@@ -1,0 +1,280 @@
+MSCORSVW.EXE
+Default location: C:\WINDOWS\MICROSOFT.NET\FRAMEWORK\V2.0.50727\MSCORSVW.EXE
+MD5: F13EC8A783E0CB0D6DC26A3CA848B7B8
+SHA1: 6107FB53 03A7A886 F6F2674F B73C5436 96779DAC
+File Size: 67 224
+
+Version Info:
+OriginalFilename: mscorsvw.exe
+FileDescription: .NET Runtime Optimization Service
+InternalName: mscorsvw.exe
+CompanyName: Microsoft Corporation
+FileVersion: 2.0.50727.5483 (Win7SP1GDR.050727-5400)
+LegalCopyright: c Microsoft Corporation.  All rights reserved.
+ProductName: Microsoftr .NET Framework
+ProductVersion: 2.0.50727.5483
+
+PE Info of the C:\WINDOWS\MICROSOFT.NET\FRAMEWORK\V2.0.50727\MSCORSVW.EXE:
+
+Type is Windows GUI.
+DOS-stub: 280 bytes
+built for machine: Intel 80386 processor
+  (32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+0 entries in symbol table
+3 sections
+created (GMT): Thu Feb 27 08:58:43 2014
+Linker version: 8.0
+.text start:   0x1000, length:  56832 bytes
+.data start:   0xf000, length:   2560 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at      0xc004
+Preferred load base is 0x10000000
+Image size in RAM: 68 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 5.0, Win32 4.0, App 8.0
+Checksum: 0x00020476
+uses Win32 graphical subsystem
+Stack: 1024 KB reserved,   8 KB committed
+Heap:  1024 KB reserved,   4 KB committed
+Size of headers / offset to sections in file: 0x400
+
+".text" (virt. Size/Address: 0xdd42)
+   56832 bytes at offset   0x1000 in RAM,    0x400 in file
+    contains code
+    default alignment (16 bytes)
+    is executable
+    is readable
+    at offset 0xb004: execution start
+Section entropy 6.31057
+
+    at offset 0xcf64 (160 bytes): Import Directory
+
+      from "mscoree.dll":
+      not bound
+      name table at 0xe268, address table at 0x1264
+        hint name
+        ---- ----
+          51 GetRealProcAddress  
+          52 GetRequestedRuntimeInfo
+
+      from "MSVCR80.dll":
+      not bound
+      name table at 0xe16c, address table at 0x1168
+        hint name
+        ---- ----
+          54 ?_type_info_dtor_internal_method@type_info@@QAEXXZ
+         339 _crt_debugger_hook  
+         327 _controlfp_s        
+         535 _invoke_watson      
+         360 _decode_pointer     
+         808 _onexit             
+         642 _lock               
+         153 __dllonexit         
+        1011 _unlock             
+          67 ?terminate@@YAXXZ   
+         379 _except_handler4_common
+         232 __set_app_type      
+         370 _encode_pointer     
+         210 __p__fmode          
+         206 __p__commode        
+         275 _adjust_fdiv        
+         235 __setusermatherr    
+         324 _configthreadlocale 
+         529 _initterm_e         
+         528 _initterm           
+         261 _acmdln             
+        1244 exit                
+         561 _ismbblead          
+         105 _XcptFilter         
+         388 _exit               
+         308 _cexit              
+         162 __getmainargs       
+         285 _amsg_exit          
+        1268 free                
+        1323 malloc              
+        1457 wcstoul             
+        1430 wcscat_s            
+        1413 towupper            
+        1047 _vsnprintf          
+        1055 _vsnwprintf_s       
+        1051 _vsnprintf_s        
+         376 _errno              
+        1443 wcsncpy_s           
+        1435 wcscpy_s            
+        1378 strcpy_s            
+         899 _snwprintf_s        
+        1336 memmove             
+        1338 memset              
+        1374 strchr              
+          93 _CxxThrowException  
+         118 __CxxFrameHandler3  
+        1086 _wcsicmp            
+         825 _purecall           
+        1334 memcpy              
+
+      from "ADVAPI32.dll":
+      not bound
+      name table at 0xe004, address table at 0x1000
+        hint name
+        ---- ----
+         504 RegQueryValueExW    
+         466 RegCreateKeyExW     
+         465 RegCreateKeyExA     
+         517 RegSetValueExW      
+         516 RegSetValueExA      
+         471 RegDeleteKeyW       
+         468 RegDeleteKeyA       
+         503 RegQueryValueExA    
+         493 RegOpenKeyExW       
+         492 RegOpenKeyExA       
+         459 RegCloseKey         
+
+      from "KERNEL32.dll":
+      not bound
+      name table at 0xe034, address table at 0x1030
+        hint name
+        ---- ----
+         344 GetEnvironmentVariableA
+         345 GetEnvironmentVariableW
+         323 GetCurrentProcessId 
+         600 LocalAlloc          
+         243 FormatMessageA      
+         244 FormatMessageW      
+         152 EnterCriticalSection
+         593 LeaveCriticalSection
+         547 InitializeCriticalSection
+         129 DeleteCriticalSection
+         719 ResetEvent          
+         707 ReleaseSemaphore    
+         870 TlsSetValue         
+         867 TlsAlloc            
+         868 TlsFree             
+         528 HeapAlloc           
+         419 GetProcessHeap      
+         534 HeapFree            
+         913 WaitForSingleObjectEx
+         706 ReleaseMutex        
+         855 SleepEx             
+         897 VirtualAlloc        
+         899 VirtualFree         
+         904 VirtualQuery        
+         902 VirtualProtect      
+         530 HeapCreate          
+         532 HeapDestroy         
+         544 HeapValidate        
+         553 InterlockedExchange 
+         854 Sleep               
+         439 GetStartupInfoA     
+         842 SetUnhandledExceptionFilter
+         479 GetTickCount        
+         878 UnhandledExceptionFilter
+         416 GetProcAddress      
+         556 InterlockedIncrement
+         569 IsDebuggerPresent   
+         552 InterlockedDecrement
+         862 TerminateProcess    
+         322 GetCurrentProcess   
+         910 WaitForMultipleObjects
+         111 CreateThread        
+         646 OpenProcess         
+         790 SetEvent            
+         120 DebugBreak          
+         869 TlsGetValue         
+         550 InterlockedCompareExchange
+         369 GetLastError        
+         808 SetLastError        
+         383 GetModuleHandleA    
+         248 FreeLibrary         
+          52 CloseHandle         
+         679 RaiseException      
+         604 LocalFree           
+         629 MultiByteToWideChar 
+         260 GetCPInfo           
+         253 GetACP              
+         326 GetCurrentThreadId  
+         675 QueryPerformanceCounter
+         458 GetSystemTimeAsFileTime
+         973 lstrlenW            
+         489 GetVersionExA       
+         386 GetModuleHandleW    
+         273 GetCommandLineW     
+         916 WideCharToMultiByte 
+         595 LoadLibraryExA      
+         596 LoadLibraryExW      
+         381 GetModuleFileNameA  
+         382 GetModuleFileNameW  
+         107 CreateSemaphoreA    
+         108 CreateSemaphoreW    
+          96 CreateMutexA        
+          97 CreateMutexW        
+          79 CreateEventA        
+          80 CreateEventW        
+         637 OpenEventA          
+         638 OpenEventW          
+
+      from "USER32.dll":
+      not bound
+      name table at 0xe240, address table at 0x123c
+        hint name
+        ---- ----
+         512 PeekMessageA        
+         513 PeekMessageW        
+         161 DispatchMessageA    
+         162 DispatchMessageW    
+         479 MessageBoxA         
+         486 MessageBoxW         
+         459 LoadStringA         
+         460 LoadStringW         
+         493 MsgWaitForMultipleObjects
+
+      from "ole32.dll":
+      not bound
+      name table at 0xe274, address table at 0x1270
+        hint name
+        ---- ----
+          92 CoRevokeClassObject 
+           9 CoAddRefServerProcess
+         105 CoUninitialize      
+          60 CoInitializeEx      
+          80 CoRegisterClassObject
+          88 CoReleaseServerProcess
+
+      from "OLEAUT32.dll":
+      not bound
+      name table at 0xe234, address table at 0x1230
+        hint name
+        ---- ----
+           7 ordinal             
+         201 ordinal             
+
+    at offset 0xdc00 (6808 bytes): Security Directory
+
+    at offset 0x2b0 (28 bytes): Debug Directory
+
+    at offset 0x2a28 (64 bytes): Load Configuration Directory
+
+    at offset 0x0 (652 bytes): Import Address Table
+
+".data" (virt. Size/Address: 0x99c)
+     512 bytes at offset   0xf000 in RAM,   0xe200 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+    is writeable
+
+".rsrc" (virt. Size/Address: 0x63c)
+    2048 bytes at offset  0x10000 in RAM,   0xe400 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+Section entropy 3.71344
+
+    at offset 0x0 (1596 bytes): Resource Directory
+        version: 4.0, created (GMT): Thu Jan 01 00:00:00 1970
+        version info,         unknown resource type 0x18, 
+Entropy: 6.31057

@@ -1,0 +1,17 @@
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 27\Updatable ViewModel\AdventureWorksService\bin\AdventureWorksService.dll
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 27\Updatable ViewModel\AdventureWorksService\bin\AdventureWorksService.pdb
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 27\Updatable ViewModel\AdventureWorksService\bin\EntityFramework.dll
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 27\Updatable ViewModel\AdventureWorksService\bin\Microsoft.Data.Edm.dll
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 27\Updatable ViewModel\AdventureWorksService\bin\Microsoft.Data.OData.dll
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 27\Updatable ViewModel\AdventureWorksService\bin\Microsoft.Data.Services.Client.dll
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 27\Updatable ViewModel\AdventureWorksService\bin\Microsoft.Data.Services.dll
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 27\Updatable ViewModel\AdventureWorksService\bin\System.Spatial.dll
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 27\Updatable ViewModel\AdventureWorksService\bin\EntityFramework.xml
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 27\Updatable ViewModel\AdventureWorksService\bin\Microsoft.Data.Edm.xml
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 27\Updatable ViewModel\AdventureWorksService\bin\Microsoft.Data.OData.xml
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 27\Updatable ViewModel\AdventureWorksService\bin\Microsoft.Data.Services.xml
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 27\Updatable ViewModel\AdventureWorksService\bin\Microsoft.Data.Services.Client.xml
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 27\Updatable ViewModel\AdventureWorksService\bin\System.Spatial.xml
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 27\Updatable ViewModel\AdventureWorksService\obj\Debug\AdventureWorksService.csprojResolveAssemblyReference.cache
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 27\Updatable ViewModel\AdventureWorksService\obj\Debug\AdventureWorksService.dll
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 27\Updatable ViewModel\AdventureWorksService\obj\Debug\AdventureWorksService.pdb

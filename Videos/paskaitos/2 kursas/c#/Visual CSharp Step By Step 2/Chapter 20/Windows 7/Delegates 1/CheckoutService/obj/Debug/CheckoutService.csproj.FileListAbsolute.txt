@@ -1,0 +1,6 @@
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 20\Windows 7\Delegates - Complete\CheckoutService\bin\Debug\CheckoutService.dll
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 20\Windows 7\Delegates - Complete\CheckoutService\bin\Debug\CheckoutService.pdb
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 20\Windows 7\Delegates - Complete\CheckoutService\bin\Debug\DataTypes.dll
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 20\Windows 7\Delegates - Complete\CheckoutService\bin\Debug\DataTypes.pdb
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 20\Windows 7\Delegates - Complete\CheckoutService\obj\Debug\CheckoutService.dll
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 20\Windows 7\Delegates - Complete\CheckoutService\obj\Debug\CheckoutService.pdb

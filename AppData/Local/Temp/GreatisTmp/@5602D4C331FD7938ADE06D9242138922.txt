@@ -1,0 +1,131 @@
+WIN32K.SYS
+Default location: C:\WINDOWS\SYSTEM32\WIN32K.SYS
+MD5: 5602D4C331FD7938ADE06D9242138922
+SHA1: 5DEC6EE3 70D12967 F5F18A15 DA4F3538 7ECD573B
+File Size: 3 198 976
+
+Version Info:
+OriginalFilename: win32k.sys.mui
+FileDescription: Multi-User Win32 Driver
+InternalName: win32k.sys
+CompanyName: Microsoft Corporation
+FileVersion: 6.1.7600.16385 (win7_rtm.090713-1255)
+LegalCopyright: c Microsoft Corporation. All rights reserved.
+ProductName: Microsoftr Windowsr Operating System
+ProductVersion: 6.1.7600.16385
+
+PE Info of the C:\WINDOWS\SYSTEM32\WIN32K.SYS:
+
+Type is native.
+DOS-stub: 248 bytes
+built for machine: unknown processor: 8664
+  (non-32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+0 entries in symbol table
+10 sections
+created (GMT): Mon Sep 29 00:58:26 2014
+Linker version: 9.0
+.text start:   0x1000, length: 2852352 bytes
+.data start: 0xff000000, length: 411648 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at    0x30b080
+Preferred load base is 0xfffff97f
+Image size in RAM: 3208 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 6.1, Win32 6.1, App 6.1
+Checksum: 0x0030efad
+uses no subsystem
+Stack: 256 KB reserved,   0 KB committed
+Heap:    4 KB reserved,   0 KB committed
+Size of headers / offset to sections in file: 0x400
+
+"" (virt. Size/Address: 0x0)
+  2019914798 bytes at offset      0x0 in RAM,     0x74 in file
+    default alignment (16 bytes)
+    at offset 0x30b080: execution start
+
+"" (virt. Size/Address: 0x0)
+  1633972782 bytes at offset 0x68000020 in RAM,   0x6174 in file
+    contains comments / information
+    purgeable
+    ? 16-bit-section ?
+    preload
+    2-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1952539694 bytes at offset 0x48000040 in RAM,     0x61 in file
+    contains comments / information
+    contents will not become part of image
+    locked in memory
+    preload
+    2-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1633972270 bytes at offset 0xc8000040 in RAM,   0x6174 in file
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    purgeable
+    ? 16-bit-section ?
+    locked in memory
+    preload
+    2-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1684171566 bytes at offset 0x48000040 in RAM, 0x6c6c6166 in file
+    contains comments / information
+    contents is COMDAT (common block data, packaged functions)
+    purgeable
+    ? 16-bit-section ?
+    locked in memory
+    preload
+    2-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1162297680 bytes at offset 0xc8000040 in RAM,      0x0 in file
+    purgeable
+    ? 16-bit-section ?
+    locked in memory
+    preload
+    2-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1633969454 bytes at offset 0x60000020 in RAM,   0x6174 in file
+    contains comments / information
+    purgeable
+    ? 16-bit-section ?
+    locked in memory
+    preload
+    2-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1414090313 bytes at offset 0x40000040 in RAM,      0x0 in file
+    contains comments / information
+    purgeable
+    ? 16-bit-section ?
+    locked in memory
+    preload
+    2-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1920168494 bytes at offset 0xe2000020 in RAM,     0x63 in file
+    ? far data ?
+    purgeable
+    ? 16-bit-section ?
+    locked in memory
+    preload
+    2-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1818587694 bytes at offset 0x42000040 in RAM,   0x636f in file
+    contains comments / information
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    1-byte-alignment
+
+Entropy = 6.4513
+
+Entropy: 6.45125

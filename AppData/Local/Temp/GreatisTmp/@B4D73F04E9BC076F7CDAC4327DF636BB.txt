@@ -1,0 +1,68 @@
+MSCORSVW.EXE
+Default location: C:\WINDOWS\MICROSOFT.NET\FRAMEWORK64\V2.0.50727\MSCORSVW.EXE
+MD5: B4D73F04E9BC076F7CDAC4327DF636BB
+SHA1: D63B30B5 BFF08F26 7A1435DB 259E7E6C DEC1EA96
+File Size: 90 776
+
+Version Info:
+OriginalFilename: mscorsvw.exe
+FileDescription: .NET Runtime Optimization Service
+InternalName: mscorsvw.exe
+CompanyName: Microsoft Corporation
+FileVersion: 2.0.50727.5483 (Win7SP1GDR.050727-5400)
+LegalCopyright: c Microsoft Corporation.  All rights reserved.
+ProductName: Microsoftr .NET Framework
+ProductVersion: 2.0.50727.5483
+
+PE Info of the C:\WINDOWS\MICROSOFT.NET\FRAMEWORK64\V2.0.50727\MSCORSVW.EXE:
+
+Type is Windows GUI.
+DOS-stub: 280 bytes
+built for machine: unknown processor: 8664
+  (non-32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+0 entries in symbol table
+4 sections
+created (GMT): Thu Feb 27 07:41:44 2014
+Linker version: 8.0
+.text start:   0x1000, length:  74240 bytes
+.data start: 0x10000000, length:   8704 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at      0x7840
+Preferred load base is      0x0
+Image size in RAM: 100 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 5.0, Win32 5.2, App 8.0
+Checksum: 0x0001990d
+uses Win32 graphical subsystem
+Stack: 1024 KB reserved,   0 KB committed
+Heap:    4 KB reserved,   0 KB committed
+Size of headers / offset to sections in file: 0x400
+
+"" (virt. Size/Address: 0x0)
+  2019914798 bytes at offset      0x0 in RAM,     0x74 in file
+    default alignment (16 bytes)
+    at offset 0x7840: execution start
+
+"" (virt. Size/Address: 0x0)
+  1952539694 bytes at offset 0x60000020 in RAM,     0x61 in file
+    contains comments / information
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1633972270 bytes at offset 0xc0000040 in RAM,   0x6174 in file
+    contains comments / information
+    contents will not become part of image
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1920168494 bytes at offset 0x40000040 in RAM,     0x63 in file
+    default alignment (16 bytes)
+
+Entropy = 6.0727
+
+Entropy: 6.07272

@@ -1,0 +1,106 @@
+INFOCARD.EXE
+Default location: C:\WINDOWS\MICROSOFT.NET\FRAMEWORK64\V3.0\WINDOWS COMMUNICATION FOUNDATION\INFOCARD.EXE
+MD5: C98A5B9D932430AD8EEBD3EF73756EF7
+SHA1: 031DBB48 D8E36460 546646F0 3AD375C5 70A8C366
+File Size: 859 280
+
+Version Info:
+OriginalFilename: infocard.exe
+FileDescription: Windows CardSpace
+InternalName: infocard.exe
+CompanyName: Microsoft Corporation
+FileVersion: 3.0.4506.5464 (Win7SP1GDR.030729-5400)
+LegalCopyright: c Microsoft Corporation.  All rights reserved.
+PrivateBuild: DDBLD913B
+ProductName: Microsoftr .NET Framework
+ProductVersion: 3.0.4506.5464
+
+PE Info of the C:\WINDOWS\MICROSOFT.NET\FRAMEWORK64\V3.0\WINDOWS COMMUNICATION FOUNDATION\INFOCARD.EXE:
+
+Type is Windows console application.
+DOS-stub: 240 bytes
+built for machine: unknown processor: 8664
+  (non-32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+0 entries in symbol table
+7 sections
+created (GMT): Fri Jun 27 19:48:41 2014
+Linker version: 8.0
+.text start:   0x1000, length: 296960 bytes
+.data start: 0x400000, length: 559616 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at     0x48ef6
+Preferred load base is      0x0
+Image size in RAM: 856 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 4.0, Win32 5.2, App 0.0
+Checksum: 0x000d1d10
+uses Win32 console subsystem
+Stack: 1024 KB reserved,   0 KB committed
+Heap:    4 KB reserved,   0 KB committed
+Size of headers / offset to sections in file: 0x400
+
+"·" (virt. Size/Address: 0x0)
+  2019914798 bytes at offset      0x0 in RAM,     0x74 in file
+    default alignment (16 bytes)
+    at offset 0x48ef6: execution start
+
+"" (virt. Size/Address: 0x0)
+  1885695534 bytes at offset 0x60000020 in RAM,      0x0 in file
+    contains comments / information
+    ? far data ?
+    locked in memory
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1633972782 bytes at offset 0x60000020 in RAM,   0x6174 in file
+    contents will not become part of image
+    ? far data ?
+    locked in memory
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1952539694 bytes at offset 0x40000040 in RAM,     0x61 in file
+    contains comments / information
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    locked in memory
+    preload
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1633972270 bytes at offset 0xc0000040 in RAM,   0x6174 in file
+    contains comments / information
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    locked in memory
+    preload
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1920168494 bytes at offset 0x40000040 in RAM,     0x63 in file
+    contains comments / information
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    locked in memory
+    preload
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1818587694 bytes at offset 0x40000040 in RAM,   0x636f in file
+    contains comments / information
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    locked in memory
+    preload
+    default alignment (16 bytes)
+
+Entropy = 6.0927
+
+Entropy: 6.09272

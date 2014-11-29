@@ -1,0 +1,331 @@
+RAREXT32.DLL
+Default location: C:\PROGRAM FILES\WINRAR\RAREXT32.DLL
+MD5: FAA6B44B3D26F4F82C23B5CCCB773B74
+SHA1: 711F068E 961B5148 BD8B843D F73E63AD 4D57FBC2
+File Size: 267 352
+
+Version Info:
+OriginalFilename: RarExt.dll
+FileDescription: WinRAR shell extension
+InternalName: WinRAR shell extension
+CompanyName: Alexander Roshal
+FileVersion: 5.10.4
+LegalCopyright: Copyright c Alexander Roshal 1993-2014
+ProductName: WinRAR
+ProductVersion: 5.10.4
+
+PE Info of the C:\PROGRAM FILES\WINRAR\RAREXT32.DLL:
+
+Type is Windows GUI.
+DOS-stub: 240 bytes
+built for machine: Intel 80386 processor
+  (32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+File is a DLL
+  do not notify on ProcAttach
+  do not notify on ThreadAttach
+  do not notify on ProcDetach
+  do not notify on ThreadDetach
+0 entries in symbol table
+5 sections
+created (GMT): Wed Jun 04 11:46:59 2014
+Linker version: 9.0
+.text start:   0x1000, length: 198656 bytes
+.data start:  0x32000, length:  61440 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at     0x23281
+Preferred load base is 0x10000000
+Image size in RAM: 380 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 5.0, Win32 5.0, App 0.0
+Checksum: 0x000419eb
+uses Win32 graphical subsystem
+Stack: 1024 KB reserved,   4 KB committed
+Heap:  1024 KB reserved,   4 KB committed
+Size of headers / offset to sections in file: 0x400
+
+".text" (virt. Size/Address: 0x3077c)
+  198656 bytes at offset   0x1000 in RAM,    0x400 in file
+    contains code
+    default alignment (16 bytes)
+    is executable
+    is readable
+    at offset 0x22281: execution start
+Section entropy 6.67043
+
+".rdata" (virt. Size/Address: 0x5e29)
+   24576 bytes at offset  0x32000 in RAM,  0x30c00 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+Section entropy 6.35369
+
+    at offset 0x5dc0 (105 bytes): Export Directory
+      module name: "rarext.dll"
+      created (GMT): Wed Jun 04 11:46:59 2014
+      version: 0.0
+      2 exported functions, list at 37de8
+      2 exported names, list at 37df0
+      Ordinal base: 1
+      Ord. Hint Name                              RVA
+      ---- ---- ----                              ---
+         1    0 DllCanUnloadNow                 13ab9
+         2    1 DllGetClassObject               1517f
+
+    at offset 0x4e9c (180 bytes): Import Directory
+
+      from "COMCTL32.dll":
+      not bound
+      name table at 0x36f60, address table at 0x32010
+        hint name
+        ---- ----
+           9 CreatePropertySheetPageW
+          49 DestroyPropertySheetPage
+           8 ordinal             
+
+      from "KERNEL32.dll":
+      not bound
+      name table at 0x36fbc, address table at 0x3206c
+        hint name
+        ---- ----
+         447 GetCurrentDirectoryW
+         285 ExpandEnvironmentStringsW
+        1273 WaitForSingleObject 
+         334 FindResourceW       
+         830 LoadLibraryExW      
+         449 GetCurrentProcessId 
+         518 GetLocaleInfoW      
+         563 GetNumberFormatW    
+         448 GetCurrentProcess   
+        1202 Sleep               
+        1213 SystemTimeToFileTime
+         631 GetSystemTime       
+        1214 SystemTimeToTzSpecificLocalTime
+         293 FileTimeToSystemTime
+        1232 TzSpecificLocalTimeToSystemTime
+        1297 WideCharToMultiByte 
+         871 MultiByteToWideChar 
+         100 CompareStringW      
+         766 IsDBCSLeadByte      
+         370 GetCPInfo           
+         645 GetTempPathW        
+         136 CreateFileA         
+         586 GetProcessHeap      
+        1316 WriteConsoleW       
+         432 GetConsoleOutputCP  
+        1306 WriteConsoleA       
+        1159 SetStdHandle        
+         739 InitializeCriticalSectionAndSpinCount
+         617 GetStringTypeW      
+         614 GetStringTypeA      
+         516 GetLocaleInfoA      
+         828 LoadLibraryA        
+         659 GetTickCount        
+         935 QueryPerformanceCounter
+         474 GetEnvironmentStringsW
+         353 FreeEnvironmentStringsW
+         472 GetEnvironmentStrings
+         352 FreeEnvironmentStringsA
+         813 LCMapStringW        
+         811 LCMapStringA        
+         428 GetConsoleMode      
+         410 GetConsoleCP        
+         533 GetModuleHandleA    
+         724 HeapSize            
+         281 ExitProcess         
+         610 GetStartupInfoA     
+        1135 SetHandleCount      
+        1257 VirtualAlloc        
+         238 EnterCriticalSection
+         825 LeaveCriticalSection
+         209 DeleteCriticalSection
+        1260 VirtualFree         
+         532 GetModuleFileNameW  
+         676 GetVersionExW       
+         313 FindFirstFileW      
+         325 FindNextFileW       
+         302 FindClose           
+         129 CreateDirectoryW    
+         214 DeleteFileW         
+         462 GetDiskFreeSpaceExW 
+         467 GetDriveTypeW       
+         343 FlushFileBuffers    
+         499 GetFileType         
+         612 GetStdHandle        
+        1139 SetLastError        
+        1107 SetEndOfFile        
+        1317 WriteFile           
+         960 ReadFile            
+         490 GetFileAttributesW  
+        1126 SetFilePointer      
+         496 GetFileSize         
+         514 GetLastError        
+          82 CloseHandle         
+         143 CreateFileW         
+         831 LoadLibraryW        
+         354 FreeLibrary         
+         581 GetProcAddress      
+         718 HeapDestroy         
+         717 HeapCreate          
+         778 IsValidCodePage     
+         567 GetOEMCP            
+         360 GetACP              
+         768 IsDebuggerPresent   
+        1216 TerminateProcess    
+         747 InterlockedDecrement
+         751 InterlockedIncrement
+        1222 TlsFree             
+        1224 TlsSetValue         
+        1221 TlsAlloc            
+        1223 TlsGetValue         
+         536 GetModuleHandleW    
+        1048 RtlUnwind           
+         719 HeapFree            
+         722 HeapReAlloc         
+         715 HeapAlloc           
+         945 RaiseException      
+         633 GetSystemTimeAsFileTime
+         453 GetCurrentThreadId  
+         390 GetCommandLineA     
+        1235 UnhandledExceptionFilter
+        1189 SetUnhandledExceptionFilter
+         531 GetModuleFileNameA  
+
+      from "USER32.dll":
+      not bound
+      name table at 0x37174, address table at 0x32224
+        hint name
+        ---- ----
+         819 wsprintfW           
+         715 SetWindowTextW      
+          60 CharUpperW          
+          46 CharLowerW          
+         546 OemToCharBuffA      
+         506 LoadStringW         
+         412 GetWindowRect       
+         710 SetWindowPos        
+         419 GetWindowTextW      
+         382 GetSystemMetrics    
+         398 GetWindow           
+         548 OemToCharW          
+         406 GetWindowLongW      
+         274 GetClassNameW       
+         107 CreatePopupMenu     
+         441 InsertMenuItemW     
+         379 GetSysColor         
+         495 LoadImageW          
+         627 SendDlgItemMessageW 
+         656 SetDlgItemTextW     
+         708 SetWindowLongW      
+         298 GetDlgItemTextW     
+         276 GetClientRect       
+          14 BeginPaint          
+         220 EndPaint            
+         674 SetMenuItemInfoW    
+         356 GetParent           
+         446 InvalidateRect      
+         289 GetDC               
+         636 SendMessageW        
+         613 ReleaseDC           
+         735 ShowWindow          
+         295 GetDlgItem          
+         545 OemToCharA          
+
+      from "GDI32.dll":
+      not bound
+      name table at 0x36f70, address table at 0x32020
+        hint name
+        ---- ----
+         459 GetDeviceCaps       
+         509 GetObjectW          
+          48 CreateCompatibleDC  
+         516 GetPixel            
+         667 SetPixel            
+         227 DeleteDC            
+          53 CreateDIBSection    
+          75 CreatePen           
+          84 CreateSolidBrush    
+         678 SetTextColor        
+         697 TextOutW            
+         598 Polygon             
+         599 Polyline            
+         230 DeleteObject        
+         631 SelectObject        
+         548 GetTextFaceW        
+         550 GetTextMetricsW     
+          65 CreateFontW         
+
+      from "ADVAPI32.dll":
+      not bound
+      name table at 0x36f50, address table at 0x32000
+        hint name
+        ---- ----
+         622 RegQueryValueExW    
+         609 RegOpenKeyExW       
+         560 RegCloseKey         
+
+      from "SHELL32.dll":
+      not bound
+      name table at 0x37164, address table at 0x32214
+        hint name
+        ---- ----
+         289 ShellExecuteExW     
+          31 DragQueryFileW      
+         215 SHGetPathFromIDListW
+
+      from "ole32.dll":
+      not bound
+      name table at 0x37200, address table at 0x322b0
+        hint name
+        ---- ----
+         344 ReleaseStgMedium    
+          16 CoCreateInstance    
+
+      from "OLEAUT32.dll":
+      not bound
+      name table at 0x37158, address table at 0x32208
+        hint name
+        ---- ----
+           9 ordinal             
+           2 ordinal             
+
+    at offset 0x320 (28 bytes): Debug Directory
+
+    at offset 0x3650 (64 bytes): Load Configuration Directory
+
+    at offset 0x0 (700 bytes): Import Address Table
+
+".data" (virt. Size/Address: 0x1fa48)
+    8704 bytes at offset  0x38000 in RAM,  0x36c00 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+    is writeable
+Section entropy 6.24223
+
+".rsrc" (virt. Size/Address: 0x3f20)
+   16384 bytes at offset  0x58000 in RAM,  0x38e00 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+Section entropy 6.31801
+
+    at offset 0x0 (16160 bytes): Resource Directory
+        version: 4.0, created (GMT): Thu Jan 01 00:00:00 1970
+        bitmap,         icon,         dialog,         string,         group icon,         version info,         unknown resource type 0x18, 
+".reloc" (virt. Size/Address: 0x2ca0)
+   11776 bytes at offset  0x5c000 in RAM,  0x3ce00 in file
+    contains initialized data
+    default alignment (16 bytes)
+    can be discarded
+    is readable
+Section entropy 6.30112
+
+    at offset 0x0 (7068 bytes): Base Relocation Table
+    (relocations skipped)
+
+Entropy: 6.67043

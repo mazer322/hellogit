@@ -1,0 +1,5 @@
+alus 1.78
+duona 1.2
+grybai 16.99
+pienas 1.8
+razinos 5.99

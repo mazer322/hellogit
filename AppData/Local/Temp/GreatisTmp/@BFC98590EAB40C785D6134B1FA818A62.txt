@@ -1,0 +1,97 @@
+WDIGEST.DLL
+Default location: C:\WINDOWS\SYSTEM32\WDIGEST.DLL
+MD5: BFC98590EAB40C785D6134B1FA818A62
+SHA1: 3D2E7294 4B0E9829 DA474CE2 432D3943 E427D2D1
+File Size: 210 944
+
+Version Info:
+OriginalFilename: WDIGEST.DLL
+FileDescription: Microsoft Digest Access
+InternalName: WDIGEST.DLL
+CompanyName: Microsoft Corporation
+FileVersion: 6.1.7601.18489 (win7sp1_gdr.140529-2100)
+LegalCopyright: c Microsoft Corporation. All rights reserved.
+ProductName: Microsoftr Windowsr Operating System
+ProductVersion: 6.1.7601.18489
+
+PE Info of the C:\WINDOWS\SYSTEM32\WDIGEST.DLL:
+
+Type is Windows console application.
+DOS-stub: 224 bytes
+built for machine: unknown processor: 8664
+  (non-32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+File is a DLL
+  do not notify on ProcAttach
+  do not notify on ThreadAttach
+  do not notify on ProcDetach
+  do not notify on ThreadDetach
+0 entries in symbol table
+6 sections
+created (GMT): Fri May 30 08:07:08 2014
+Linker version: 9.0
+.text start:   0x1000, length: 171520 bytes
+.data start: 0x71d40000, length:  37888 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at      0x1ad0
+Preferred load base is    0x7ff
+Image size in RAM: 216 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 6.1, Win32 6.1, App 6.1
+Checksum: 0x000396db
+uses Win32 console subsystem
+Stack: 256 KB reserved,   0 KB committed
+Heap:    4 KB reserved,   0 KB committed
+Size of headers / offset to sections in file: 0x600
+
+at offset 0x2d8 (620 bytes): unknown directory
+
+"" (virt. Size/Address: 0x0)
+  2019914798 bytes at offset      0x0 in RAM,     0x74 in file
+    contains comments / information
+    default alignment (16 bytes)
+    at offset 0x1ad0: execution start
+
+"" (virt. Size/Address: 0x0)
+  1633972782 bytes at offset 0x60000020 in RAM,   0x6174 in file
+    ? far data ?
+    purgeable
+    ? 16-bit-section ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1952539694 bytes at offset 0x40000040 in RAM,     0x61 in file
+    contains comments / information
+    purgeable
+    ? 16-bit-section ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1633972270 bytes at offset 0xc0000040 in RAM,   0x6174 in file
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    purgeable
+    ? 16-bit-section ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1920168494 bytes at offset 0x40000040 in RAM,     0x63 in file
+    contents will not become part of image
+    purgeable
+    ? 16-bit-section ?
+    default alignment (16 bytes)
+
+"" (virt. Size/Address: 0x0)
+  1818587694 bytes at offset 0x40000040 in RAM,   0x636f in file
+    contents is COMDAT (common block data, packaged functions)
+    purgeable
+    ? 16-bit-section ?
+    default alignment (16 bytes)
+
+Entropy = 6.2117
+
+Entropy: 6.21175

@@ -1,0 +1,452 @@
+SSV.DLL
+Default location: C:\PROGRAM FILES (X86)\JAVA\JRE1.8.0_25\BIN\SSV.DLL
+MD5: C6E75974A977E391F6548D76847B22A1
+SHA1: 0D0742EC 77FA2A77 0033CEDC 50F2A7BB 98245854
+File Size: 460 712
+
+Version Info:
+OriginalFilename: ssv.dll
+FileDescription: Java(TM) Platform SE binary
+InternalName: ssv
+CompanyName: Oracle Corporation
+FileVersion: 11.25.2.18
+LegalCopyright: Copyright c 2014
+ProductName: Java(TM) Platform SE 8 U25
+ProductVersion: 8.0.250.18
+
+PE Info of the C:\PROGRAM FILES (X86)\JAVA\JRE1.8.0_25\BIN\SSV.DLL:
+
+Type is Windows GUI.
+DOS-stub: 256 bytes
+built for machine: Intel 80386 processor
+  (32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+File is a DLL
+  do not notify on ProcAttach
+  do not notify on ThreadAttach
+  do not notify on ProcDetach
+  do not notify on ThreadDetach
+0 entries in symbol table
+5 sections
+created (GMT): Tue Oct 07 22:04:40 2014
+Linker version: 10.0
+.text start:   0x1000, length: 210944 bytes
+.data start:  0x35000, length: 250368 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at     0x208de
+Preferred load base is 0x6ee70000
+Image size in RAM: 464 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 5.1, Win32 5.1, App 0.0
+Checksum: 0x00076706
+uses Win32 graphical subsystem
+Stack: 1024 KB reserved,   4 KB committed
+Heap:  1024 KB reserved,   4 KB committed
+Size of headers / offset to sections in file: 0x400
+
+".text" (virt. Size/Address: 0x3375c)
+  210944 bytes at offset   0x1000 in RAM,    0x400 in file
+    contains code
+    default alignment (16 bytes)
+    is executable
+    is readable
+    at offset 0x1f8de: execution start
+Section entropy 6.6244
+
+".rdata" (virt. Size/Address: 0xcd21)
+   52736 bytes at offset  0x35000 in RAM,  0x33c00 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+Section entropy 6.51767
+
+    at offset 0xcb70 (433 bytes): Export Directory
+      module name: "SSV.DLL"
+      created (GMT): Tue Oct 07 21:55:50 2014
+      version: 0.0
+      12 exported functions, list at 41b98
+      12 exported names, list at 41bc8
+      Ordinal base: 1
+      Ord. Hint Name                              RVA
+      ---- ---- ----                              ---
+         1    0 CheckMozJavaPlugins             14f74
+         2    5 IsSSVEnabledInMozilla           16746
+         3    1 DllCanUnloadNow                  e1f4
+         4    2 DllGetClassObject                ee15
+         5    3 DllRegisterServer                e200
+         6    4 DllUnregisterServer              e206
+         7    6 RedirectAllStaticVersionKeys    16388
+         8    7 RedirectSelectedStaticVersionKeys  16463
+         9    8 RegKeyBranchNeedsUpdating       16109
+        10    9 RemoveAllMozillaJavaPlugins     15007
+        11   10 RunBrokerProcess                143b8
+        12   11 UpdateTreatAsKey                160fd
+
+    at offset 0xb35c (160 bytes): Import Directory
+
+      from "COMCTL32.dll":
+      not bound
+      name table at 0x403fc, address table at 0x35000
+        hint name
+        ---- ----
+          17 ordinal             
+
+      from "KERNEL32.dll":
+      not bound
+      name table at 0x4046c, address table at 0x35070
+        hint name
+        ---- ----
+        1201 SizeofResource      
+        1348 lstrcmpiA           
+         302 FindClose           
+         306 FindFirstFileA      
+         504 GetFullPathNameA    
+         485 GetFileAttributesA  
+          82 CloseHandle         
+         479 GetExitCodeProcess  
+        1273 WaitForSingleObject 
+        1107 SetEndOfFile        
+        1126 SetFilePointer      
+        1238 UnmapViewOfFile     
+         855 MapViewOfFile       
+         137 CreateFileMappingA  
+         496 GetFileSize         
+         136 CreateFileA         
+         686 GetWindowsDirectoryA
+         608 GetShortPathNameA   
+         863 MoveFileExA         
+         211 DeleteFileA         
+         323 FindNextFileA       
+         112 CopyFileA           
+         642 GetTempFileNameA    
+         766 IsDBCSLeadByte      
+         747 InterlockedDecrement
+         354 FreeLibrary         
+         331 FindResourceA       
+         829 LoadLibraryExA      
+         623 GetSystemDirectoryA 
+         124 CreateDirectoryA    
+        1024 RemoveDirectoryA    
+        1118 SetFileAttributesA  
+         739 InitializeCriticalSectionAndSpinCount
+         209 DeleteCriticalSection
+         222 DisableThreadLibraryCalls
+         751 InterlockedIncrement
+         698 GlobalFree          
+         701 GlobalHandle        
+         828 LoadLibraryA        
+         524 GetLongPathNameA    
+         181 CreateThread        
+         704 GlobalMemoryStatusEx
+         675 GetVersionExA       
+        1255 VerifyVersionInfoA  
+        1252 VerSetConditionMask 
+         549 GetNativeSystemInfo 
+         164 CreateProcessA      
+         836 LocalAlloc          
+         349 FormatMessageA      
+         635 GetSystemWindowsDirectoryA
+         905 OutputDebugStringA  
+         449 GetCurrentProcessId 
+         840 LocalFree           
+         100 CompareStringW      
+        1316 WriteConsoleW       
+         343 FlushFileBuffers    
+        1159 SetStdHandle        
+         617 GetStringTypeW      
+         831 LoadLibraryW        
+         748 InterlockedExchange 
+         659 GetTickCount        
+         935 QueryPerformanceCounter
+         474 GetEnvironmentStringsW
+         353 FreeEnvironmentStringsW
+         143 CreateFileW         
+         507 GetFullPathNameW    
+         611 GetStartupInfoW     
+        1135 SetHandleCount      
+        1202 Sleep               
+         960 ReadFile            
+         428 GetConsoleMode      
+         410 GetConsoleCP        
+         447 GetCurrentDirectoryW
+         499 GetFileType         
+         909 PeekNamedPipe       
+         492 GetFileInformationByHandle
+         813 LCMapStringW        
+         778 IsValidCodePage     
+         567 GetOEMCP            
+         360 GetACP              
+         370 GetCPInfo           
+         724 HeapSize            
+         722 HeapReAlloc         
+         532 GetModuleFileNameW  
+         612 GetStdHandle        
+        1317 WriteFile           
+         281 ExitProcess         
+        1222 TlsFree             
+        1224 TlsSetValue         
+        1223 TlsGetValue         
+        1221 TlsAlloc            
+         718 HeapDestroy         
+         717 HeapCreate          
+         768 IsDebuggerPresent   
+        1189 SetUnhandledExceptionFilter
+        1235 UnhandledExceptionFilter
+        1216 TerminateProcess    
+         390 GetCommandLineA     
+         664 GetTimeZoneInformation
+         454 GetDateFormatA      
+         661 GetTimeFormatA      
+         308 FindFirstFileExW    
+         467 GetDriveTypeW       
+         234 EncodePointer       
+         202 DecodePointer       
+         633 GetSystemTimeAsFileTime
+        1100 SetCurrentDirectoryA
+         446 GetCurrentDirectoryA
+         307 FindFirstFileExA    
+         334 FindResourceW       
+         833 LoadResource        
+         852 LockResource        
+        1139 SetLastError        
+         453 GetCurrentThreadId  
+         945 RaiseException      
+         691 GlobalAlloc         
+         702 GlobalLock          
+         709 GlobalUnlock        
+         531 GetModuleFileNameA  
+        1357 lstrlenA            
+         870 MulDiv              
+        1345 lstrcmpA            
+         448 GetCurrentProcess   
+         344 FlushInstructionCache
+         825 LeaveCriticalSection
+         238 EnterCriticalSection
+         871 MultiByteToWideChar 
+        1358 lstrlenW            
+         475 GetEnvironmentVariableA
+         514 GetLastError        
+        1110 SetEnvironmentVariableA
+         516 GetLocaleInfoA      
+         533 GetModuleHandleA    
+         581 GetProcAddress      
+        1297 WideCharToMultiByte 
+         466 GetDriveTypeA       
+         292 FileTimeToLocalFileTime
+         293 FileTimeToSystemTime
+        1265 VirtualQuery        
+         627 GetSystemInfo       
+         536 GetModuleHandleW    
+        1263 VirtualProtect      
+        1048 RtlUnwind           
+         752 InterlockedPopEntrySList
+        1257 VirtualAlloc        
+        1260 VirtualFree         
+         772 IsProcessorFeaturePresent
+         715 HeapAlloc           
+         586 GetProcessHeap      
+         719 HeapFree            
+         753 InterlockedPushEntrySList
+         745 InterlockedCompareExchange
+
+      from "USER32.dll":
+      not bound
+      name table at 0x4070c, address table at 0x35310
+        hint name
+        ---- ----
+         773 UnregisterClassA    
+         818 wsprintfA           
+         216 EnableWindow        
+         295 GetDlgItem          
+         155 DefWindowProcA      
+         256 GetActiveWindow     
+         714 SetWindowTextA      
+         505 LoadStringA         
+         218 EndDialog           
+         276 GetClientRect       
+         486 LoadBitmapA         
+         294 GetDlgCtrlID        
+         806 WaitForInputIdle    
+         707 SetWindowLongA      
+         405 GetWindowLongA      
+         109 CreateWindowExA     
+         710 SetWindowPos        
+         398 GetWindow           
+         705 SetWindowContextHelpId
+         631 SendMessageA        
+         516 MapDialogRect       
+         379 GetSysColor         
+          47 CharNextA           
+         539 MoveWindow          
+         288 GetCursorPos        
+         412 GetWindowRect       
+         648 SetCursor           
+         168 DialogBoxIndirectParamA
+         317 GetKeyState         
+         769 UnionRect           
+         576 PtInRect            
+         445 IntersectRect       
+         243 EqualRect           
+         549 OffsetRect          
+         711 SetWindowRgn        
+         735 ShowWindow          
+         610 RegisterWindowMessageA
+         417 GetWindowTextLengthA
+         416 GetWindowTextA      
+          87 CreateAcceleratorTableA
+         588 RegisterClassExA    
+         488 LoadCursorA         
+         268 GetClassInfoExA     
+         475 IsWindow            
+         291 GetDesktopWindow    
+         300 GetFocus            
+         658 SetFocus            
+         160 DestroyAcceleratorTable
+          14 BeginPaint          
+         220 EndPaint            
+          29 CallWindowProcA     
+         166 DestroyWindow       
+         246 FillRect            
+         612 ReleaseCapture      
+         273 GetClassNameA       
+         356 GetParent           
+         457 IsChild             
+         640 SetCapture          
+         586 RedrawWindow        
+         447 InvalidateRgn       
+         446 InvalidateRect      
+         613 ReleaseDC           
+         289 GetDC               
+         621 ScreenToClient      
+          71 ClientToScreen      
+
+      from "GDI32.dll":
+      not bound
+      name table at 0x40404, address table at 0x35008
+        hint name
+        ---- ----
+         678 SetTextColor        
+         639 SetBkMode           
+         564 LPtoDP              
+         660 SetMapMode          
+          49 CreateDCA           
+          80 CreateRectRgnIndirect
+          84 CreateSolidBrush    
+          19 BitBlt              
+          47 CreateCompatibleBitmap
+         631 SelectObject        
+         507 GetObjectA          
+          48 CreateCompatibleDC  
+         691 StretchBlt          
+         525 GetStockObject      
+         230 DeleteObject        
+         227 DeleteDC            
+         624 SaveDC              
+         653 SetGraphicsMode     
+         569 ModifyWorldTransform
+         681 SetViewportOrgEx    
+         685 SetWindowOrgEx      
+         459 GetDeviceCaps       
+         164 DPtoLP              
+          61 CreateFontIndirectA 
+         617 RestoreDC           
+
+      from "ole32.dll":
+      not bound
+      name table at 0x40824, address table at 0x35428
+        hint name
+        ---- ----
+           6 CLSIDFromProgID     
+           8 CLSIDFromString     
+          16 CoCreateInstance    
+         134 CreateStreamOnHGlobal
+         306 OleInitialize       
+         329 OleUninitialize     
+          38 CoGetClassObject    
+         104 CoTaskMemFree       
+         108 CoUninitialize      
+          62 CoInitialize        
+         131 CreateOleAdviseHolder
+         318 OleRegEnumVerbs     
+         320 OleRegGetUserType   
+         103 CoTaskMemAlloc      
+         312 OleLockRunning      
+         105 CoTaskMemRealloc    
+         377 StringFromGUID2     
+         376 StringFromCLSID     
+         339 ReadClassStm        
+         323 OleSaveToStream     
+         390 WriteClassStm       
+         319 OleRegGetMiscStatus 
+
+      from "OLEAUT32.dll":
+      not bound
+      name table at 0x406d0, address table at 0x352d4
+        hint name
+        ---- ----
+         417 ordinal             
+          12 ordinal             
+         277 ordinal             
+           6 ordinal             
+           7 ordinal             
+           4 ordinal             
+           2 ordinal             
+           8 ordinal             
+           9 ordinal             
+         420 ordinal             
+         162 ordinal             
+         161 ordinal             
+         150 ordinal             
+         149 ordinal             
+
+      from "VERSION.dll":
+      not bound
+      name table at 0x40814, address table at 0x35418
+        hint name
+        ---- ----
+          13 VerQueryValueA      
+           3 GetFileVersionInfoSizeA
+           0 GetFileVersionInfoA 
+
+    at offset 0x4e0 (28 bytes): Debug Directory
+
+    at offset 0x6790 (64 bytes): Load Configuration Directory
+
+    at offset 0x0 (1156 bytes): Import Address Table
+
+    at offset 0xb0d0 (128 bytes): unknown directory
+
+".data" (virt. Size/Address: 0x49c0)
+   10752 bytes at offset  0x42000 in RAM,  0x40a00 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+    is writeable
+Section entropy 6.39587
+
+".rsrc" (virt. Size/Address: 0x273f0)
+  160768 bytes at offset  0x47000 in RAM,  0x43400 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+Section entropy 6.58075
+
+    at offset 0x0 (160752 bytes): Resource Directory
+        version: 0.0, created (GMT): Thu Jan 01 00:00:00 1970
+        name: "REGISTRY",         bitmap,         icon,         dialog,         string,         group icon,         version info, 
+".reloc" (virt. Size/Address: 0x45f2)
+   17920 bytes at offset  0x6f000 in RAM,  0x6a800 in file
+    contains initialized data
+    default alignment (16 bytes)
+    can be discarded
+    is readable
+Section entropy 6.43806
+
+    at offset 0x0 (13420 bytes): Base Relocation Table
+    (relocations skipped)
+
+Entropy: 6.6244

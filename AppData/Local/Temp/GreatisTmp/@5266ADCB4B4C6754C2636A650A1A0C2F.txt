@@ -1,0 +1,17 @@
+@VBR@-004BC502E8A0AB7DDDB5C2C67E1CDFEE.VBR
+Default location: C:\Users\WINDDR~1\AppData\Local\Temp\GreatisTmp\@VBR@-004BC502E8A0AB7DDDB5C2C67E1CDFEE.vbr
+MD5: 5266ADCB4B4C6754C2636A650A1A0C2F
+SHA1: 8FF790E5 39CE0791 5B3F7E3F FCAC461C 63AC2C38
+File Size: 4 608
+
+Version Info:
+(no version info)
+
+PE Info of the C:\Users\WINDDR~1\AppData\Local\Temp\GreatisTmp\@VBR@-004BC502E8A0AB7DDDB5C2C67E1CDFEE.vbr:
+
+File doesn't have executable signature IMAGE_DOS_SIGNATURE
+unknown type of file
+
+Entropy = 5.7437
+
+Entropy: 5.74366

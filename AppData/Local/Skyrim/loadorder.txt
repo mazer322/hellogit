@@ -1,0 +1,6 @@
+Skyrim.esm
+Dawnguard.esm
+Dragonborn.esm
+HearthFires.esm
+Update.esm
+ColorfulLightsNoShadows.esp

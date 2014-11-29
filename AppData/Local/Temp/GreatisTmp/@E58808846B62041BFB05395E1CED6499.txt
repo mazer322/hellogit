@@ -1,0 +1,93 @@
+SMSVCHOST.EXE
+Default location: C:\WINDOWS\MICROSOFT.NET\FRAMEWORK64\V4.0.30319\SMSVCHOST.EXE
+MD5: E58808846B62041BFB05395E1CED6499
+SHA1: 1A89B708 B5D86A88 F4150266 186DDCAF A140120B
+File Size: 139 944
+
+Version Info:
+OriginalFilename: SMSvcHost.exe
+FileDescription: SMSvcHost.exe
+InternalName: SMSvcHost.exe
+CompanyName: Microsoft Corporation
+FileVersion: 4.0.30319.34209 built by: FX452RTMGDR
+LegalCopyright: c Microsoft Corporation.  All rights reserved.
+PrivateBuild: DDBLD354
+ProductName: Microsoftr .NET Framework
+ProductVersion: 4.0.30319.34209
+
+PE Info of the C:\WINDOWS\MICROSOFT.NET\FRAMEWORK64\V4.0.30319\SMSVCHOST.EXE:
+
+Type is Windows console application.
+DOS-stub: 128 bytes
+built for machine: Intel 80386 processor
+  (32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+0 entries in symbol table
+3 sections
+created (GMT): Sat Apr 12 03:55:45 2014
+Linker version: 11.0
+.text start:   0x2000, length: 120832 bytes
+.data start:  0x20000, length:   2560 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at     0x1f75e
+Preferred load base is 0x400000
+Image size in RAM: 144 KB
+Sections aligned to 8192 bytes in RAM, 512 bytes in file
+Versions: NT 4.0, Win32 6.0, App 0.0
+Checksum: 0x0002f64a
+uses Win32 console subsystem
+Stack: 1024 KB reserved,   4 KB committed
+Heap:  1024 KB reserved,   4 KB committed
+Size of headers / offset to sections in file: 0x200
+
+".text" (virt. Size/Address: 0x1d764)
+  120832 bytes at offset   0x2000 in RAM,    0x200 in file
+    contains code
+    default alignment (16 bytes)
+    is executable
+    is readable
+    at offset 0x1d75e: execution start
+Section entropy 5.82548
+
+    at offset 0x1d704 (87 bytes): Import Directory
+
+      from "mscoree.dll":
+      not bound
+      name table at 0x1f72c, address table at 0x2000
+        hint name
+        ---- ----
+           0 _CorExeMain         
+
+    at offset 0x1c400 (16040 bytes): Security Directory
+
+    at offset 0x1d5cc (28 bytes): Debug Directory
+
+    at offset 0x0 (8 bytes): Import Address Table
+
+    at offset 0x8 (72 bytes): unknown directory
+
+".rsrc" (virt. Size/Address: 0x660)
+    2048 bytes at offset  0x20000 in RAM,  0x1da00 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+Section entropy 5.05644
+
+    at offset 0x0 (1632 bytes): Resource Directory
+        version: 0.0, created (GMT): Thu Jan 01 00:00:00 1970
+        version info,         unknown resource type 0x18, 
+".reloc" (virt. Size/Address: 0xc)
+     512 bytes at offset  0x22000 in RAM,  0x1e200 in file
+    contains initialized data
+    default alignment (16 bytes)
+    can be discarded
+    is readable
+
+    at offset 0x0 (12 bytes): Base Relocation Table
+    (relocations skipped)
+
+Entropy: 5.82548

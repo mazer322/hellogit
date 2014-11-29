@@ -1,0 +1,5 @@
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 12\Windows 7\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.csprojResolveAssemblyReference.cache
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 12\Windows 7\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 12\Windows 7\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.pdb
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 12\Windows 7\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.exe
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 12\Windows 7\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.pdb

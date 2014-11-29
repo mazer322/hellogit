@@ -1,0 +1,104 @@
+SHELL32.DLL
+Default location: C:\WINDOWS\SYSTEM32\SHELL32.DLL
+MD5: AE57F6C7AB3ED244B5F14151C4EA0057
+SHA1: AA90D2D8 0C84E41D 389D8F49 539223C1 EE8665E1
+File Size: 14 175 744
+
+Version Info:
+OriginalFilename: SHELL32.DLL.MUI
+FileDescription: Windows Shell Common Dll
+InternalName: SHELL32
+CompanyName: Microsoft Corporation
+FileVersion: 6.1.7601.17514 (win7sp1_rtm.101119-1850)
+LegalCopyright: c Microsoft Corporation. All rights reserved.
+ProductName: Microsoftr Windowsr Operating System
+ProductVersion: 6.1.7601.17514
+
+PE Info of the C:\WINDOWS\SYSTEM32\SHELL32.DLL:
+
+Type is Windows GUI.
+DOS-stub: 240 bytes
+built for machine: unknown processor: 8664
+  (non-32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+File is a DLL
+  do not notify on ProcAttach
+  do not notify on ThreadAttach
+  do not notify on ProcDetach
+  do not notify on ThreadDetach
+0 entries in symbol table
+6 sections
+created (GMT): Wed Jun 25 02:03:51 2014
+Linker version: 9.0
+.text start:   0x1000, length: 4378624 bytes
+.data start: 0x788c0000, length: 9801728 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at     0x7cd1c
+Preferred load base is    0x7ff
+Image size in RAM: 13856 KB
+Sections aligned to 4096 bytes in RAM, 512 bytes in file
+Versions: NT 6.1, Win32 6.1, App 6.1
+Checksum: 0x00d9066e
+uses Win32 graphical subsystem
+Stack: 256 KB reserved,   0 KB committed
+Heap:    4 KB reserved,   0 KB committed
+Size of headers / offset to sections in file: 0x800
+
+at offset 0x2e8 (1060 bytes): unknown directory
+
+"" (virt. Size/Address: 0x0)
+  2019914798 bytes at offset      0x0 in RAM,     0x74 in file
+    contents will not become part of image
+    default alignment (16 bytes)
+    at offset 0x7cd1c: execution start
+
+"" (virt. Size/Address: 0x0)
+  1633972782 bytes at offset 0x60000020 in RAM,   0x6174 in file
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    purgeable
+    ? 16-bit-section ?
+    8-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1952539694 bytes at offset 0x40000040 in RAM,     0x61 in file
+    contents is COMDAT (common block data, packaged functions)
+    ? far data ?
+    locked in memory
+    preload
+    8-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1633972270 bytes at offset 0xc0000040 in RAM,   0x6174 in file
+    contents is COMDAT (common block data, packaged functions)
+    purgeable
+    ? 16-bit-section ?
+    locked in memory
+    preload
+    8-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1920168494 bytes at offset 0x40000040 in RAM,     0x63 in file
+    contents is COMDAT (common block data, packaged functions)
+    purgeable
+    ? 16-bit-section ?
+    1-byte-alignment
+
+"" (virt. Size/Address: 0x0)
+  1818587694 bytes at offset 0x40000040 in RAM,   0x636f in file
+    contains comments / information
+    contents will not become part of image
+    contents is COMDAT (common block data, packaged functions)
+    purgeable
+    ? 16-bit-section ?
+    locked in memory
+    1-byte-alignment
+
+Entropy = 6.2136
+
+Entropy: 6.21363

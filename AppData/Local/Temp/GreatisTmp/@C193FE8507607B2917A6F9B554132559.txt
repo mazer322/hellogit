@@ -1,0 +1,90 @@
+HIPATCHSERVICE.EXE
+Default location: C:\PROGRAM FILES (X86)\HI-REZ STUDIOS\HIPATCHSERVICE.EXE
+MD5: C193FE8507607B2917A6F9B554132559
+SHA1: F0167092 406874CD 58E7E6AC 2312B58B 2EF381BF
+File Size: 9 216
+
+Version Info:
+OriginalFilename: HiPatchService.exe
+FileDescription: HiPatchService
+InternalName: HiPatchService.exe
+CompanyName: Hi-Rez Studios
+FileVersion: 3.9.0.1
+LegalCopyright: Copyright c Hi-Rez Studios 2011
+ProductName: HiPatchService
+ProductVersion: 3.9.0.1
+
+PE Info of the C:\PROGRAM FILES (X86)\HI-REZ STUDIOS\HIPATCHSERVICE.EXE:
+
+Type is Windows GUI.
+DOS-stub: 128 bytes
+built for machine: Intel 80386 processor
+  (32-bit-word machine)
+Bytes of machine word are not reversed
+Relocation info not stripped
+Local symbols not stripped
+Debugging info not stripped
+executable file
+0 entries in symbol table
+3 sections
+created (GMT): Fri Aug 22 13:04:06 2014
+Linker version: 8.0
+.text start:   0x2000, length:   6656 bytes
+.data start:   0x4000, length:   2048 bytes
+.bss  start:      -/-, length:      0 bytes
+execution starts at      0x387e
+Preferred load base is 0x400000
+Image size in RAM: 32 KB
+Sections aligned to 8192 bytes in RAM, 512 bytes in file
+Versions: NT 4.0, Win32 4.0, App 0.0
+Checksum: 0x00000000
+uses Win32 graphical subsystem
+Stack: 1024 KB reserved,   4 KB committed
+Heap:  1024 KB reserved,   4 KB committed
+Size of headers / offset to sections in file: 0x200
+
+".text" (virt. Size/Address: 0x1884)
+    6656 bytes at offset   0x2000 in RAM,    0x200 in file
+    contains code
+    default alignment (16 bytes)
+    is executable
+    is readable
+    at offset 0x187e: execution start
+Section entropy 5.22972
+
+    at offset 0x182c (79 bytes): Import Directory
+
+      from "mscoree.dll":
+      not bound
+      name table at 0x3854, address table at 0x2000
+        hint name
+        ---- ----
+           0 _CorExeMain         
+
+    at offset 0x17b0 (28 bytes): Debug Directory
+
+    at offset 0x0 (8 bytes): Import Address Table
+
+    at offset 0x8 (72 bytes): unknown directory
+
+".rsrc" (virt. Size/Address: 0x5d0)
+    1536 bytes at offset   0x4000 in RAM,   0x1c00 in file
+    contains initialized data
+    default alignment (16 bytes)
+    is readable
+Section entropy 3.84554
+
+    at offset 0x0 (1488 bytes): Resource Directory
+        version: 0.0, created (GMT): Thu Jan 01 00:00:00 1970
+        version info,         unknown resource type 0x18, 
+".reloc" (virt. Size/Address: 0xc)
+     512 bytes at offset   0x6000 in RAM,   0x2200 in file
+    contains initialized data
+    default alignment (16 bytes)
+    can be discarded
+    is readable
+
+    at offset 0x0 (12 bytes): Base Relocation Table
+    (relocations skipped)
+
+Entropy: 5.22972

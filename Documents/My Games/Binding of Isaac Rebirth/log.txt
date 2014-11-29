@@ -1,0 +1,393 @@
+timeBeginPeriod( 1 )
+Framebuffer ID: 1
+Renderbuffer ID: 1 size 1024x1024
+OpenGL version 4.0.10243 Compatibility Profile Context
+GLSL version 4.00
+load archives: 7575 milliseconds
+preload anm2: 442 milliseconds
+HQX4 size: 960x540
+[RoomConfig] load stage 0: Special Rooms
+[RoomConfig] load stage 1: Basement
+[warn] Room (type=0, variant=0, name=(null)) has invalid size (0x0)
+[warn] Room (type=0, variant=0, name=(null)) has invalid size (0x0)
+[RoomConfig] load stage 2: Cellar
+[RoomConfig] load stage 3: Caves
+[RoomConfig] load stage 4: Catacombs
+[RoomConfig] load stage 5: Depths
+[RoomConfig] load stage 6: Necropolis
+[RoomConfig] load stage 7: Womb
+[RoomConfig] load stage 8: Utero
+[RoomConfig] load stage 9: Sheol
+[RoomConfig] load stage 10: Cathedral
+[RoomConfig] load stage 11: Dark Room
+[RoomConfig] load stage 12: Chest
+preload rooms: 282 milliseconds
+Loading PersistentGameData from Steam Cloud: persistentgamedata1.dat.
+Loading PersistentGameData from disk: C:\Users\winddragon/Documents/My Games/Binding of Isaac Rebirth/persistentgamedata1.dat.
+local revision: 976. steamcloud revision: 976, using steamcloud save file.
+Loading PersistentGameData from Steam Cloud: persistentgamedata2.dat.
+Loading PersistentGameData from disk: C:\Users\winddragon/Documents/My Games/Binding of Isaac Rebirth/persistentgamedata2.dat.
+local revision: 73. steamcloud revision: 73, using steamcloud save file.
+Loading PersistentGameData from Steam Cloud: persistentgamedata3.dat.
+Loading PersistentGameData from disk: C:\Users\winddragon/Documents/My Games/Binding of Isaac Rebirth/persistentgamedata3.dat.
+local revision: 73. steamcloud revision: 0, using local save file.
+playing cutscene 1 (Intro).
+Framebuffer Width: 960 
+ Render Width: 960 
+ Window Width: 960 
+ Multiplier: 0.444444 
+ DP per point: 1.000000 
+ Point Scale: 2.250000 
+HQX4 size: 960x540
+Cutscene: correct anm2 timing: f0 -> f8
+Cutscene: correct anm2 timing: f18 -> f15
+Cutscene: correct anm2 timing: f30 -> f27
+Cutscene: correct anm2 timing: f41 -> f38
+Cutscene: correct anm2 timing: f52 -> f49
+Viewport: 960x540
+Framebuffer Width: 960 
+ Render Width: 960 
+ Window Width: 960 
+ Multiplier: 2.307692 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+HQX4 size: 960x540
+Loading PersistentGameData from Steam Cloud: persistentgamedata1.dat.
+Loading PersistentGameData from disk: C:\Users\winddragon/Documents/My Games/Binding of Isaac Rebirth/persistentgamedata1.dat.
+local revision: 976. steamcloud revision: 976, using steamcloud save file.
+Initialized player with Variant 0 and Subtype 7
+Adding costume for 11 () which was added before and never removed.
+Adding costume for 11 () which was added before and never removed.
+Room 1.2(Start Room)
+SpawnRNG seed: 2108773914
+music stopped playing
+Room 4.8( (copy))
+SpawnRNG seed: 2247646973
+Spawn Entity with Type(33), Variant(1), Pos(320.00,200.00)
+Spawn Entity with Type(33), Variant(0), Pos(240.00,240.00)
+Spawn Entity with Type(33), Variant(0), Pos(400.00,240.00)
+Spawn Entity with Type(5), Variant(100), Pos(320.00,280.00)
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/grid/Effect_Ember.png while in gameplay
+item taken without exchange
+item queue flush
+Adding collectible 111 (The Bean)
+music stopped playing
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_018_LaserEffects.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_050_LaserImpact.png while in gameplay
+Room 1.2(Start Room)
+SpawnRNG seed: 2108773914
+Room 1.221(New Room)
+SpawnRNG seed: 375341724
+Spawn Entity with Type(33), Variant(1), Pos(120.00,200.00)
+Spawn Entity with Type(33), Variant(1), Pos(520.00,200.00)
+Spawn Entity with Type(33), Variant(0), Pos(320.00,240.00)
+Spawn Entity with Type(33), Variant(0), Pos(280.00,280.00)
+Spawn Entity with Type(5), Variant(60), Pos(320.00,280.00)
+Spawn Entity with Type(33), Variant(0), Pos(360.00,280.00)
+Spawn Entity with Type(33), Variant(0), Pos(320.00,320.00)
+Spawn Entity with Type(33), Variant(1), Pos(120.00,360.00)
+Spawn Entity with Type(33), Variant(1), Pos(520.00,360.00)
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_018_LaserEffects.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_050_LaserImpact.png while in gameplay
+Room 1.82()
+SpawnRNG seed: 1168229939
+Spawn Entity with Type(14), Variant(0), Pos(80.00,160.00)
+Spawn Entity with Type(12), Variant(0), Pos(320.00,280.00)
+Spawn Entity with Type(14), Variant(0), Pos(560.00,400.00)
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_018_LaserEffects.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_050_LaserImpact.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Monsters/Classic/Monster_010_Fly.png while in gameplay
+Room 1.221(New Room)
+SpawnRNG seed: 375341724
+Room 1.235(New Room)
+SpawnRNG seed: 489473317
+Spawn Entity with Type(217), Variant(0), Pos(560.00,160.00)
+Spawn Entity with Type(12), Variant(0), Pos(160.00,200.00)
+Spawn Entity with Type(12), Variant(0), Pos(480.00,360.00)
+Spawn Entity with Type(217), Variant(0), Pos(80.00,400.00)
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_018_LaserEffects.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_050_LaserImpact.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_PoopGibs.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/effects/Effect_002b_ShitPoof.png while in gameplay
+Room 1.221(New Room)
+SpawnRNG seed: 375341724
+Room 1.82()
+SpawnRNG seed: 1168229939
+Room 5.2016(The Duke of Flies (copy))
+SpawnRNG seed: 2232641636
+Spawn Entity with Type(67), Variant(0), Pos(320.00,280.00)
+Spawn Entity with Type(14), Variant(0), Pos(360.00,280.00)
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/effects/Effect_Fart.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Monsters/Classic/Monster_010_Fly.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_018_LaserEffects.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_050_LaserImpact.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_033_Tiny Fly.png while in gameplay
+TriggerBossDeath: 0 bosses remaining.
+deathspawn_boss, color idx -1
+Boss 13 added to SaveState
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/effects/Effect_077_LargeBloodExplosion.png while in gameplay
+Mom clear time: 2604
+Par time: 36000
+item taken without exchange
+item queue flush
+Adding collectible 196 (Squeezy)
+music stopped playing
+Level::Init m_Stage 2, m_AltStage 0 Seed 980313397
+generate...
+11 rooms in 7 loops
+not enough dead ends (5/6)
+generate...
+11 rooms in 6 loops
+placing rooms...
+Map Generated in 2 Loops
+Room 1.2(Start Room)
+SpawnRNG seed: 3279281065
+Room 1.255(New Room)
+SpawnRNG seed: 2813583720
+Spawn Entity with Type(208), Variant(0), Pos(80.00,160.00)
+Spawn Entity with Type(208), Variant(0), Pos(560.00,400.00)
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_018_LaserEffects.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_050_LaserImpact.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/effects/Effect_032_BloodStains.png while in gameplay
+Room 1.2(Start Room)
+SpawnRNG seed: 3279281065
+Room 1.507(New Room)
+SpawnRNG seed: 924108811
+Spawn Entity with Type(217), Variant(0), Pos(440.00,200.00)
+Spawn Entity with Type(217), Variant(0), Pos(400.00,280.00)
+Spawn Entity with Type(217), Variant(0), Pos(480.00,320.00)
+Spawn Entity with Type(217), Variant(0), Pos(520.00,320.00)
+Spawn Entity with Type(217), Variant(0), Pos(440.00,400.00)
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_018_LaserEffects.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_050_LaserImpact.png while in gameplay
+Room 1.519(New Room)
+SpawnRNG seed: 1035017055
+Spawn Entity with Type(218), Variant(0), Pos(440.00,200.00)
+Spawn Entity with Type(218), Variant(0), Pos(280.00,240.00)
+Spawn Entity with Type(5), Variant(0), Pos(320.00,280.00)
+Spawn Entity with Type(218), Variant(0), Pos(360.00,320.00)
+Spawn Entity with Type(218), Variant(0), Pos(200.00,360.00)
+Room 1.507(New Room)
+SpawnRNG seed: 924108811
+Room 1.519(New Room)
+SpawnRNG seed: 1035017055
+Spawn Entity with Type(218), Variant(0), Pos(440.00,200.00)
+Spawn Entity with Type(218), Variant(0), Pos(280.00,240.00)
+Spawn Entity with Type(218), Variant(0), Pos(360.00,320.00)
+Spawn Entity with Type(218), Variant(0), Pos(200.00,360.00)
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_018_LaserEffects.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_050_LaserImpact.png while in gameplay
+Room 1.333(New Room)
+SpawnRNG seed: 2497977069
+Spawn Entity with Type(33), Variant(0), Pos(280.00,240.00)
+Spawn Entity with Type(33), Variant(0), Pos(360.00,240.00)
+Spawn Entity with Type(5), Variant(300), Pos(320.00,280.00)
+Spawn Entity with Type(33), Variant(0), Pos(280.00,320.00)
+Spawn Entity with Type(33), Variant(0), Pos(360.00,320.00)
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_018_LaserEffects.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_050_LaserImpact.png while in gameplay
+Room 1.519(New Room)
+SpawnRNG seed: 1035017055
+Spawn Entity with Type(218), Variant(0), Pos(440.00,200.00)
+Spawn Entity with Type(218), Variant(0), Pos(280.00,240.00)
+Spawn Entity with Type(218), Variant(0), Pos(360.00,320.00)
+Spawn Entity with Type(218), Variant(0), Pos(200.00,360.00)
+Room 1.333(New Room)
+SpawnRNG seed: 2497977069
+Room 1.519(New Room)
+SpawnRNG seed: 1035017055
+Spawn Entity with Type(218), Variant(0), Pos(440.00,200.00)
+Spawn Entity with Type(218), Variant(0), Pos(280.00,240.00)
+Spawn Entity with Type(218), Variant(0), Pos(360.00,320.00)
+Spawn Entity with Type(218), Variant(0), Pos(200.00,360.00)
+Room 1.507(New Room)
+SpawnRNG seed: 924108811
+Total entity spawn time: 493 ms
+Total ANM2 loading time: 30 ms
+AnmCache memory usage: 9024000 bytes in 789 entries.
+Room 1.2(Start Room)
+SpawnRNG seed: 3279281065
+Room 1.255(New Room)
+SpawnRNG seed: 2813583720
+Room 1.295(New Room)
+SpawnRNG seed: 3987177687
+Spawn Entity with Type(217), Variant(0), Pos(520.00,160.00)
+Spawn Entity with Type(217), Variant(0), Pos(160.00,240.00)
+Spawn Entity with Type(217), Variant(0), Pos(320.00,240.00)
+Spawn Entity with Type(217), Variant(0), Pos(320.00,320.00)
+Spawn Entity with Type(217), Variant(0), Pos(480.00,320.00)
+Spawn Entity with Type(217), Variant(0), Pos(120.00,400.00)
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_018_LaserEffects.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_050_LaserImpact.png while in gameplay
+config for entity 5.40 is missing
+[warn] No sprite for Pickup variant 40
+Room 4.10( (copy))
+SpawnRNG seed: 735117786
+Spawn Entity with Type(5), Variant(100), Pos(320.00,280.00)
+item taken without exchange
+item queue flush
+Adding collectible 236 (E. Coli)
+Room 1.295(New Room)
+SpawnRNG seed: 3987177687
+music stopped playing
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_018_LaserEffects.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_050_LaserImpact.png while in gameplay
+Room 1.255(New Room)
+SpawnRNG seed: 2813583720
+Room 13.4()
+SpawnRNG seed: 247251317
+Spawn Entity with Type(5), Variant(10), Pos(120.00,360.00)
+Room 1.255(New Room)
+SpawnRNG seed: 2813583720
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_018_LaserEffects.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_050_LaserImpact.png while in gameplay
+Room 1.2(Start Room)
+SpawnRNG seed: 3279281065
+Room 1.507(New Room)
+SpawnRNG seed: 924108811
+Room 1.519(New Room)
+SpawnRNG seed: 1035017055
+Spawn Entity with Type(218), Variant(0), Pos(440.00,200.00)
+Spawn Entity with Type(218), Variant(0), Pos(280.00,240.00)
+Spawn Entity with Type(218), Variant(0), Pos(360.00,320.00)
+Spawn Entity with Type(218), Variant(0), Pos(200.00,360.00)
+Room 1.333(New Room)
+SpawnRNG seed: 2497977069
+Room 5.1018(Monstro (copy))
+SpawnRNG seed: 2170307027
+Spawn Entity with Type(18), Variant(0), Pos(240.00,280.00)
+Spawn Entity with Type(20), Variant(0), Pos(320.00,280.00)
+Spawn Entity with Type(18), Variant(0), Pos(400.00,280.00)
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_018_LaserEffects.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_050_LaserImpact.png while in gameplay
+TriggerBossDeath: 0 bosses remaining.
+deathspawn_boss, color idx -1
+Boss 1 added to SaveState
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/effects/effect_bloodgush.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/effects/Effect_077_LargeBloodExplosion.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_052_Dust Cloud.png while in gameplay
+Mom clear time: 7117
+Par time: 36000
+item taken without exchange
+item queue flush
+Adding collectible 165 (Cat-o-nine-tails)
+Room 14.2(Devil (Shop) (copy))
+SpawnRNG seed: 4179138838
+Spawn Entity with Type(33), Variant(0), Pos(200.00,200.00)
+Spawn Entity with Type(33), Variant(0), Pos(440.00,200.00)
+Spawn Entity with Type(5), Variant(150), Pos(240.00,320.00)
+Spawn Entity with Type(5), Variant(150), Pos(320.00,320.00)
+Spawn Entity with Type(5), Variant(150), Pos(400.00,320.00)
+music stopped playing
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_018_LaserEffects.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_050_LaserImpact.png while in gameplay
+Room 5.1018(Monstro (copy))
+SpawnRNG seed: 2170307027
+Mom clear time: 7462
+Par time: 36000
+Level::Init m_Stage 3, m_AltStage 0 Seed 4104366569
+generate...
+16 rooms in 11 loops
+not enough dead ends (5/6)
+generate...
+16 rooms in 10 loops
+placing rooms...
+Map Generated in 2 Loops
+Room 1.2(Start Room)
+SpawnRNG seed: 1219407147
+Room 1.266(New Room)
+SpawnRNG seed: 85763965
+Spawn Entity with Type(33), Variant(0), Pos(320.00,160.00)
+Spawn Entity with Type(33), Variant(0), Pos(280.00,200.00)
+Spawn Entity with Type(5), Variant(60), Pos(320.00,200.00)
+Spawn Entity with Type(33), Variant(0), Pos(360.00,200.00)
+Spawn Entity with Type(33), Variant(0), Pos(80.00,400.00)
+Spawn Entity with Type(33), Variant(0), Pos(560.00,400.00)
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_018_LaserEffects.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_050_LaserImpact.png while in gameplay
+Room 1.17()
+SpawnRNG seed: 2954269446
+Spawn Entity with Type(18), Variant(0), Pos(80.00,160.00)
+Spawn Entity with Type(23), Variant(0), Pos(160.00,240.00)
+Spawn Entity with Type(23), Variant(0), Pos(360.00,240.00)
+Spawn Entity with Type(23), Variant(0), Pos(280.00,320.00)
+Spawn Entity with Type(23), Variant(0), Pos(480.00,320.00)
+Spawn Entity with Type(18), Variant(0), Pos(560.00,400.00)
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_018_LaserEffects.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_050_LaserImpact.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/effects/Effect_032_BloodStains.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/grid/grid_poop.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_PoopGibs.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/effects/Effect_002b_ShitPoof.png while in gameplay
+Action PillCard Triggered
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/grid/rocks_basement.png while in gameplay
+Game Over. Killed by (4.0) spawned by (1.0) damage flags (4)
+CPU time spent on enemy queries: 0.32 seconds.
+RNG Start Seed: 10PW 8NHM (2993967309)
+Initialized player with Variant 0 and Subtype 7
+Level::Init m_Stage 1, m_AltStage 0 Seed 628982263
+generate...
+8 rooms in 4 loops
+placing rooms...
+Map Generated in 1 Loops
+Room 1.2(Start Room)
+SpawnRNG seed: 316158677
+Room 4.1()
+SpawnRNG seed: 3735273096
+Spawn Entity with Type(5), Variant(100), Pos(320.00,280.00)
+item taken without exchange
+item queue flush
+Adding collectible 14 (Roid Rage)
+Room 1.2(Start Room)
+SpawnRNG seed: 316158677
+music stopped playing
+Room 1.185(New Room)
+SpawnRNG seed: 1271342147
+Spawn Entity with Type(214), Variant(0), Pos(240.00,280.00)
+Spawn Entity with Type(214), Variant(0), Pos(400.00,280.00)
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/effects/Effect_032_BloodStains.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Monsters/Classic/Monster_010_Fly.png while in gameplay
+Room 1.377(New Room)
+SpawnRNG seed: 1433464913
+Spawn Entity with Type(16), Variant(2), Pos(520.00,240.00)
+Spawn Entity with Type(16), Variant(2), Pos(560.00,240.00)
+Spawn Entity with Type(16), Variant(2), Pos(560.00,320.00)
+Spawn Entity with Type(16), Variant(2), Pos(600.00,320.00)
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_018_LaserEffects.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_050_LaserImpact.png while in gameplay
+Room 1.363(New Room)
+SpawnRNG seed: 2902215680
+Spawn Entity with Type(33), Variant(0), Pos(120.00,200.00)
+Spawn Entity with Type(33), Variant(0), Pos(520.00,200.00)
+Spawn Entity with Type(15), Variant(0), Pos(240.00,320.00)
+Spawn Entity with Type(15), Variant(0), Pos(400.00,320.00)
+Spawn Entity with Type(15), Variant(0), Pos(240.00,520.00)
+Spawn Entity with Type(15), Variant(0), Pos(400.00,520.00)
+Spawn Entity with Type(33), Variant(0), Pos(120.00,640.00)
+Spawn Entity with Type(33), Variant(0), Pos(520.00,640.00)
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_018_LaserEffects.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_050_LaserImpact.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Worms.png while in gameplay
+Room 5.4010(Famine)
+SpawnRNG seed: 3171736245
+Spawn Entity with Type(63), Variant(0), Pos(320.00,280.00)
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_018_LaserEffects.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Effects/Effect_050_LaserImpact.png while in gameplay
+[warn] AnmCache::PreloadImage: Preloading resources/gfx/Monsters/Classic/Monster_001_Pooter.png while in gameplay
+Total entity spawn time: 1432 ms
+Total ANM2 loading time: 57 ms
+AnmCache memory usage: 9024000 bytes in 789 entries.
+CPU time spent on enemy queries: 0.36 seconds.
+Loading PersistentGameData from Steam Cloud: persistentgamedata1.dat.
+Loading PersistentGameData from disk: C:\Users\winddragon/Documents/My Games/Binding of Isaac Rebirth/persistentgamedata1.dat.
+local revision: 989. steamcloud revision: 989, using steamcloud save file.
+Loading PersistentGameData from Steam Cloud: persistentgamedata2.dat.
+Loading PersistentGameData from disk: C:\Users\winddragon/Documents/My Games/Binding of Isaac Rebirth/persistentgamedata2.dat.
+local revision: 74. steamcloud revision: 74, using steamcloud save file.
+Loading PersistentGameData from Steam Cloud: persistentgamedata3.dat.
+Loading PersistentGameData from disk: C:\Users\winddragon/Documents/My Games/Binding of Isaac Rebirth/persistentgamedata3.dat.
+local revision: 74. steamcloud revision: 0, using local save file.
+Loading PersistentGameData from Steam Cloud: persistentgamedata1.dat.
+Loading PersistentGameData from disk: C:\Users\winddragon/Documents/My Games/Binding of Isaac Rebirth/persistentgamedata1.dat.
+local revision: 989. steamcloud revision: 989, using steamcloud save file.
+CPU time spent on enemy queries: 0.36 seconds.

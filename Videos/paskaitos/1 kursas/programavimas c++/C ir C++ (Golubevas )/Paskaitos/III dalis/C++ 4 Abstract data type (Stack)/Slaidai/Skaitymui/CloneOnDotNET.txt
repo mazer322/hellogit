@@ -1,0 +1,57 @@
+2) TIP: Cloning
+---------------------------------------------------------
+One of the more subtle aspects of any object-oriented 
+language is cloning or making a deep copy of an object. 
+The base class Object in the .NET frameworks only has 
+built-in support for a "shallow" copy, which means any 
+internal objects inside a containing object are not 
+themselves cloned. This means that what you get by 
+calling MemberwiseClone does NOT give you a true clone 
+but rather a  sort of a Siamese twin of your object that 
+shares all common internal objects. This can be really 
+bad since changes to one of these pseudo-clones can 
+effect all its twins violating encapsulation for example.
+
+While you usually want to do a true deep copy -- a true 
+clone -- this can be tricky because internal objects 
+inside an object can have internal objects inside them 
+and so on:
+
+Great fleas have little fleas 
+Upon their backs to bite 'em 
+And little fleas have lesser fleas 
+And so ad infinitum 
+--August de Morgan (1806-1871), English Mathematician
+
+But here is a trick that makes it almost trivial to clone 
+objects that are serializeable no matter how complicated 
+the "flea structure."
+
+Simply use a binary serialization format to serialize the 
+object to a memory stream. Then deserialize from the 
+memory stream. The result is a very fast way to clone an 
+object no matter how complicated the internal structure 
+of the object you are trying to clone. (Don't use a SOAP 
+formatter -- that is way to slow and not needed here.)
+
+Here's some prototype code in VB.NET taken from my forthcoming book (http://www.amazon.com/exec/obidos/ASIN/1893115992/ref=sim_books/107-0262640-6514169):
+
+Public Function Clone() As Object Implements ICloneable.Clone
+  Dim myBinaryFormatter As New Formatters.Binary.BinaryFormatter()
+  Try
+    SerializeToBinary()
+    mSTream.Position = 0
+    Return myBinaryFormatter.Deserialize(mSTream)
+  Finally
+    mSTream.Close()
+  End Try
+  End Function
+  Sub SerializeToBinary()
+  Dim myBinaryFormatter As New Formatters.Binary.BinaryFormatter()
+  Try
+    mSTream = New MemoryStream()
+    myBinaryFormatter.Serialize(mSTream, Me)
+  Catch e As Exception
+    Throw e
+  End Try
+End Sub

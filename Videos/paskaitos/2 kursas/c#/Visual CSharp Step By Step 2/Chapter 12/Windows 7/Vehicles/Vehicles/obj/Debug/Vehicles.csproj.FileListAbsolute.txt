@@ -1,0 +1,5 @@
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 12\Windows 7\Vehicles\Vehicles\bin\Debug\Vehicles.exe
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 12\Windows 7\Vehicles\Vehicles\bin\Debug\Vehicles.pdb
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 12\Windows 7\Vehicles\Vehicles\obj\Debug\Vehicles.csprojResolveAssemblyReference.cache
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 12\Windows 7\Vehicles\Vehicles\obj\Debug\Vehicles.exe
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 12\Windows 7\Vehicles\Vehicles\obj\Debug\Vehicles.pdb

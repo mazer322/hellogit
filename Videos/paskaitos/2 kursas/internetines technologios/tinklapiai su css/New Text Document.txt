@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Sveiki atvyke į mano tinklapį width="104" height="142"</h1>
+
+<p>My first paragraph.</p>
+
+</body>
+</html>

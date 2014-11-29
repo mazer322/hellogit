@@ -1,0 +1,15 @@
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards - Complete\Cards\bin\Debug\Cards.exe.config
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards - Complete\Cards\bin\Debug\Cards.exe
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards - Complete\Cards\bin\Debug\Cards.pdb
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards - Complete\Cards\obj\Debug\MainWindow.baml
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards - Complete\Cards\obj\Debug\MainWindow.g.cs
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards - Complete\Cards\obj\Debug\App.g.cs
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards - Complete\Cards\obj\Debug\Cards_MarkupCompile.cache
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards - Complete\Cards\obj\Debug\Cards.g.resources
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards - Complete\Cards\obj\Debug\Cards.Properties.Resources.resources
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards - Complete\Cards\obj\Debug\Cards.csproj.GenerateResource.Cache
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards - Complete\Cards\obj\Debug\Cards.exe
+C:\Users\winddragon.WINDDRAGON-PC\Desktop\pratybos\Visual CSharp Step By Step\Chapter 18\Windows 7\Cards - Complete\Cards\obj\Debug\Cards.pdb
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 18\Windows 7\Cards - Complete\Cards\bin\Debug\Cards.exe.config
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 18\Windows 7\Cards - Complete\Cards\obj\Debug\Cards.exe
+C:\Users\winddragon.WINDDRAGON-PC\Videos\paskaitos\2 kursas\c#\Visual CSharp Step By Step 2\Chapter 18\Windows 7\Cards - Complete\Cards\obj\Debug\Cards.pdb
